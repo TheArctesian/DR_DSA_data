@@ -1,0 +1,39 @@
+id,label,kind,currency,value,value_fmt,qualifier,context
+alvin_benjamin,Alvin Benjamin (1920-2012),person,USD,2000000000.0,$2.00B,,"ate developer, founder/president of The Benjamin Companies ($2B+ combined development). Medea Benjamin's father. Estate contribute"
+german_gov,German Federal Government,concept,EUR,697000000.0,€697.00M,,Bundestag appropriation; EUR 697M/yr (2023) to all 6 party foundations via 5 ministries; fundin
+psf,People's Support Foundation (PSF),org,USD,111600000.0,$111.60M,,"Neville Roy Singham vehicle; Jodie Evans, President. $111.6M assets (FY2024). Funds JEF, People's Welfare Association, and"
+rls_berlin,Rosa-Luxemburg-Stiftung e.V. (Berlin),org,EUR,71200000.0,€71.20M,,"Die Linke's party foundation; EUR 71.2M (2024), ~95% German-government-funded; parent that controls"
+alvin_benjamin,Alvin Benjamin (1920-2012),person,USD,23803450.0,$23.80M,,"ed development). Medea Benjamin's father. Estate contributed $23,803,450 to Arc of Justice via two distributions (FY2015 $15M, FY2"
+rose_benjamin,Rose Benjamin,person,USD,23800000.0,$23.80M,,"90-PF Sched B) -- a distinct, smaller sum from Alvin's later $23.8M; external sources (InfluenceWatch, CRC) misattribute the found"
+jef,Justice and Education Fund (JEF),org,USD,20000000.0,$20.00M,>,'s own grant flow. || Singham's primary US funding vehicle; >$20M into the network
+singham,Neville Roy Singham,person,USD,20000000.0,$20.00M,>,"17); China-resident (Shanghai). Apex funder of the network: >$20M to People's Forum (2017-2022), routed via People's Support Found"
+rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,USD,19100000.0,$19.10M,~,501(c)(3); 275 Madison Ave NYC; 100% funded by RLS Berlin; ~$19.1M cumulative 2012-2025; staffed & funded DSA training
+alvin_benjamin,Alvin Benjamin (1920-2012),person,USD,15000000.0,$15.00M,,"$23,803,450 to Arc of Justice via two distributions (FY2015 $15M, FY2019 $8.8M)."
+krouth,Kristine Teresa Krouth,person,USD,14900000.0,$14.90M,,"fare Association (PWA), a Madison WI 501(c)(4) that received $14.9M in 2022 from People's Support Foundation (PSF), the Singham-ne"
+rose_benjamin,Rose Benjamin,person,USD,10863060.0,$10.86M,,"in's first wife, Medea Benjamin's mother. Estate contributed $10,863,060 to the Benjamin Fund in FY2010 (990-PF Sched B) -- a dist"
+alvin_benjamin,Alvin Benjamin (1920-2012),person,USD,8800000.0,$8.80M,,"to Arc of Justice via two distributions (FY2015 $15M, FY2019 $8.8M)."
+afgj,Alliance for Global Justice,org,USD,5200000.0,$5.20M,~,"); Arc of Justice grantee ($271K+, FY2009-22) || Tucson AZ; ~$5.2M rev; fiscal sponsor of ~130-150 projects; successor to Nicaragu"
+tricontinental,Tricontinental: Institute for Social Research,org,USD,3015000.0,$3.02M,,"|| Prashad-led; personnel collaborated with RLS South Asia; $3.015M to People's Forum (2018) || us_501c3_active; report §I-III, V"
+hbs,Heinrich Boell Foundation (HBS),org,USD,1780000.0,$1.78M,~,Greens-affiliated; ~$1.78M FY2024; climate/democracy/gender
+fes,Friedrich Ebert Stiftung Inc (FES),org,USD,1230000.0,$1.23M,~,SPD-affiliated; ~$1.23M FY2024; transatlantic policy/labor
+kas,Konrad Adenauer Stiftung Inc (KAS),org,USD,882000.0,$882K,~,CDU-affiliated; ~$882K FY2024; transatlantic relations
+social_good_fund,Social Good Fund,org,USD,855000.0,$855K,,"CA fiscal sponsor/DAF operator, 100+ sponsored projects. $855K cumulative from AoJ FY2018-2022 (990-PF Sched I). Ultimate proj"
+grassroots_intl,Grassroots International,org,USD,750000.0,$750K,,"min's foundation, funds CODEPINK/AFGJ) grantee with at least $750K documented ($250K in 2020, $500K in 2022, both 'general support"
+grassroots_intl,Grassroots International,org,USD,500000.0,$500K,,"AFGJ) grantee with at least $750K documented ($250K in 2020, $500K in 2022, both 'general support'), among AoJ's largest grantees"
+global_exchange,Global Exchange,org,USD,405000.0,$405K,,"er, Irgens-Moller. AoJ's largest grantee pre-2015 era ($60K-$405K/yr) while Irgens-Moller simultaneously ran GE and administered A"
+ccr,Center for Constitutional Rights,org,USD,400000.0,$400K,,"Received $400,000 from AoJ ($200,000 FY2020 + $200,000 FY2022) per 990-PF Sche"
+jef,Justice and Education Fund (JEF),org,USD,360591.0,$361K,,"rantmaking vehicle. Parallel-funds AoJ's grantees CODEPINK ($360,591, 2021-2022) and AFGJ ($10,000, 2022), independent of AoJ's ow"
+afgj,Alliance for Global Justice,org,USD,271000.0,$271K,,"l sponsor umbrella (~130 projects); Arc of Justice grantee ($271K+, FY2009-22) || Tucson AZ; ~$5.2M rev; fiscal sponsor of ~130-15"
+grassroots_intl,Grassroots International,org,USD,250000.0,$250K,,"unds CODEPINK/AFGJ) grantee with at least $750K documented ($250K in 2020, $500K in 2022, both 'general support'), among AoJ's lar"
+ccr,Center for Constitutional Rights,org,USD,200000.0,$200K,,"Received $400,000 from AoJ ($200,000 FY2020 + $200,000 FY2022) per 990-PF Schedule I, verified aga"
+ccr,Center for Constitutional Rights,org,USD,200000.0,$200K,,"Received $400,000 from AoJ ($200,000 FY2020 + $200,000 FY2022) per 990-PF Schedule I, verified against grants.duckd"
+chua,Heidi Chua,person,USD,60000.0,$60K,~,Office Manager RLS-NYC FY2013-2018 (~$60K/yr) -> DSA Assistant to National Director Jan 2019+; active DSA
+global_exchange,Global Exchange,org,USD,60000.0,$60K,,"Danaher, Irgens-Moller. AoJ's largest grantee pre-2015 era ($60K-$405K/yr) while Irgens-Moller simultaneously ran GE and administe"
+wider,Phil Wider,person,USD,56000.0,$56K,,"tion disclosures (Philip Wider, Director/treasurer, $32,667-$56,000/yr); JEF is a Neville Singham/People's Support Foundation gran"
+wider,Phil Wider,person,USD,32667.0,$33K,,"compensation disclosures (Philip Wider, Director/treasurer, $32,667-$56,000/yr); JEF is a Neville Singham/People's Support Founda"
+irgens_moller,Kirsten Irgens-Moller,person,USD,10000.0,$10K,,"ecretary. Only compensated Benjamin Fund officer (Secretary, $10K/yr FY2006-2013); lived at Benjamin/Danaher's SF address. IRS fla"
+jef,Justice and Education Fund (JEF),org,USD,10000.0,$10K,,"nds AoJ's grantees CODEPINK ($360,591, 2021-2022) and AFGJ ($10,000, 2022), independent of AoJ's own grant flow. || Singham's prim"
+niac,National Iranian American Council (NIAC),org,USD,10000.0,$10K,,"FARA referral (Cotton/Cruz/Braun); Arc of Justice grantee ($10K FY2015, $10K FY2016 -- funding relationship omitted from edges pe"
+niac,National Iranian American Council (NIAC),org,USD,10000.0,$10K,,"al (Cotton/Cruz/Braun); Arc of Justice grantee ($10K FY2015, $10K FY2016 -- funding relationship omitted from edges per relation-t"
+rub_changingfrequencies,changingFrequencies,org,USD,500.0,$500,>,d (fiscal sponsor unnamed on org site; tax-deductible gifts >$500 routed through a third party per its own donation page); named i
+trochowski,Daniela Trochowski,person,USD,1.3,$1,,"Executive Director, RLS e.V. Berlin; oversees the $1.3-2.5M/yr transfers to RLS-NYC"

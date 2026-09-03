@@ -1,0 +1,82 @@
+id,label,kind,n_slices,slices,unique_neighbors,betweenness
+afgj,Alliance for Global Justice,org,5,afgj-interlock|afgj-projects|hatuey|iran-network|latam-solidarity,150,84732.2
+pf,The People's Forum,org,5,hatuey|latam-solidarity|rls-germany|rubio-cuba|singham-spine,29,6536.7
+codepink,CODEPINK,org,4,iran-network|latam-solidarity|rubio-cuba|singham-spine,32,12194.4
+psl,Party for Socialism & Liberation,org,4,hatuey|latam-solidarity|rubio-cuba|singham-spine,24,3763.4
+singham,Neville Roy Singham,person,4,hatuey|iran-network|rubio-cuba|singham-spine,15,1649.1
+tricontinental,Tricontinental: Institute for Social Research,org,4,latam-solidarity|rls-germany|rubio-cuba|singham-spine,15,2536.4
+delacruz,Claudia De la Cruz,person,4,hatuey|latam-solidarity|rubio-cuba|singham-spine,14,1890.6
+delossantos,Manolo de los Santos,person,4,hatuey|latam-solidarity|rubio-cuba|singham-spine,7,296.1
+benjamin,Medea Benjamin,person,3,iran-network|rubio-cuba|singham-spine,24,3994.8
+dsa,Democratic Socialists of America,org,3,latam-solidarity|rls-germany|rubio-cuba,21,10446.3
+lariva,Gloria La Riva,person,3,afgj-interlock|hatuey|singham-spine,15,1391.5
+evans,Jodie Evans,person,3,iran-network|rubio-cuba|singham-spine,10,698.7
+ben_becker,Ben Becker,person,3,hatuey|latam-solidarity|singham-spine,7,250.8
+prashad,Vijay Prashad,person,3,rls-germany|rubio-cuba|singham-spine,6,1624.4
+p_assata_s_daughters,Assata’s Daughters,project,3,afgj-interlock|afgj-projects|rubio-cuba,5,1024.6
+answer,ANSWER Coalition,org,2,hatuey|latam-solidarity,23,3880.0
+icap,ICAP,org,2,hatuey|rubio-cuba,19,4911.8
+iran,Islamic Republic of Iran (state),concept,2,iran-network|singham-spine,19,2149.3
+jef,Justice and Education Fund (JEF),org,2,iran-network|singham-spine,14,4354.8
+brian_becker,Brian Becker,person,2,hatuey|singham-spine,11,1299.4
+global_exchange,Global Exchange,org,2,iran-network|rubio-cuba,9,873.6
+nlg,National Lawyers Guild,org,2,latam-solidarity|rubio-cuba,8,2143.0
+p_chicago_housing_justice_league,Chicago Housing Justice League,project,2,afgj-interlock|afgj-projects,8,3979.7
+p_world_can_t_wait,World Can’t Wait,project,2,afgj-interlock|afgj-projects,8,1371.3
+hub_assata_shakur,Assata Shakur,person,2,afgj-interlock|rubio-cuba,7,811.7
+ma,"Simon Ma, MD, MPH",person,2,afgj-interlock|hatuey,7,47.6
+p_popular_resistance,Popular Resistance,project,2,afgj-interlock|afgj-projects,7,582.5
+pflp,Popular Front for the Liberation of Palestine (PFLP),org,2,iran-network|rubio-cuba,7,740.2
+richard_becker,Richard Becker,person,2,hatuey|singham-spine,7,242.2
+viq,"Rachel Viqueira, MHS",person,2,afgj-interlock|hatuey,7,47.6
+fsln,FSLN — Sandinista National Liberation Front,org,2,latam-solidarity|rubio-cuba,6,4088.1
+p_coalition_of_women_for_peace,Coalition of Women for Peace,project,2,afgj-interlock|afgj-projects,6,5823.8
+p_interoccupy,InterOccupy,project,2,afgj-interlock|afgj-projects,6,993.2
+p_refuse_fascism,Refuse Fascism,project,2,afgj-interlock|afgj-projects,6,1095.1
+psf,People's Support Foundation (PSF),org,2,iran-network|singham-spine,6,1163.3
+bap,Black Alliance for Peace,org,2,latam-solidarity|rubio-cuba,5,444.6
+garcia,Karina Garcia,person,2,hatuey|singham-spine,5,45.4
+marsh,"Nadia Marsh, MD",person,2,afgj-interlock|hatuey,5,14.9
+p_arizona_palestine_solidarity_alliance,Arizona Palestine Solidarity Alliance,project,2,afgj-interlock|afgj-projects,5,760.6
+p_hands_up_united,Hands Up United,project,2,afgj-interlock|afgj-projects,5,2971.0
+p_just_info,Just Info,project,2,afgj-interlock|afgj-projects,5,1119.8
+p_national_network_opposing_the_militari,National Network Opposing the Militarization of Youth,project,2,afgj-interlock|afgj-projects,5,2527.8
+tighe_barry,Tighe Barry,person,2,iran-network|singham-spine,5,524.4
+jacobin,Jacobin,org,2,rls-germany|rubio-cuba,4,1642.3
+p_adastra,AdAstra,project,2,afgj-interlock|afgj-projects,4,1757.2
+p_cindy_sheehan_s_soapbox,Cindy Sheehan’s Soapbox,project,2,afgj-interlock|afgj-projects,4,649.0
+p_kevin_zeese_emerging_activists_fund,Kevin Zeese Emerging Activists Fund,project,2,afgj-interlock|afgj-projects,4,235.9
+p_kindred_connections,Kindred Connections,project,2,afgj-interlock|afgj-projects,4,1996.0
+p_march_4_racial_justice,March 4 Racial Justice,project,2,afgj-interlock|afgj-projects,4,1005.4
+p_movement_net_lab,Movement Net Lab,project,2,afgj-interlock|afgj-projects,4,877.7
+p_queer_food_foundation,Queer Food Foundation,project,2,afgj-interlock|afgj-projects,4,1503.0
+p_south_bronx_unite,South Bronx Unite,project,2,afgj-interlock|afgj-projects,4,1997.5
+p_taking_black_pride,Taking Black Pride,project,2,afgj-interlock|afgj-projects,4,1001.5
+p_youth_vs_apocalypse,Youth Vs Apocalypse,project,2,afgj-interlock|afgj-projects,4,1987.7
+p_alianza_ind_gena_sin_fronteras_indigen,Alianza Indígena Sin Fronteras / Indigenous Alliance Without Borders,project,2,afgj-interlock|afgj-projects,3,1003.0
+p_black_lives_matter_oklahoma_city,Black Lives Matter-Oklahoma City,project,2,afgj-interlock|afgj-projects,3,1057.9
+p_black_movement_law_project,Black Movement Law Project,project,2,afgj-interlock|afgj-projects,3,163.8
+p_black_trans_travel_fund,Black Trans Travel Fund,project,2,afgj-interlock|afgj-projects,3,605.5
+p_change_links_newspaper,Change-Links Newspaper,project,2,afgj-interlock|afgj-projects,3,1057.4
+p_chicago_housing_initiative,Chicago Housing Initiative,project,2,afgj-interlock|afgj-projects,3,1003.0
+p_orinoco_tribune,Orinoco Tribune,project,2,afgj-interlock|afgj-projects,3,580.5
+p_poor_people_s_economic_human_rights_ca,Poor People’s Economic Human Rights Campaign,project,2,afgj-interlock|afgj-projects,3,526.2
+p_stop_mass_incarceration_network,Stop Mass Incarceration Network,project,2,afgj-interlock|afgj-projects,3,606.1
+p_trans_women_of_color_solidarity_networ,Trans Women of Color Solidarity Network,project,2,afgj-interlock|afgj-projects,3,499.5
+ips,Institute for Policy Studies,org,2,rls-germany|singham-spine,2,13.9
+p_black_and_pink_ma,Black and Pink MA,project,2,afgj-interlock|afgj-projects,2,744.0
+p_colorado_freedom_fund,Colorado Freedom Fund,project,2,afgj-interlock|afgj-projects,2,504.8
+p_corporate_genome_project,Corporate Genome Project,project,2,afgj-interlock|afgj-projects,2,250.5
+p_friends_of_asociaci_n_de_trabajadores_,Friends of Asociación de Trabajadores Campesinos,project,2,afgj-interlock|afgj-projects,2,246.5
+p_instituto_agroecol_gico_latinoamerican,Instituto Agroecológico Latinoamericano–Mesoamericana (IALA Mesoamerica),project,2,afgj-interlock|afgj-projects,2,502.0
+p_justice_for_all_coalition,Justice for All Coalition,project,2,afgj-interlock|afgj-projects,2,502.0
+p_los_angeles_community_action_network,Los Angeles Community Action Network,project,2,afgj-interlock|afgj-projects,2,502.0
+p_nappy_roots_books,Nappy Roots Books,project,2,afgj-interlock|afgj-projects,2,0.0
+p_never_again_action,Never Again Action,project,2,afgj-interlock|afgj-projects,2,555.9
+p_real_food_generation,Real Food Generation,project,2,afgj-interlock|afgj-projects,2,250.5
+p_splitseed_productions,SplitSeed Productions,project,2,afgj-interlock|afgj-projects,2,241.9
+p_sustainable_orphanages_for_haitian_you,Sustainable Orphanages for Haitian Youth,project,2,afgj-interlock|afgj-projects,2,283.7
+p_thompson_house_tucson,Thompson House Tucson,project,2,afgj-interlock|afgj-projects,2,502.0
+p_united_students_against_sweatshops,United Students Against Sweatshops,project,2,afgj-interlock|afgj-projects,2,114.4
+p_werk_for_peace,WERK for Peace,project,2,afgj-interlock|afgj-projects,2,660.4
+yee,Amanda Yee,person,2,hatuey|singham-spine,2,0.0

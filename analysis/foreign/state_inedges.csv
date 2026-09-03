@@ -1,0 +1,126 @@
+state_id,state,source,source_label,source_kind,relation,confidence,edge_label
+china,China,codepink,CODEPINK,org,advocates,inferred,advocates
+china,China,russia,Russia,concept,aligned,inferred,aligned
+china,China,singham,Neville Roy Singham,person,aligned,inferred,China-resident
+china,China,xiao,Sheila Xiao,person,aligned,inferred,pro-Beijing op-ed; taught China course
+china,China,anderson-figueroa,Jo Anderson-Figueroa,person,foreign_tie,inferred,China tie
+china,China,belen,Matthew Matt Belen,person,foreign_tie,inferred,China tie
+china,China,ben_becker,Ben Becker,person,foreign_tie,inferred,China tie
+china,China,benjamin,Medea Benjamin,person,foreign_tie,inferred,China tie
+china,China,brian_becker,Brian Becker,person,foreign_tie,inferred,China tie
+china,China,chak,Tings Chak,person,foreign_tie,inferred,China tie
+china,China,codepink,CODEPINK,org,foreign_tie,inferred,foreign tie
+china,China,croce,STEIN-DELLA CROCE,person,foreign_tie,inferred,China tie
+china,China,evans,Jodie Evans,person,foreign_tie,inferred,China tie
+china,China,garcia,Karina Garcia,person,foreign_tie,inferred,"director/treasurer, Singham JEF"
+china,China,goodwin,Alicia Thilani Singham Goodwin,person,foreign_tie,inferred,China tie
+china,China,grenyion,Kristen Grenyion,person,foreign_tie,inferred,China tie
+china,China,henderson,Rita Henderson,person,foreign_tie,inferred,China tie
+china,China,hrizi,Nathalie Patricia Hrizi,person,foreign_tie,inferred,China tie
+china,China,hu,Rachel Hu,person,foreign_tie,inferred,China tie
+china,China,kleiner,Franziska Kleiner,person,foreign_tie,inferred,ran United Community Fund (Thoughtworks)
+china,China,richard_becker,Richard Becker,person,foreign_tie,inferred,China tie
+china,China,singham,Neville Roy Singham,person,foreign_tie,inferred,China tie
+china,China,singham_shanti,Shanti Singham,person,foreign_tie,inferred,China tie
+china,China,tighe_barry,Tighe Barry,person,foreign_tie,inferred,"visited China 2026, praised CCP"
+china,China,p_national_immigrant_solidarity_network,National Immigrant Solidarity Network,project,organized,inferred,organized
+china,China,rub_p_robert_f_williams,Robert F. Williams,person,traveled_to,inferred,traveled to
+cuba,Cuba,rub_alpha_66,Alpha 66,org,active_in,inferred,active in
+cuba,Cuba,afgj,Alliance for Global Justice,org,advocated_for,inferred,advocated for
+cuba,Cuba,rub_cuban_american_national_fo,Cuban American National Foundation,org,advocated_isolation_of,inferred,advocated isolation of
+cuba,Cuba,benjamin,Medea Benjamin,person,aided,inferred,aided
+cuba,Cuba,codepink,CODEPINK,org,aided,inferred,aided
+cuba,Cuba,jordan,James Patrick Jordan,person,attended,inferred,attended
+cuba,Cuba,brian_becker,Brian Becker,person,defended,inferred,defended
+cuba,Cuba,lariva,Gloria La Riva,person,defends,inferred,defends
+cuba,Cuba,rub_ifco_pastors_for_peace,IFCO / Pastors for Peace,org,delegation,confirmed,8 delegations (1992–2022)
+cuba,Cuba,rub_international_may_day_brig,International May Day Brigade,org,delegation,confirmed,1 delegations
+cuba,Cuba,hatuey,The Hatuey Project,project,delivered,inferred,delivered
+cuba,Cuba,hatuey,The Hatuey Project,project,donated,inferred,donated
+cuba,Cuba,hub_assata_shakur,Assata Shakur,person,exiled,inferred,exiled
+cuba,Cuba,baker_gordon,General Gordon Baker Jr.,person,foreign_tie,inferred,Cuba tie
+cuba,Cuba,baptist,William Willie Baptist Jr.,person,foreign_tie,inferred,Cuba tie
+cuba,Cuba,bounds,Tajee Bounds,person,foreign_tie,inferred,led BLM delegation to Cuba
+cuba,Cuba,craig,Hannah Priscilla Craig,person,foreign_tie,inferred,Cuba tie
+cuba,Cuba,delossantos,Manolo de los Santos,person,foreign_tie,inferred,foreign tie
+cuba,Cuba,hrizi,Nathalie Patricia Hrizi,person,foreign_tie,inferred,Cuba tie
+cuba,Cuba,rub_zimbabwe_african_people_s,Zimbabwe African People's Union,org,foreign_tie,inferred,Soviet/Cuban-trained ZPRA (historical)
+cuba,Cuba,venezuela,Venezuela,concept,foreign_tie,inferred,foreign tie
+cuba,Cuba,ipa,International Peoples' Assembly,concept,hosted,inferred,hosted
+cuba,Cuba,harris,Roger D. Harris,person,interest,inferred,interest
+cuba,Cuba,tricontinental,Tricontinental: Institute for Social Research,org,named_after,inferred,named after 1966 Havana conference
+cuba,Cuba,rub_brothers_to_the_rescue,Brothers to the Rescue,org,opposes,inferred,opposes
+cuba,Cuba,rub_cuban_american_national_fo,Cuban American National Foundation,org,opposes,inferred,opposes
+cuba,Cuba,rub_fair_play_for_cuba_committ,Fair Play for Cuba Committee,org,organized trips to,inferred,organized trips to
+cuba,Cuba,hub_assata_shakur,Assata Shakur,person,political_asylum,inferred,political asylum
+cuba,Cuba,rub_venceremos_brigade,Venceremos Brigade,org,sends_volunteers_to,confirmed,9 delegations (1969–2026)
+cuba,Cuba,hatuey,The Hatuey Project,project,solidarity,confirmed,11 delegations (2022–2026)
+cuba,Cuba,rub_cuban_mission_to_the_un,Cuban Mission to the UN,org,state_organ,inferred,Cuba's UN mission (MINREX)
+cuba,Cuba,lariva,Gloria La Riva,person,support,inferred,support
+cuba,Cuba,rub_national_network_on_cuba,National Network on Cuba,org,supports,confirmed,6 delegations (2000–2026)
+cuba,Cuba,global_exchange,Global Exchange,org,travel,confirmed,23 delegations (1990–2026)
+cuba,Cuba,rub_p_robert_f_williams,Robert F. Williams,person,traveled_to,inferred,traveled to
+cuba,Cuba,delacruz,Claudia De la Cruz,person,visited,inferred,visited
+cuba,Cuba,jordan,James Patrick Jordan,person,visited,inferred,visited
+rub_hezbollah,Hezbollah,iran,Islamic Republic of Iran (state),concept,affiliation,inferred,affiliation
+rub_hezbollah,Hezbollah,irgc,Islamic Revolutionary Guard Corps (IRGC),org,affiliation,inferred,affiliation
+rub_hezbollah,Hezbollah,rub_palestinian_islamic_jihad,Palestinian Islamic Jihad,org,foreign_tie,inferred,foreign tie
+iran,Iran,benjamin,Medea Benjamin,person,attended_delegation,confirmed,"Self-reports decades of Iran trips, ~6/yr 2024-26"
+iran,Iran,rub_p_paul_larudee,Paul Larudee,person,born_in,inferred,born in
+iran,Iran,ann_wright,Ann Wright,person,foreign_tie,confirmed,"co-organized Feb 2019 CODEPINK Tehran delegation, met FM Zarif, FBI-interrogated on return"
+iran,Iran,benjamin,Medea Benjamin,person,foreign_tie,confirmed,"Press TV (61 CDR contacts), 2008 & 2019 Tehran delegations, FM Zarif meeting, New Horizon 2014, FBI/FARA interrogation"
+iran,Iran,delacruz,Claudia De la Cruz,person,foreign_tie,inferred,Iran tie
+iran,Iran,delossantos,Manolo de los Santos,person,foreign_tie,inferred,praised Iran 'resistance'; Times Sq protests
+iran,Iran,evans,Jodie Evans,person,foreign_tie,inferred,Arc of Justice registered agent; no direct personal Iran-contact receipt found (financial/legal infrastructure tie only)
+iran,Iran,jvp,Jewish Voice for Peace (JVP),org,foreign_tie,inferred,weak: council member at 2024 Iran meeting
+iran,Iran,leila_zand,Leila Zand,person,foreign_tie,confirmed,CODEPINK Director of Citizen Diplomacy with Iran; arranged 2008 & 2019 Iranian Foreign Ministry meetings
+iran,Iran,niac,National Iranian American Council (NIAC),org,foreign_tie,confirmed,"Iranian-American advocacy org; founder arranged Congressional meetings for FM Zarif; Senate FARA referral (access/contact tie, not funding)"
+iran,Iran,reyes,Karla Reyes,person,foreign_tie,inferred,Iran tie
+iran,Iran,stein,Abby Stein (JVP Rabbinical Council),person,foreign_tie,confirmed,"attended Sept 2024 NYC meeting convened by Iranian government with President Pezeshkian, days before Iran's missile strikes on Israel"
+iran,Iran,tighe_barry,Tighe Barry,person,foreign_tie,confirmed,"CODEPINK Art Director; 2015 Iranian Red Crescent ship delegation, October 2019 Tehran delegation"
+iran,Iran,press_tv,Press TV,org,located_in,inferred,located in
+iran,Iran,zarif,Mohammad Javad Zarif,person,role,inferred,role
+iran,Iran,global_exchange,Global Exchange,org,travel,inferred,travel
+iran,Iran,codepink,CODEPINK,org,traveled_to,inferred,traveled to
+russia,Russia,belen,Matthew Matt Belen,person,foreign_tie,inferred,Russia tie
+russia,Russia,hu,Rachel Hu,person,foreign_tie,inferred,Russia tie
+russia,Russia,lariva,Gloria La Riva,person,foreign_tie,inferred,Russia tie
+russia,Russia,puryear,Eugene Puryear,person,foreign_tie,inferred,Russia tie
+russia,Russia,rub_p_george_galloway,George Galloway,person,foreign_tie,inferred,foreign tie
+russia,Russia,psl,Party for Socialism & Liberation,org,refused_to_denounce,inferred,refused to denounce
+tricontinental,Tricontinental: Institute for Social Research,delossantos,Manolo de los Santos,person,associate,inferred,associate
+tricontinental,Tricontinental: Institute for Social Research,btm,BreakThrough News,org,collaborator,inferred,collaborator
+tricontinental,Tricontinental: Institute for Social Research,bugni,Renata Porto Bugni,person,deputy_director,inferred,deputy director
+tricontinental,Tricontinental: Institute for Social Research,henderson,Rita Henderson,person,director,inferred,director
+tricontinental,Tricontinental: Institute for Social Research,prashad,Vijay Prashad,person,director,confirmed,"Director, Tricontinental"
+tricontinental,Tricontinental: Institute for Social Research,psl,Party for Socialism & Liberation,org,foreign_tie,inferred,foreign tie
+tricontinental,Tricontinental: Institute for Social Research,jef,Justice and Education Fund (JEF),org,funds,inferred,Singham-founded
+tricontinental,Tricontinental: Institute for Social Research,fernandes,Marco Fernandes,person,member,confirmed,role
+tricontinental,Tricontinental: Institute for Social Research,prashad,Vijay Prashad,person,member,confirmed,role
+tricontinental,Tricontinental: Institute for Social Research,delossantos,Manolo de los Santos,person,researcher,inferred,researcher
+tricontinental,Tricontinental: Institute for Social Research,chak,Tings Chak,person,role,inferred,role
+tricontinental,Tricontinental: Institute for Social Research,prashad,Vijay Prashad,person,role,confirmed,Executive Director
+tricontinental,Tricontinental: Institute for Social Research,ron,Carlos Ron,person,role,inferred,Board/team member (Tricontinental) — receipt pending; not on cached Ron/Tricont pages
+tricontinental,Tricontinental: Institute for Social Research,singham,Neville Roy Singham,person,role,confirmed,Funder / network architect
+tricontinental,Tricontinental: Institute for Social Research,croce,STEIN-DELLA CROCE,person,secretary,inferred,secretary
+tricontinental,Tricontinental: Institute for Social Research,taylor,Nancy Taylor,person,secretary,inferred,secretary
+venezuela,Venezuela,per_dakotah_lilly,Dakotah Lilly,person,attended,inferred,attended
+venezuela,Venezuela,maduro,Nicolás Maduro,person,candidate,inferred,candidate
+venezuela,Venezuela,brian_becker,Brian Becker,person,defended,inferred,defended
+venezuela,Venezuela,psl,Party for Socialism & Liberation,org,defended,inferred,defended
+venezuela,Venezuela,global_exchange,Global Exchange,org,delegation,confirmed,2 delegations
+venezuela,Venezuela,delacruz,Claudia De la Cruz,person,foreign_tie,inferred,Venezuela tie
+venezuela,Venezuela,lariva,Gloria La Riva,person,foreign_tie,inferred,Venezuela tie
+venezuela,Venezuela,rub_p_gustavo_petro,Gustavo Petro,person,foreign_tie,inferred,foreign tie
+venezuela,Venezuela,singham,Neville Roy Singham,person,foreign_tie,inferred,Venezuela tie
+venezuela,Venezuela,p_orinoco_tribune,Orinoco Tribune,project,from,inferred,from
+venezuela,Venezuela,ipa,International Peoples' Assembly,concept,hosted,inferred,hosted
+venezuela,Venezuela,harris,Roger D. Harris,person,interest,inferred,interest
+venezuela,Venezuela,hub_hugo_chavez,Hugo Chavez,person,president,inferred,president
+venezuela,Venezuela,maduro,Nicolás Maduro,person,president,inferred,president
+venezuela,Venezuela,hub_hugo_chavez,Hugo Chavez,person,role,inferred,role
+venezuela,Venezuela,maduro,Nicolás Maduro,person,role,inferred,role
+venezuela,Venezuela,answer,ANSWER Coalition,org,sponsor,inferred,sponsor
+venezuela,Venezuela,brian_becker,Brian Becker,person,sponsor,inferred,sponsor
+venezuela,Venezuela,codepink,CODEPINK,org,visited,inferred,visited
+venezuela,Venezuela,per_cindy_sheehan,Cindy Sheehan,person,visited,inferred,visited

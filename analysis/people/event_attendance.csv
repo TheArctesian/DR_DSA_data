@@ -1,0 +1,49 @@
+event,event_label,participant,participant_label,participant_kind,relation,confidence,edge_label
+ev_antifa_festival_2025,International Anti-Fascist Festival (Caracas Jan 9-11 2025),ipa,International Peoples' Assembly,concept,organized,inferred,"organizer attribution via IPA-affiliated peoplesdispatch (bot-blocked); festival+Maduro patronage cache-confirmed, IPA-as-organizer not independently cached"
+ev_antifa_festival_2025,International Anti-Fascist Festival (Caracas Jan 9-11 2025),psl,Party for Socialism & Liberation,org,attended,confirmed,attended Caracas Anti-Fascist Fest (2025)
+ev_antifa_festival_2025,International Anti-Fascist Festival (Caracas Jan 9-11 2025),tfa,Task Force on the Americas,org,attended,inferred,org-level via TFA-active delegates Harris + Paul; report names individuals not a TFA delegation
+ev_antifa_festival_2025,International Anti-Fascist Festival (Caracas Jan 9-11 2025),uspc,US Peace Council,org,attended,confirmed,R. Harris attended (Jan 2025)
+ev_antifa_festival_2025,International Anti-Fascist Festival (Caracas Jan 9-11 2025),dpaul,David Paul,person,attended,confirmed,Sanctions Kill / Task Force on the Americas / DSA delegate at the anti-fascist conference
+ev_antifa_festival_2025,International Anti-Fascist Festival (Caracas Jan 9-11 2025),clarkgollub,Jill Clark-Gollub,person,hosted,confirmed,moderated VSN Venezuela webinar (2025)
+ev_antifa_festival_2025,International Anti-Fascist Festival (Caracas Jan 9-11 2025),maduro,Nicolás Maduro,person,patron,confirmed,state patron (coincided w/ inauguration)
+ev_antifa_festival_2025,International Anti-Fascist Festival (Caracas Jan 9-11 2025),harris,Roger D. Harris,person,attended,confirmed,US Peace Council; attended (Jan 2025)
+ev_caracas_antifa_2024,Antifascist Congress of Caracas (Nov 28 2024),maduro,Nicolás Maduro,person,led,confirmed,'bravely led by President Maduro' (declaration)
+ev_fsp_caracas_2019,25th Foro de São Paulo (Caracas 2019),fsp,Foro de São Paulo,concept,convened,confirmed,25th Encuentro
+ev_fsp_caracas_2019,25th Foro de São Paulo (Caracas 2019),frso,Freedom Road Socialist Organization,org,attended,confirmed,delegation led by Tom Burke
+ev_fsp_caracas_2019,25th Foro de São Paulo (Caracas 2019),maduro,Nicolás Maduro,person,addressed,confirmed,closing address
+ev_fsp_caracas_2019,25th Foro de São Paulo (Caracas 2019),burke,Tom Burke,person,led,confirmed,led FRSO delegation
+ev_ipa_founding_2019,IPA Founding Assembly (Caracas Feb 2019),ipa,International Peoples' Assembly,concept,founded_at,confirmed,founding assembly Caracas Feb 2019
+ev_ipa_founding_2019,IPA Founding Assembly (Caracas Feb 2019),delacruz,Claudia De la Cruz,person,attended,confirmed,attended IPA Caracas 2019
+ev_ipa_founding_2019,IPA Founding Assembly (Caracas Feb 2019),maduro,Nicolás Maduro,person,patron,confirmed,Bolivarian-Revolution solidarity framing
+ev_maduro_inaug_2025,Maduro 3rd Inauguration (Jan 10 2025),ortega,Daniel Ortega,person,attended,confirmed,only sitting presidents present (w/ Díaz-Canel)
+ev_maduro_inaug_2025,Maduro 3rd Inauguration (Jan 10 2025),valente,Mónica Valente,person,attended,confirmed,Foro de São Paulo secretary
+ev_maduro_inaug_2025,Maduro 3rd Inauguration (Jan 10 2025),maduro,Nicolás Maduro,person,inaugurated,confirmed,3rd inauguration Jan 10 2025
+ev_nica_delegation_2021,AFGJ Intl Delegation to Nicaragua (Jul 2021),answer,ANSWER Coalition,org,cosponsored,confirmed,co-sponsor
+ev_nica_delegation_2021,AFGJ Intl Delegation to Nicaragua (Jul 2021),afgj,Alliance for Global Justice,org,organized,confirmed,organized (via Nicaragua Network)
+ev_nica_delegation_2021,AFGJ Intl Delegation to Nicaragua (Jul 2021),bap,Black Alliance for Peace,org,cosponsored,confirmed,co-sponsor
+ev_nica_delegation_2021,AFGJ Intl Delegation to Nicaragua (Jul 2021),nicanet,Nicaragua Network,org,organized,confirmed,organized
+ev_nica_election_2021,Nicaragua General Election (Nov 2021),afgj,Alliance for Global Justice,org,endorsed,inferred,'declared full confidence' (no formal observer status)
+ev_nica_election_2021,Nicaragua General Election (Nov 2021),ortega,Daniel Ortega,person,reelected,confirmed,re-elected (no independent observers permitted)
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),answer,ANSWER Coalition,org,endorsed,confirmed,statement signatory
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),afgj,Alliance for Global Justice,org,accompanied,confirmed,organized 17-person accompaniment (Jul 21-31)
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),afgj,Alliance for Global Justice,org,endorsed,confirmed,statement signatory
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),bap,Black Alliance for Peace,org,endorsed,confirmed,statement signatory
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),codepink,CODEPINK,org,endorsed,confirmed,statement signatory
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),dsa,Democratic Socialists of America,org,endorsed,confirmed,statement signatory
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),dsa,Democratic Socialists of America,org,observed,confirmed,credentialed observers (DSA Intl Committee)
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),nlg,National Lawyers Guild,org,observed,confirmed,5-person observer delegation
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),psl,Party for Socialism & Liberation,org,endorsed,confirmed,statement signatory
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),tfa,Task Force on the Americas,org,endorsed,confirmed,statement signatory
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),pf,The People's Forum,org,convened_solidarity,confirmed,hosted 41-org sign-on (Jul 27 2024)
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),uspc,US Peace Council,org,observed,confirmed,observers Harris + Azad
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),vsn,Venezuela Solidarity Network,org,endorsed,confirmed,statement signatory
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),clarkgollub,Jill Clark-Gollub,person,accompanied,confirmed,AFGJ delegate
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),delossantos,Manolo de los Santos,person,monitored,inferred,described as 'election monitor' (unverified-verbatim)
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),nunez,Marlon Matthew Nunez,person,accompanied,confirmed,AFGJ delegate
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),harris,Roger D. Harris,person,observed,confirmed,eyewitness observer
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),kuang,Savannah Kuang,person,claimed_accredited,inferred,sole claimed accredited (single opinion source)
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),camacaro,William Camacaro,person,accompanied,confirmed,AFGJ delegate
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),souers,Wyatt Souers,person,accompanied,confirmed,IPA accompanier
+ev_wfys_2005,16th World Festival of Youth & Students (Caracas 2005),psl,Party for Socialism & Liberation,org,attended,confirmed,delegation (700 US delegates)
+ev_wfys_2005,16th World Festival of Youth & Students (Caracas 2005),wfdy,World Federation of Democratic Youth,org,organized,confirmed,organizer
+ev_wfys_2005,16th World Festival of Youth & Students (Caracas 2005),ben_becker,Ben Becker,person,led,confirmed,authored PSL delegation report

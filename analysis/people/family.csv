@@ -1,0 +1,13 @@
+a,a_label,b,b_label,relation,edge_label,confidence
+alvin_benjamin,Alvin Benjamin (1920-2012),benjamin,Medea Benjamin,relative,relative,inferred
+alvin_benjamin,Alvin Benjamin (1920-2012),rose_benjamin,Rose Benjamin,spouse,spouse,inferred
+ben_becker,Ben Becker,garcia,Karina Garcia,spouse,married,confirmed
+rub_p_bernardine_dohrn,Bernardine Dohrn,rub_p_bill_ayers,Bill Ayers,spouse,spouse,inferred
+brian_becker,Brian Becker,ben_becker,Ben Becker,parent,father,confirmed
+brian_becker,Brian Becker,richard_becker,Richard Becker,relative,brother (per ADL; source conflict),inferred
+caruso,Christopher Chris Caruso,theoharis,Rev. Dr. Elizabeth Armen Liz Theoharis,spouse,spouse,inferred
+baker_gordon,General Gordon Baker Jr.,kramer,Marian Kramer,spouse,spouse,inferred
+rub_p_kathy_boudin,Kathy Boudin,rub_p_leonard_boudin,Leonard Boudin,relative,relative,inferred
+benjamin,Medea Benjamin,danaher,Maya (Mandela) Danaher,relative,relative,inferred
+benjamin,Medea Benjamin,rose_benjamin,Rose Benjamin,relative,relative,inferred
+richard_becker,Richard Becker,lariva,Gloria La Riva,spouse,married,confirmed

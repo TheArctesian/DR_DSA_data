@@ -1,0 +1,513 @@
+id,label,kind,country,out_edges,in_edges,total,top_out_relations
+afgj,Alliance for Global Justice,org,US,140,12,152,fiscal_sponsor 122; co_signatory 7; endorsed 2
+rubio_report,Rubio Cuba Report (State Dept.),concept,,0,46,46,
+cuba,Cuba,concept,Cuba,3,37,40,affiliation 2; funds 1
+pf,The People's Forum,org,US,12,28,40,hosted 3; convened_solidarity 1; fiscal_host 1
+codepink,CODEPINK,org,US,20,19,39,member 3; met 3; attended_delegation 2
+benjamin,Medea Benjamin,person,,25,5,30,co_founder 3; foreign_tie 2; role 2
+psl,Party for Socialism & Liberation,org,US,13,17,30,attended 2; network 2; endorsed 1
+answer,ANSWER Coalition,org,US,14,15,29,partners 3; affiliation 2; co_initiator 2
+china,China (PRC),concept,China,0,26,26,
+btm,BreakThrough News,org,,9,15,24,host 3; affiliation 1; collaborator 1
+icap,ICAP,org,,3,21,24,hosted 2; award 1
+rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,US,6,18,24,funds 2; joint_poll 1; cosponsor 1
+venezuela,Venezuela,concept,Venezuela,3,20,23,hosted 1; foreign_tie 1; invited 1
+dsa,Democratic Socialists of America,org,US,8,14,22,member 2; affiliation 2; endorsed 1
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),concept,Venezuela,0,20,20,
+iran,Islamic Republic of Iran (state),concept,Iran,3,17,20,affiliation 2; funds 1
+delacruz,Claudia De la Cruz,person,US,16,3,19,role 3; attended 2; foreign_tie 2
+hatuey,The Hatuey Project,project,,8,11,19,covered_by 2; press_channel 1; donations_to 1
+lariva,Gloria La Riva,person,,17,2,19,associate 6; foreign_tie 2; member 1
+rub_national_network_on_cuba,National Network on Cuba,org,,3,16,19,interlock 1; cited_network 1; supports 1
+arc_of_justice,"Arc of Justice (fka Benjamin Fund, Inc.)",org,,7,11,18,grant 5; related_party 1; cited_by_ncri 1
+singham,Neville Roy Singham,person,,15,3,18,funds 6; role 3; foreign_tie 2
+tricontinental,Tricontinental: Institute for Social Research,org,US,2,16,18,anchors 1; named_after 1
+ipa,International Peoples' Assembly,concept,Venezuela,6,11,17,hosted 2; organized 1; founded_at 1
+maduro,Nicolás Maduro,person,Venezuela,11,4,15,patron 2; led 1; addressed 1
+brian_becker,Brian Becker,person,,12,2,14,defended 2; national_coordinator 1; parent 1
+jef,Justice and Education Fund (JEF),org,,4,10,14,grant 2; funds 2
+evans,Jodie Evans,person,,12,1,13,member 4; foreign_tie 2; role 2
+per_kevin_zeese,Kevin Zeese,person,,8,4,12,associate 2; role 2; co-arrested 2
+puryear,Eugene Puryear,person,,9,3,12,member 2; foreign_tie 1; host 1
+rub_weather_underground,Weather Underground,org,,4,8,12,cited_historical 1; split_from 1; succeeded 1
+delossantos,Manolo de los Santos,person,US,11,0,11,foreign_tie 2; member 2; monitored 1
+global_exchange,Global Exchange,org,,6,4,10,travel 2; related_org 1; member 1
+p_world_can_t_wait,World Can’t Wait,project,,3,7,10,supporter 2; shares_address 1
+rub_hamas,Hamas,org,,2,8,10,cited_designation 1; collaborator 1
+nicanet,Nicaragua Network,org,US,5,4,9,supports 2; project_of 1; organized 1
+per_margaret_flowers,Margaret Flowers,person,,5,4,9,associate 2; role 2; co-arrested 1
+prashad,Vijay Prashad,person,,7,2,9,role 2; council 1; contributor 1
+rub_black_panther_party,Black Panther Party,org,,3,6,9,cited_historical 1; affiliation 1; associate 1
+rub_venceremos_brigade,Venceremos Brigade,org,,4,5,9,interlock 1; member 1; sends_volunteers_to 1
+ben_becker,Ben Becker,person,US,6,2,8,former_organizer 1; foreign_tie 1; led 1
+ev_antifa_festival_2025,International Anti-Fascist Festival (Caracas Jan 9-11 2025),concept,Venezuela,0,8,8,
+german_gov,German Federal Government,concept,Germany,8,0,8,funds 7; partner 1
+hub_assata_shakur,Assata Shakur,person,Cuba,6,2,8,cited_context 1; role 1; exiled 1
+hub_hugo_chavez,Hugo Chavez,person,Venezuela,2,6,8,role 1; president 1
+hub_occupy_wall_street,Occupy Wall Street,org,,0,8,8,
+nlg,National Lawyers Guild,org,US,2,6,8,observed 1; member 1
+p_chicago_housing_justice_league,Chicago Housing Justice League,project,,0,8,8,
+p_coalition_of_women_for_peace,Coalition of Women for Peace,project,,2,6,8,did_not_condemn 1; member 1
+p_refuse_fascism,Refuse Fascism,project,,1,7,8,shares_address 1
+pflp,Popular Front for the Liberation of Palestine (PFLP),org,,4,4,8,collaborator 2; cited_designation 1; member 1
+rub_may_19th_communist_organiz,May 19th Communist Organization,org,,4,4,8,combination 2; cited_historical 1; formed_by 1
+samidoun,Samidoun Palestinian Prisoner Solidarity Network,org,,2,6,8,designated 1; co_sponsor 1
+harris,Roger D. Harris,person,US,7,0,7,interest 2; attended 1; observed 1
+hub_revolutionary_communist_party_usa,"Revolutionary Communist Party, USA",org,,4,3,7,affiliation 2; founder 1; initiated 1
+kaufman,Chuck Kaufman,person,US,7,0,7,founder 1; cofounder 1; leads 1
+ma,"Simon Ma, MD, MPH",person,,6,1,7,associate 5; co_signatory 1
+p_popular_resistance,Popular Resistance,project,,1,6,7,founder 1
+per_carl_dix,Carl Dix,person,,6,1,7,associate 2; role 2; initiated 1
+per_cindy_sheehan,Cindy Sheehan,person,,4,3,7,associate 2; role 1; visited 1
+per_tef_poe,Tef Poe,person,,4,3,7,associate 3; role 1
+richard_becker,Richard Becker,person,,6,1,7,coordinator 1; foreign_tie 1; spouse 1
+rub_cuban_american_national_fo,Cuban American National Foundation,org,,3,4,7,cited_opposition 1; opposes 1; advocated_isolation_of 1
+rub_ifco_pastors_for_peace,IFCO / Pastors for Peace,org,,5,2,7,fiscal_sponsor 3; member 1; delegation 1
+russia,Russia,concept,Russia,1,6,7,aligned 1
+viq,"Rachel Viqueira, MHS",person,,5,2,7,associate 4; co_signatory 1
+vsn,Venezuela Solidarity Network,org,US,1,6,7,endorsed 1
+ann_wright,Ann Wright,person,,5,1,6,foreign_tie 1; met 1; director 1
+fsln,FSLN — Sandinista National Liberation Front,org,Nicaragua,1,5,6,cited_designation 1
+garcia,Karina Garcia,person,,4,2,6,foreign_tie 1; vp_candidate 1; running_mate 1
+ortega,Daniel Ortega,person,Nicaragua,3,3,6,attended 1; reelected 1; leads 1
+p_interoccupy,InterOccupy,project,,1,5,6,began_with 1
+per_cornel_west,Cornel West,person,,3,3,6,role 3
+pi,Progressive International,org,,0,6,6,
+press_tv,Press TV,org,Iran,4,2,6,media_appearance 1; phone_contact 1; located_in 1
+psf,People's Support Foundation (PSF),org,,3,3,6,grant 1; director 1; funds 1
+rub_alpha_66,Alpha 66,org,,2,4,6,cited_opposition 1; active_in 1
+rub_black_liberation_army,Black Liberation Army,org,,4,2,6,affiliation 2; cited_historical 1; split 1
+rub_brothers_to_the_rescue,Brothers to the Rescue,org,,2,4,6,cited_opposition 1; opposes 1
+rub_p_robert_f_williams,Robert F. Williams,person,,5,1,6,traveled_to 2; cited_historical 1; role 1
+rub_students_for_a_democratic,Students for a Democratic Society,org,,3,3,6,cited_historical 1; affiliation 1; secession 1
+rub_the_wasp_network_red_avisp,The Wasp Network / Red Avispa,org,Cuba,1,5,6,controls 1
+ucf,United Community Fund,org,,1,5,6,funds 1
+zarif,Mohammad Javad Zarif,person,Iran,2,4,6,role 1; met 1
+bap,Black Alliance for Peace,org,US,3,2,5,cosponsored 1; endorsed 1; member 1
+die_linke,Die Linke,org,Germany,2,3,5,member 1; affiliated 1
+dpaul,David Paul,person,US,3,2,5,member 2; attended 1
+hub_green_party,Green Party,org,,2,3,5,affiliation 1; associate 1
+hub_leni_villag_mez_reeves,Leni Villagómez Reeves,person,,2,3,5,role 1; met 1
+hub_occupy_sandy,Occupy Sandy,org,,1,4,5,split_from 1
+jvp,Jewish Voice for Peace (JVP),org,,4,1,5,foreign_tie 1; collaborator 1; co-organizer 1
+marsh,"Nadia Marsh, MD",person,,2,3,5,member 1; co_signatory 1
+ncri_report,Following the Benjamins: How a $48 Million Foundation Operated an Iran-Aligned Influence Network Outside State Oversight in Florida,concept,,0,5,5,
+p_arizona_palestine_solidarity_alliance,Arizona Palestine Solidarity Alliance,project,,2,3,5,network 1; formed_through 1
+p_assata_s_daughters,Assata’s Daughters,project,,1,4,5,member 1
+p_hands_up_united,Hands Up United,project,,0,5,5,
+p_just_info,Just Info,project,,0,5,5,
+p_national_network_opposing_the_militari,National Network Opposing the Militarization of Youth,project,,0,5,5,
+p_stop_mass_incarceration_network,Stop Mass Incarceration Network,project,,1,4,5,co_founder 1
+per_banbose_shango,Banbose Shango,person,,5,0,5,role 1; coordinator 1; officer 1
+puf,Progress Unity Fund,org,,0,5,5,
+rls_berlin,Rosa-Luxemburg-Stiftung e.V. (Berlin),org,Germany,1,4,5,funds 1
+rub_black_lives_matter_global,Black Lives Matter Global Network Foundation,org,,2,3,5,grant 2
+rub_democratic_front_for_the_l,Democratic Front for the Liberation of Palestine,org,,4,1,5,cited_designation 1; member 1; split 1
+rub_p_bernardine_dohrn,Bernardine Dohrn,person,,5,0,5,role 1; spouse 1; organizer 1
+rub_p_opal_tometi,Opal Tometi,person,,3,2,5,role 2; contacted 1
+rub_palestinian_islamic_jihad,Palestinian Islamic Jihad,org,,2,3,5,cited_designation 1; foreign_tie 1
+tfa,Task Force on the Americas,org,US,2,3,5,attended 1; endorsed 1
+tighe_barry,Tighe Barry,person,,4,1,5,foreign_tie 2; affiliation 1; attended_delegation 1
+chak,Tings Chak,person,,4,0,4,member 2; foreign_tie 1; role 1
+chung,David Sung Mo Chung,person,,3,1,4,director 2; organizing_director 1
+earle,Ethan Earle,person,,4,0,4,cochair 1; coordinates 1; member 1
+ev_fsp_caracas_2019,25th Foro de São Paulo (Caracas 2019),concept,Venezuela,0,4,4,
+ev_nica_delegation_2021,AFGJ Intl Delegation to Nicaragua (Jul 2021),concept,Nicaragua,0,4,4,
+fsp,Foro de São Paulo,concept,Brazil,1,3,4,convened 1
+gbi,General Baker Institute,org,,1,3,4,affiliation 1
+hub_andira_alves,Andira Alves,person,,1,3,4,delegate 1
+hub_lawyers_better_housing,Lawyers’ Committee for Better Housing,org,,1,3,4,affiliation 1
+hub_women_in_black,Women in Black,org,,1,3,4,collaborator 1
+jacobin,Jacobin,org,US,1,3,4,cited_context 1
+khalek,Rania Abdul Khalek,person,,2,2,4,host 1; role 1
+p_adastra,AdAstra,project,,0,4,4,
+p_cindy_sheehan_s_soapbox,Cindy Sheehan’s Soapbox,project,,0,4,4,
+p_kevin_zeese_emerging_activists_fund,Kevin Zeese Emerging Activists Fund,project,,0,4,4,
+p_kindred_connections,Kindred Connections,project,,0,4,4,
+p_march_4_racial_justice,March 4 Racial Justice,project,,0,4,4,
+p_movement_net_lab,Movement Net Lab,project,,0,4,4,
+p_queer_food_foundation,Queer Food Foundation,project,,0,4,4,
+p_south_bronx_unite,South Bronx Unite,project,,0,4,4,
+p_taking_black_pride,Taking Black Pride,project,,0,4,4,
+p_youth_vs_apocalypse,Youth Vs Apocalypse,project,,0,4,4,
+per_cheri_honkala,Cheri Honkala,person,,4,0,4,associate 2; role 1; met 1
+per_dakotah_lilly,Dakotah Lilly,person,,4,0,4,attended 2; associate 1; role 1
+per_t_loving,T Loving,person,,3,1,4,associate 2; role 1
+per_tamara_shapiro,Tamara Shapiro,person,,4,0,4,associate 3; role 1
+per_vik_velazquez_morales,Vikó Velazquez Morales,person,,2,2,4,associate 1; role 1
+rub_hezbollah,Hezbollah,org,,1,3,4,cited_designation 1
+rub_p_antonio_guerrero,Antonio Guerrero,person,Cuba,4,0,4,infiltrated 3; role 1
+rub_p_bill_ayers,Bill Ayers,person,,1,3,4,role 1
+rub_p_gerardo_hern_ndez,Gerardo Hernández,person,Cuba,4,0,4,infiltrated 3; role 1
+rub_p_paul_larudee,Paul Larudee,person,,4,0,4,role 1; born_in 1; appeared_on 1
+rub_p_ram_n_laba_ino,Ramón Labañino,person,Cuba,4,0,4,infiltrated 3; role 1
+rub_p_ren_gonz_lez,René González,person,Cuba,4,0,4,infiltrated 3; role 1
+rub_republic_of_new_afrika,Republic of New Afrika,org,,1,3,4,cited_historical 1
+uspc,US Peace Council,org,US,2,2,4,attended 1; observed 1
+alvin_benjamin,Alvin Benjamin (1920-2012),person,,3,0,3,funds 1; relative 1; spouse 1
+baptist,William Willie Baptist Jr.,person,,3,0,3,foreign_tie 1; collaborator 1; organizer 1
+clarkgollub,Jill Clark-Gollub,person,US,3,0,3,hosted 1; accompanied 1; member 1
+dsa_fund,DSA Fund,org,US,1,2,3,joint_poll 1
+duhalde,David Duhalde,person,,3,0,3,former_officer 1; former_chair 1; commissioned_author 1
+ensler,Eve Ensler,person,,2,1,3,member 1; co_signatory 1
+ev_ipa_founding_2019,IPA Founding Assembly (Caracas Feb 2019),concept,Venezuela,0,3,3,
+ev_maduro_inaug_2025,Maduro 3rd Inauguration (Jan 10 2025),concept,Venezuela,0,3,3,
+ev_wfys_2005,16th World Festival of Youth & Students (Caracas 2005),concept,Venezuela,0,3,3,
+friendsatc,Friends of the ATC,org,US,2,1,3,project_of 1; partners 1
+frso,Freedom Road Socialist Organization,org,US,1,2,3,attended 1
+hoyt,Katherine Hoyt,person,US,3,0,3,board_member 1; coordinator 1; co_director 1
+hrizi,Nathalie Patricia Hrizi,person,,3,0,3,foreign_tie 2; president 1
+hu,Rachel Hu,person,,3,0,3,foreign_tie 2; member 1
+hub_communities_united,Communities United,org,,1,2,3,affiliation 1
+hub_green_shadow_cabinet,Green Shadow Cabinet,org,,0,3,3,
+hub_ifnotnow,IfNotNow,org,,0,3,3,
+hub_military_families_speak_out,Military Families Speak Out,org,,0,3,3,
+hub_mott_haven_port_morris_community_land_st,Mott Haven-Port Morris Community Land Stewards,org,,0,3,3,
+hub_movement_netlab,Movement NetLab,org,,0,3,3,
+hub_opposed_to_militarism_draft,Committee Opposed to Militarism & the Draft,org,,0,3,3,
+hub_will_kohr,Will Kohr,person,,0,3,3,
+hub_women_s_march,Women’s March,org,,0,3,3,
+iran_foreign_ministry,Iranian Ministry of Foreign Affairs,org,Iran,0,3,3,
+jordan,James Patrick Jordan,person,US,3,0,3,president 1; visited 1; attended 1
+kramer,Marian Kramer,person,,1,2,3,trustee 1
+kuang,Savannah Kuang,person,US,3,0,3,member 1; claimed_accredited 1; endorsed 1
+leila_zand,Leila Zand,person,,3,0,3,affiliation 1; foreign_tie 1; met 1
+new_horizon,New Horizon Organization,org,Iran,1,2,3,designated 1
+niac,National Iranian American Council (NIAC),org,,3,0,3,foreign_tie 1; cited_by_ncri 1; hosted 1
+nunez,Marlon Matthew Nunez,person,US,3,0,3,member 2; accompanied 1
+o4p,Organizing for Power (O4P),project,,0,3,3,
+p_alianza_ind_gena_sin_fronteras_indigen,Alianza Indígena Sin Fronteras / Indigenous Alliance Without Borders,project,,0,3,3,
+p_black_lives_matter_oklahoma_city,Black Lives Matter-Oklahoma City,project,,1,2,3,collaborator 1
+p_black_movement_law_project,Black Movement Law Project,project,,0,3,3,
+p_black_trans_media,Black Trans Media,project,,0,3,3,
+p_black_trans_travel_fund,Black Trans Travel Fund,project,,0,3,3,
+p_change_links_newspaper,Change-Links Newspaper,project,,0,3,3,
+p_chicago_housing_initiative,Chicago Housing Initiative,project,,0,3,3,
+p_honduras_solidarity_network,Honduras Solidarity Network,project,,1,2,3,supports 1
+p_orinoco_tribune,Orinoco Tribune,project,Venezuela,1,2,3,from 1
+p_poor_people_s_economic_human_rights_ca,Poor People’s Economic Human Rights Campaign,project,,0,3,3,
+p_trans_women_of_color_solidarity_networ,Trans Women of Color Solidarity Network,project,,0,3,3,
+pel,Party of the European Left,org,,0,3,3,
+per_allen_kwabena_frimpong,Allen Kwabena Frimpong,person,,3,0,3,role 2; associate 1
+per_andrea_ciannavei,Andrea Ciannavei,person,,3,0,3,role 2; associate 1
+per_debra_sweet,Debra Sweet,person,,3,0,3,associate 1; role 1; supporter 1
+per_diane_limas,Diane Limas,person,,3,0,3,associate 1; network 1; role 1
+per_elaine_brower,Elaine Brower,person,,3,0,3,associate 2; role 1
+per_elisabeth_epps,Elisabeth Epps,person,,3,0,3,member 2; role 1
+per_frank_avellone,Frank Avellone,person,,3,0,3,role 2; associate 1
+per_khafre_jay,Khafre Jay,person,,3,0,3,associate 2; role 1
+per_mirely_baca,Mirely Baca,person,,3,0,3,associate 2; role 1
+per_nate_kleinman,Nate Kleinman,person,,3,0,3,associate 2; role 1
+per_nathan_sheard,Nathan Sheard,person,,3,0,3,role 1; associate 1; director 1
+per_pablo_benson_silva,Pablo Benson-Silva,person,,3,0,3,associate 2; role 1
+per_rachel_o_leary_carmona,Rachel O'Leary Carmona,person,,3,0,3,associate 2; role 1
+per_sunsara_taylor,Sunsara Taylor,person,,3,0,3,role 1; chaired 1; supporter 1
+per_tara_thompson,Tara Thompson,person,,3,0,3,associate 2; role 1
+per_taureen_tory_russell,"Taureen ""Tory"" Russell",person,,3,0,3,associate 1; role 1; co_founder 1
+rose_benjamin,Rose Benjamin,person,,1,2,3,funds 1
+rub_amistur_cuba_sa,Amistur Cuba SA,org,Cuba,2,1,3,subsidiary 1; owned_by 1
+rub_fair_play_for_cuba_committ,Fair Play for Cuba Committee,org,,3,0,3,cited_historical 1; organized trips to 1; associate 1
+rub_international_may_day_brig,International May Day Brigade,org,,2,1,3,interlock 1; delegation 1
+rub_p_alicia_garza,Alicia Garza,person,,2,1,3,role 1; co_founder 1
+rub_p_angela_davis,Angela Davis,person,,3,0,3,member 2; cited_context 1
+rub_p_kathy_boudin,Kathy Boudin,person,,3,0,3,role 2; relative 1
+rub_p_nayef_hawatmeh,Nayef Hawatmeh,person,,3,0,3,role 2; founder 1
+rub_p_onyesonwu_chatoyer,Onyesonwu Chatoyer,person,,3,0,3,role 3
+rub_palestine_liberation_organ,Palestine Liberation Organization,org,,1,2,3,cited_designation 1
+rub_thousand_currents,Thousand Currents,org,,2,1,3,fiscal_sponsor 1; cited_context 1
+sunkara,Bhaskar Sunkara,person,,3,0,3,member 1; founder 1; lecturer 1
+theoharis,Rev. Dr. Elizabeth Armen Liz Theoharis,person,,1,2,3,member 1
+xiao,Sheila Xiao,person,,3,0,3,aligned 1; affiliation 1; coordinator 1
+albamov,ALBA Movimientos,concept,Venezuela,0,2,2,
+alhusseini,Ibrahim AlHusseini,person,,2,0,2,member 2
+anderson-figueroa,Jo Anderson-Figueroa,person,,1,1,2,foreign_tie 1
+atc,ATC — Asociación de Trabajadores del Campo,org,Nicaragua,1,1,2,aligned 1
+baker_gordon,General Gordon Baker Jr.,person,,2,0,2,foreign_tie 1; spouse 1
+balagun,Kazembe Balagun,person,,2,0,2,former_role 1; officer 1
+belen,Matthew Matt Belen,person,,2,0,2,foreign_tie 2
+bello,Walden Bello,person,Philippines,2,0,2,council 1; event_participant 1
+bertoldi,Manuel Bertoldi,person,Argentina,2,0,2,member 1; coordinator 1
+bounds,Tajee Bounds,person,,2,0,2,foreign_tie 1; coordinator 1
+bugni,Renata Porto Bugni,person,,2,0,2,member 1; deputy_director 1
+burke,Tom Burke,person,US,2,0,2,led 1; secretary 1
+camacaro,William Camacaro,person,US,2,0,2,media_contact 1; accompanied 1
+caruso,Christopher Chris Caruso,person,,2,0,2,member 1; spouse 1
+ccr,Center for Constitutional Rights,org,,0,2,2,
+cea_weaver,Cea Weaver,person,,2,0,2,organizer 1; collaborator 1
+chua,Heidi Chua,person,,2,0,2,officer 2
+cook,Claire Cook,person,,2,0,2,member 2
+craig,Hannah Priscilla Craig,person,,2,0,2,foreign_tie 1; member 1
+croce,STEIN-DELLA CROCE,person,,2,0,2,foreign_tie 1; secretary 1
+danaher,Maya (Mandela) Danaher,person,,1,1,2,officer 1
+estrada,Paola Estrada,person,Brazil,2,0,2,member 1; secretariat 1
+ev_nica_election_2021,Nicaragua General Election (Nov 2021),concept,Nicaragua,0,2,2,
+gunther,Andreas Günther,person,,2,0,2,member 1; director 1
+henderson,Rita Henderson,person,,2,0,2,foreign_tie 1; director 1
+hispantv,HispanTV,org,Iran,0,2,2,
+hub_dead_prez,Dead Prez,org,,0,2,2,
+hub_dream_defenders,Dream Defenders,org,,0,2,2,
+hub_massachusetts_bail,Massachusetts Bail Fund,org,,0,2,2,
+hub_talib_kweli,Talib Kweli,person,,0,2,2,
+hub_trans_justice_funding,Trans Justice Funding Project,org,,0,2,2,
+ips,Institute for Policy Studies,org,US,1,1,2,member 1
+irgc,Islamic Revolutionary Guard Corps (IRGC),org,Iran,1,1,2,affiliation 1
+irgens_moller,Kirsten Irgens-Moller,person,,2,0,2,officer 1; co_founder 1
+kleiner,Franziska Kleiner,person,,2,0,2,foreign_tie 1; member 1
+kovalik,Dan Kovalik,person,US,2,0,2,affiliated 1; photo_credit 1
+liebich,Stefan Liebich,person,,2,0,2,member 1; director 1
+lowengard,Elizabeth Lowengard,person,,2,0,2,treasurer 1; board_member 1
+nmeyer,Neal Meyer,person,,2,0,2,member 1; officer 1
+p_arizona_educators_united,Arizona Educators United,project,,0,2,2,
+p_black_and_pink_ma,Black and Pink MA,project,,0,2,2,
+p_colorado_freedom_fund,Colorado Freedom Fund,project,,0,2,2,
+p_corporate_genome_project,Corporate Genome Project,project,,0,2,2,
+p_friends_of_asociaci_n_de_trabajadores_,Friends of Asociación de Trabajadores Campesinos,project,,0,2,2,
+p_good_shepherd_collective,Good Shepherd Collective,project,,0,2,2,
+p_instituto_agroecol_gico_latinoamerican,Instituto Agroecológico Latinoamericano–Mesoamericana (IALA Mesoamerica),project,,0,2,2,
+p_international_people_s_tribunal,International People’s Tribunal,project,,0,2,2,
+p_justice_for_all_coalition,Justice for All Coalition,project,,0,2,2,
+p_labor_against_racism_and_war,Labor Against Racism and War,project,,1,1,2,shared 1
+p_los_angeles_community_action_network,Los Angeles Community Action Network,project,,0,2,2,
+p_nappy_roots_books,Nappy Roots Books,project,,0,2,2,
+p_national_immigrant_solidarity_network,National Immigrant Solidarity Network,project,,1,1,2,organized 1
+p_never_again_action,Never Again Action,project,,0,2,2,
+p_people_helping_people,People Helping People,project,,0,2,2,
+p_real_food_generation,Real Food Generation,project,,0,2,2,
+p_splitseed_productions,SplitSeed Productions,project,,0,2,2,
+p_sustainable_orphanages_for_haitian_you,Sustainable Orphanages for Haitian Youth,project,,0,2,2,
+p_thompson_house_tucson,Thompson House Tucson,project,,0,2,2,
+p_united_students_against_sweatshops,United Students Against Sweatshops,project,,0,2,2,
+p_werk_for_peace,WERK for Peace,project,,0,2,2,
+per_abraham_hassen,Abraham Hassen,person,,2,0,2,role 1; coordinator 1
+per_alyssa_rubin,Alyssa Rubin,person,,2,0,2,associate 1; role 1
+per_antonio_gutierrez,Antonio Gutierrez,person,,2,0,2,associate 1; role 1
+per_aquib_s_yacoob,Aquib S. Yacoob,person,,2,0,2,associate 1; role 1
+per_devin_michael_lowe,Devin Michael Lowe,person,,2,0,2,role 2
+per_erika_takeo,Erika Takeo,person,Nicaragua,2,0,2,role 1; coordinator 1
+per_firas_nasr,Firas Nasr,person,,2,0,2,associate 1; role 1
+per_gary_ghirardi,Gary Ghirardi,person,,2,0,2,associate 1; role 1
+per_gila_svirsky,Gila Svirsky,person,Israel,2,0,2,associate 1; role 1
+per_hannah_safran,Hannah Safran,person,Israel,2,0,2,associate 1; role 1
+per_joan_donovan,Joan Donovan,person,,2,0,2,associate 1; role 1
+per_lourdez,Lourdez,person,,2,0,2,role 2
+per_makayla_heiser,Makayla Heiser,person,,2,0,2,role 1; campaign_manager 1
+per_mark_swartz,Mark Swartz,person,,2,0,2,associate 1; role 1
+per_mattie,Mattie,person,,2,0,2,role 2
+per_maurice_cook,Maurice Cook,person,,2,0,2,role 1; appeared_with 1
+per_meghan_maurus,Meghan Maurus,person,,2,0,2,role 1; coordinator 1
+per_melissa_barber_md,"Melissa Barber, MD",person,,2,0,2,associate 1; role 1
+per_michael_cox,Michael Cox,person,,2,0,2,associate 1; role 1
+per_michael_novick,Michael Novick,person,,2,0,2,associate 1; role 1
+per_monxo_lopez,Monxo Lopez,person,,2,0,2,associate 1; role 1
+per_mychal_johnson,Mychal Johnson,person,,2,0,2,associate 1; role 1
+per_oren_robinson,Oren Robinson,person,,2,0,2,associate 1; role 1
+per_page_may,Page May,person,,2,0,2,associate 1; role 1
+per_pat_alviso,Pat Alviso,person,,2,0,2,role 1; coordinator 1
+per_rebecca_heinegg,Rebecca Heinegg,person,,2,0,2,role 1; intern 1
+per_rick_jahnkow,Rick Jahnkow,person,,2,0,2,associate 1; role 1
+per_samantha_parsons,Samantha Parsons,person,,2,0,2,role 2
+per_t_sheri_dickerson,T. Sheri Dickerson,person,,2,0,2,associate 1; role 1
+per_trayce_peterson,Trayce Peterson,person,,2,0,2,associate 1; role 1
+per_vee_morris_moore,Vee Morris Moore,person,,2,0,2,associate 1; role 1
+reyes,Karla Reyes,person,,2,0,2,member 1; foreign_tie 1
+rub_african_national_congress,African National Congress,org,South Africa,2,0,2,cited_context 1; supported 1
+rub_association_for_investment,Association for Investment in Popular Action Committees,org,,1,1,2,fiscal_sponsor 1
+rub_canadian_network_on_cuba,Canadian Network on Cuba,org,Canada,1,1,2,cited_network 1
+rub_communist_party_usa,Communist Party USA,org,,1,1,2,member 1
+rub_faln,FALN,org,,2,0,2,cited_historical 1; collaborator 1
+rub_m_19,M-19,org,,1,1,2,cited_designation 1
+rub_macheteros,Macheteros,org,,1,1,2,cited_historical 1
+rub_naacp,NAACP,org,,0,2,2,
+rub_p_fernando_gonz_lez_llor,Fernando González Llort,person,Cuba,2,0,2,role 2
+rub_p_george_galloway,George Galloway,person,UK,2,0,2,role 1; foreign_tie 1
+rub_p_gustavo_petro,Gustavo Petro,person,Colombia,2,0,2,role 1; foreign_tie 1
+rub_p_leonard_boudin,Leonard Boudin,person,,1,1,2,member 1
+rub_student_nonviolent_coordin,Student Nonviolent Coordinating Committee,org,,1,1,2,cited_historical 1
+rub_the_jericho_movement,The Jericho Movement,org,,1,1,2,solidarity 1
+scharenberg,Albert Scharenberg,person,,2,0,2,organized_delegation 1; director 1
+souers,Wyatt Souers,person,US,2,0,2,accompanied 1; representative 1
+stein,Abby Stein (JVP Rabbinical Council),person,,2,0,2,foreign_tie 1; affiliation 1
+svart,Maria Svart,person,,2,0,2,director 1; participant 1
+syriza,SYRIZA,org,Greece,1,1,2,member 1
+taylor,Nancy Taylor,person,,2,0,2,member 1; secretary 1
+uts,Union Theological Seminary,org,,0,2,2,
+valente,Mónica Valente,person,Brazil,2,0,2,attended 1; secretary 1
+wfp,Working Families Party,org,US,0,2,2,
+wider,Phil Wider,person,,2,0,2,member 2
+ydsa,Young DSA (YDSA),org,US,0,2,2,
+yee,Amanda Yee,person,,2,0,2,member 1; editor 1
+abbott,Diane Abbott,person,UK,1,0,1,member 1
+arlen_gomez,Arlen Benjamin-Gomez,person,,1,0,1,officer 1
+baker_carolyn,Carolyn Baker,person,,1,0,1,member 1
+bournous,Yiannis Bournous,person,Greece,1,0,1,member 1
+brease,Emily Brease,person,,1,0,1,member 1
+brecht_forum,Brecht Forum,org,US,0,1,1,
+c3misc,Affiliated 501(c)(3),org,,0,1,1,
+chanoine,Claudette Chanoine,person,,1,0,1,officer 1
+conway,Marshall Eddie Conway,person,,1,0,1,member 1
+cpc,Congressional Progressive Caucus,org,US,0,1,1,
+cultureproject,Culture Project,org,,0,1,1,
+dagdelen,Sevim Dagdelen,person,Germany,1,0,1,former_member 1
+deborah_benjamin,Deborah Coyle Benjamin,person,,1,0,1,related_party 1
+dwilliams,David Williams,person,,1,0,1,officer 1
+ehmsen,Stefanie Ehmsen,person,,1,0,1,director 1
+enkelmann,Dagmar Enkelmann,person,Germany,1,0,1,chair 1
+ev_caracas_antifa_2024,Antifascist Congress of Caracas (Nov 28 2024),concept,Venezuela,0,1,1,
+fars_news,Fars News Agency,org,Iran,0,1,1,
+fernandes,Marco Fernandes,person,,1,0,1,member 1
+fes,Friedrich Ebert Stiftung Inc (FES),org,Germany,0,1,1,
+fns,Friedrich Naumann Foundation (FNS),org,Germany,0,1,1,
+ghost_officers,Ghost Officers (5 unidentified signers),concept,,1,0,1,officer 1
+goodwin,Alicia Thilani Singham Goodwin,person,,1,0,1,foreign_tie 1
+grassroots_intl,Grassroots International,org,,0,1,1,
+grenyion,Kristen Grenyion,person,,1,0,1,foreign_tie 1
+hamby,Ryan Hamby,person,,1,0,1,officer 1
+hbs,Heinrich Boell Foundation (HBS),org,Germany,0,1,1,
+hss,Hanns Seidel Foundation USA (HSS),org,Germany,0,1,1,
+hub_autonomous_tenants_union,Autonomous Tenants Union,org,,0,1,1,
+iranian_red_crescent,Iranian Red Crescent Society,org,Iran,0,1,1,
+janequine,Olivia Goncalves Janequine,person,,1,0,1,member 1
+jonathan_raggett,Jonathan 'Jonny' Raggett,person,,1,0,1,officer 1
+kas,Konrad Adenauer Stiftung Inc (KAS),org,Germany,0,1,1,
+krouth,Kristine Teresa Krouth,person,,1,0,1,member 1
+luvela,Smangele Luvela,person,,1,0,1,member 1
+maura,Eduardo Maura,person,Spain,1,0,1,member 1
+mcalevey,Jane McAlevey,person,,1,0,1,designed_curriculum 1
+mccarthy,Bobbette McCarthy,person,,1,0,1,network 1
+mfernandez,Mariana Fernandez,person,,1,0,1,officer 1
+minsap,MINSAP (Cuban Health Ministry),org,,0,1,1,
+moseley,Saidi Moseley,person,,1,0,1,education_coordinator 1
+p_411_collective,411 Collective,project,,0,1,1,
+p_action_bail_fund,Action Bail Fund,project,,0,1,1,
+p_african_awareness_association,African Awareness Association,project,,0,1,1,
+p_amigos_de_la_playa,Amigos de la Playa,project,,0,1,1,
+p_asotrecol,ASOTRECOL,project,,0,1,1,
+p_az_jobs_with_justice,AZ Jobs with Justice,project,,0,1,1,
+p_beef_relief,Beef Relief,project,,0,1,1,
+p_black_lives_matter_tucson,Black Lives Matter Tucson,project,,0,1,1,
+p_bukit_bail_fund_of_pittsburgh,Bukit Bail Fund of Pittsburgh,project,,0,1,1,
+p_bv_solidarity_project,BV Solidarity Project,project,,0,1,1,
+p_camino_com_n,Camino Común,project,,0,1,1,
+p_central_ohio_freedom_fund,Central Ohio Freedom Fund,project,,0,1,1,
+p_centro_de_derechos_humanos_del_pac_fic,Centro de Derechos Humanos del Pacífico (Centro Pazífico),project,,0,1,1,
+p_centro_solidario_de_puerto_rico,Centro Solidario de Puerto Rico,project,,0,1,1,
+p_chico_mendes_reforestation_project,Chico Mendes Reforestation Project,project,,0,1,1,
+p_clean_up_the_mines,Clean up the Mines,project,,0,1,1,
+p_community_action_relief_project,Community Action Relief Project,project,,0,1,1,
+p_creating_a_more_beloved_community_film,Creating a More Beloved Community Film & Discussion Series,project,,0,1,1,
+p_denver_justice_project,Denver Justice Project,project,,0,1,1,
+p_erie_bail_fund,Erie Bail Fund,project,,0,1,1,
+p_eritye_papa_desalin,Eritye Papa Desalin,project,,0,1,1,
+p_free_mumia_abu_jamal_coalition,Free Mumia Abu-Jamal Coalition,project,,0,1,1,
+p_friends_of_gente_de_i_itoi_a_c,"Friends of Gente de I’itoi, A.C.",project,,0,1,1,
+p_friends_of_mujeres_de_la_tierra,Friends of Mujeres de la Tierra,project,,0,1,1,
+p_gno_interfaith_sanctuary_coalition,GNO Interfaith Sanctuary Coalition,project,,0,1,1,
+p_hampshire_college_legal_support_fund,Hampshire College Legal Support Fund,project,,0,1,1,
+p_human_rights_school,Human Rights School,project,,0,1,1,
+p_initiative_for_equality,Initiative for Equality,project,,0,1,1,
+p_international_indigenous_initiative_fo,InterNational Indigenous Initiative for Transformative Collaboration,project,,0,1,1,
+p_international_journal_of_foreign_langu,International Journal of Foreign Language Teaching,project,,0,1,1,
+p_irish_diaspora_decolonization_alliance,Irish Diaspora Decolonization Alliance,project,,0,1,1,
+p_juthour_arboretum,Juthour Arboretum,project,,0,1,1,
+p_la_colectiva,La ColectiVA,project,,0,1,1,
+p_lancaster_bail_fund,Lancaster Bail Fund,project,,0,1,1,
+p_legal_defense_for_palestine,Legal Defense for Palestine,project,,0,1,1,
+p_lgbt_freedom_and_asylum_network,LGBT Freedom and Asylum Network,project,,0,1,1,
+p_lgbt_voice_tanzania,LGBT Voice Tanzania,project,,0,1,1,
+p_lo_eterno_media_collective,Lo Eterno Media Collective,project,,0,1,1,
+p_lupinewood,Lupinewood,project,,0,1,1,
+p_march_4_racial_justice_ny,March 4 Racial Justice NY,project,,0,1,1,
+p_miracle_for_mikeals_legacy_foundation,Miracle For Mikeals Legacy Foundation,project,,0,1,1,
+p_mosaic_black_trans_funding_network,Mosaic Black Trans Funding Network,project,,0,1,1,
+p_national_association_of_human_rights_d,National Association of Human Rights Defenders,project,,0,1,1,
+p_nicaragua_solidarity_fund,Nicaragua Solidarity Fund,project,,0,1,1,
+p_o_odham_anti_border_collective,O’odham Anti Border Collective,project,,0,1,1,
+p_otros_mundos_a_c,Otros Mundos A.C.,project,,0,1,1,
+p_peace_education,Peace Education,project,,0,1,1,
+p_philly_thrive,Philly Thrive,project,,0,1,1,
+p_pueblo_sin_fronteras,Pueblo Sin Fronteras,project,,0,1,1,
+p_radical_bloggers_fund,Radical Bloggers Fund,project,,0,1,1,
+p_real_name_campaign_nola,Real Name Campaign NOLA,project,,0,1,1,
+p_reale_justice_network,Reale Justice Network,project,,0,1,1,
+p_reconnect_earth,Reconnect Earth,project,,0,1,1,
+p_red_de_solidaridad,Red de Solidaridad,project,,0,1,1,
+p_return_solidarity,Return Solidarity,project,,0,1,1,
+p_reuniting_of_african_descendants_road,Reuniting of African Descendants (ROAD),project,,0,1,1,
+p_solidarity_ignite,Solidarity Ignite,project,,0,1,1,
+p_suriname_indigenous_health_fund,Suriname Indigenous Health Fund,project,,0,1,1,
+p_sustainable_nations,Sustainable Nations,project,,0,1,1,
+p_ta_ayush,Ta’ayush,project,,0,1,1,
+p_the_l_i_c_project,The L.I.C. Project,project,,0,1,1,
+p_ubuntu,UBUNTU,project,,0,1,1,
+p_unir,UNIR,project,,0,1,1,
+p_upland_grassroots,Upland Grassroots,project,,0,1,1,
+p_white_noise_collective,White Noise Collective,project,,0,1,1,
+p_woodbine_education_center,Woodbine Education Center,project,,0,1,1,
+per_bella_de_soto,Bella De Soto,person,,1,0,1,role 1
+per_cory_jong,Cory Jong,person,,1,0,1,role 1
+per_david_foecke,David Foecke,person,,1,0,1,role 1
+per_dr_patrisia_gonzales,Dr. Patrisia Gonzales,person,,1,0,1,role 1
+per_evana,Evana,person,,1,0,1,role 1
+per_gabrielle_lenart,Gabrielle Lenart,person,,1,0,1,role 1
+per_johnnie_jae,Johnnie Jae,person,,1,0,1,role 1
+per_kristen_godfrey,Kristen Godfrey,person,,1,0,1,role 1
+per_kristen_hackett,Kristen Hackett,person,,1,0,1,role 1
+per_lourdes_escalante,Lourdes Escalante,person,,1,0,1,role 1
+per_marlen_s_nchez,Marlen Sánchez,person,Nicaragua,1,0,1,role 1
+per_mavis_jay_sanders,Mavis-Jay Sanders,person,,1,0,1,role 1
+per_mcahl_sheffield,Mcahl Sheffield,person,,1,0,1,role 1
+per_melina_abdullah,Melina Abdullah,person,,1,0,1,role 1
+per_mohyeddin_abdulaziz,Mohyeddin Abdulaziz,person,,1,0,1,role 1
+per_moira_meltzer_cohen,Moira Meltzer-Cohen,person,,1,0,1,role 1
+per_rachel_wilson,Rachel Wilson,person,,1,0,1,role 1
+per_samantha_butler,Samantha Butler,person,,1,0,1,role 1
+per_steve_lalla,Steve Lalla,person,,1,0,1,role 1
+per_sunny_levine,Sunny Levine,person,,1,0,1,role 1
+per_t_dubb_o,T-Dubb-O,person,,1,0,1,role 1
+pfetcher,Jason Pfetcher,person,,1,0,1,member 1
+podemos,Podemos,org,Spain,0,1,1,
+pwa,People's Welfare Association,org,,0,1,1,
+rhc,Radio Havana Cuba / Prensa Latina / Granma,org,,0,1,1,
+ron,Carlos Ron,person,Venezuela,1,0,1,role 1
+rub_al_tajammu,Al-Tajammu,org,,1,0,1,cited_context 1
+rub_amazon_labor_union,Amazon Labor Union,org,,1,0,1,cited_context 1
+rub_belly_of_the_beast_llc,Belly of the Beast LLC,org,,1,0,1,cited_context 1
+rub_black_lives_matter_at_scho,Black Lives Matter at School,org,,1,0,1,cited_context 1
+rub_black_lives_matter_grassro,Black Lives Matter Grassroots,org,,1,0,1,cited_context 1
+rub_british_cuba_solidarity_ca,British Cuba Solidarity Campaign,org,UK,1,0,1,cited_network 1
+rub_changingfrequencies,changingFrequencies,org,,1,0,1,cited_context 1
+rub_claudia_jones_school,Claudia Jones School,org,,0,1,1,
+rub_cuban_interests_section,Cuban Interests Section,org,Cuba,1,0,1,coordinates_with 1
+rub_cuban_mission_to_the_un,Cuban Mission to the UN,org,Cuba,1,0,1,state_organ 1
+rub_eln,ELN,org,,1,0,1,cited_designation 1
+rub_equality_for_flatbush,Equality for Flatbush,org,,1,0,1,cited_context 1
+rub_f_4_commandos,F-4 Commandos,org,,1,0,1,cited_opposition 1
+rub_george_floyd_riots_antifa,George Floyd riots / Antifa / campus activism,concept,,1,0,1,cited_context 1
+rub_germany_cuba_friendship_as,Germany-Cuba Friendship Association,org,Germany,1,0,1,cited_network 1
+rub_haitian_women_for_haitian,Haitian Women for Haitian Refugees,org,,1,0,1,cited_context 1
+rub_houthis,Houthis,org,,1,0,1,cited_designation 1
+rub_montoneros,Montoneros,org,,1,0,1,cited_historical 1
+rub_nation_of_islam,Nation of Islam,org,,1,0,1,cited_context 1
+rub_national_conference_of_bla,National Conference of Black Lawyers,org,,1,0,1,cited_context 1
+rub_olas,OLAS,org,,1,0,1,cited_context 1
+rub_p_asad_rehman,Asad Rehman,person,,1,0,1,role 1
+rub_p_charles_charlie_hill,Charles 'Charlie' Hill,person,Cuba,1,0,1,role 1
+rub_p_rev_lucius_walker,Rev. Lucius Walker,person,,1,0,1,role 1
+rub_p_suzanne_adely,Suzanne Adely,person,,1,0,1,role 1
+rub_radio_habana,Radio Habana,org,Cuba,1,0,1,state_media 1
+rub_tupamaros,Tupamaros,org,,1,0,1,cited_designation 1
+rub_viva_palestina_us,Viva Palestina US,org,,0,1,1,
+rub_witness_for_peace_solidari,Witness for Peace Solidarity Collective,org,,1,0,1,member 1
+rub_zimbabwe_african_people_s,Zimbabwe African People's Union,org,Zimbabwe,1,0,1,foreign_tie 1
+seal,ICAP 65th-Anniversary Seal,concept,,0,1,1,
+singham_shanti,Shanti Singham,person,,1,0,1,foreign_tie 1
+social_good_fund,Social Good Fund,org,,0,1,1,
+trochowski,Daniela Trochowski,person,Germany,1,0,1,director 1
+uk_labour,UK Labour Party,org,UK,0,1,1,
+wathington,Chad Wathington,person,,1,0,1,former_officer 1
+wfdy,World Federation of Democratic Youth,org,,1,0,1,organized 1
+inv_sacp,South African Communist Party (SACP),org,South Africa,1,0,1,supported 1
+inv_cosatu,COSATU (Congress of South African Trade Unions),org,South Africa,1,0,1,supported 1
+inv_juan_ruiz_rivera_brigade,"""Juan Ruiz Rivera"" Puerto Rican Solidarity Brigade",org,,0,1,1,
+gonzales,Kate Gonzales,person,,0,0,0,
+santos,Lucas Tinti dos Santos,person,,0,0,0,

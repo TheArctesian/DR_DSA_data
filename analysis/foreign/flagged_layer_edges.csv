@@ -1,0 +1,61 @@
+flagged_node,flagged_label,other_node,other_label,other_kind,other_layer,relation,confidence,edge_label,slices
+pflp,Popular Front for the Liberation of Palestine (PFLP),rubio_report,Rubio Cuba Report (State Dept.),concept,context,cited_designation,inferred,report §VIII: cited for designation/nexus (NOT a funded member),rubio-cuba
+pflp,Popular Front for the Liberation of Palestine (PFLP),rub_hamas,Hamas,org,terror,collaborator,inferred,collaborator,_mined
+pflp,Popular Front for the Liberation of Palestine (PFLP),rub_palestinian_islamic_jihad,Palestinian Islamic Jihad,org,terror,collaborator,inferred,collaborator,_mined
+pflp,Popular Front for the Liberation of Palestine (PFLP),rub_p_nayef_hawatmeh,Nayef Hawatmeh,person,context,founder,inferred,founder,_mined
+pflp,Popular Front for the Liberation of Palestine (PFLP),rub_palestine_liberation_organ,Palestine Liberation Organization,org,terror,member,inferred,member,_mined
+pflp,Popular Front for the Liberation of Palestine (PFLP),rub_p_nayef_hawatmeh,Nayef Hawatmeh,person,context,role,inferred,Founder,rubio-cuba
+rub_alpha_66,Alpha 66,cuba,Cuba,concept,state,active_in,inferred,active in,_mined
+rub_alpha_66,Alpha 66,rubio_report,Rubio Cuba Report (State Dept.),concept,context,cited_opposition,inferred,report §IV: anti-Castro opposition (Wasp target) — NOT network,rubio-cuba
+rub_alpha_66,Alpha 66,rub_p_antonio_guerrero,Antonio Guerrero,person,state,infiltrated,inferred,infiltrated,_mined
+rub_alpha_66,Alpha 66,rub_p_gerardo_hern_ndez,Gerardo Hernández,person,state,infiltrated,inferred,infiltrated,_mined
+rub_alpha_66,Alpha 66,rub_p_ram_n_laba_ino,Ramón Labañino,person,state,infiltrated,inferred,infiltrated,_mined
+rub_alpha_66,Alpha 66,rub_p_ren_gonz_lez,René González,person,state,infiltrated,inferred,infiltrated,_mined
+rub_brothers_to_the_rescue,Brothers to the Rescue,rubio_report,Rubio Cuba Report (State Dept.),concept,context,cited_opposition,inferred,anti-Castro exile group (Wasp target),rubio-cuba
+rub_brothers_to_the_rescue,Brothers to the Rescue,rub_p_antonio_guerrero,Antonio Guerrero,person,state,infiltrated,inferred,infiltrated,_mined
+rub_brothers_to_the_rescue,Brothers to the Rescue,rub_p_gerardo_hern_ndez,Gerardo Hernández,person,state,infiltrated,inferred,infiltrated,_mined
+rub_brothers_to_the_rescue,Brothers to the Rescue,rub_p_ram_n_laba_ino,Ramón Labañino,person,state,infiltrated,inferred,infiltrated,_mined
+rub_brothers_to_the_rescue,Brothers to the Rescue,rub_p_ren_gonz_lez,René González,person,state,infiltrated,inferred,infiltrated,_mined
+rub_brothers_to_the_rescue,Brothers to the Rescue,cuba,Cuba,concept,state,opposes,inferred,opposes,_mined
+rub_cuban_american_national_fo,Cuban American National Foundation,cuba,Cuba,concept,state,advocated_isolation_of,inferred,advocated isolation of,_mined
+rub_cuban_american_national_fo,Cuban American National Foundation,rubio_report,Rubio Cuba Report (State Dept.),concept,context,cited_opposition,inferred,report §IV: anti-Castro opposition (Wasp target) — NOT network,rubio-cuba
+rub_cuban_american_national_fo,Cuban American National Foundation,rub_p_antonio_guerrero,Antonio Guerrero,person,state,infiltrated,inferred,infiltrated,_mined
+rub_cuban_american_national_fo,Cuban American National Foundation,rub_p_gerardo_hern_ndez,Gerardo Hernández,person,state,infiltrated,inferred,infiltrated,_mined
+rub_cuban_american_national_fo,Cuban American National Foundation,rub_p_ram_n_laba_ino,Ramón Labañino,person,state,infiltrated,inferred,infiltrated,_mined
+rub_cuban_american_national_fo,Cuban American National Foundation,rub_p_ren_gonz_lez,René González,person,state,infiltrated,inferred,infiltrated,_mined
+rub_cuban_american_national_fo,Cuban American National Foundation,cuba,Cuba,concept,state,opposes,inferred,opposes,_mined
+rub_democratic_front_for_the_l,Democratic Front for the Liberation of Palestine,rubio_report,Rubio Cuba Report (State Dept.),concept,context,cited_designation,inferred,report §VIII: cited for designation/nexus (NOT a funded member),rubio-cuba
+rub_democratic_front_for_the_l,Democratic Front for the Liberation of Palestine,rub_hamas,Hamas,org,terror,collaborator,inferred,collaborator,_mined
+rub_democratic_front_for_the_l,Democratic Front for the Liberation of Palestine,rub_palestine_liberation_organ,Palestine Liberation Organization,org,terror,member,inferred,member,_mined
+rub_democratic_front_for_the_l,Democratic Front for the Liberation of Palestine,rub_p_nayef_hawatmeh,Nayef Hawatmeh,person,context,role,inferred,Founder,rubio-cuba
+rub_democratic_front_for_the_l,Democratic Front for the Liberation of Palestine,pflp,Popular Front for the Liberation of Palestine (PFLP),org,terror,split,inferred,split,_mined
+rub_eln,ELN,rubio_report,Rubio Cuba Report (State Dept.),concept,context,cited_designation,inferred,report §I-III: cited for designation/nexus (NOT a funded member),rubio-cuba
+rub_f_4_commandos,F-4 Commandos,rubio_report,Rubio Cuba Report (State Dept.),concept,context,cited_opposition,inferred,report §IV: anti-Castro opposition (Wasp target) — NOT network,rubio-cuba
+rub_hamas,Hamas,rubio_report,Rubio Cuba Report (State Dept.),concept,context,cited_designation,inferred,report §VIII: cited for designation/nexus (NOT a funded member),rubio-cuba
+rub_hamas,Hamas,rub_palestinian_islamic_jihad,Palestinian Islamic Jihad,org,terror,collaborator,inferred,collaborator,_mined
+rub_hamas,Hamas,benjamin,Medea Benjamin,person,context,coordinator,inferred,coordinator,_mined
+rub_hamas,Hamas,p_coalition_of_women_for_peace,Coalition of Women for Peace,project,state,did_not_condemn,inferred,did not condemn,_mined
+rub_hamas,Hamas,jvp,Jewish Voice for Peace (JVP),org,context,justified,inferred,justified,_mined
+rub_hamas,Hamas,pf,The People's Forum,org,money,justified,inferred,justified,_mined
+rub_hamas,Hamas,delossantos,Manolo de los Santos,person,party,lauded,inferred,lauded,_mined
+rub_hamas,Hamas,rub_p_paul_larudee,Paul Larudee,person,context,met,inferred,met,_mined
+rub_hezbollah,Hezbollah,iran,Islamic Republic of Iran (state),concept,state,affiliation,inferred,affiliation,_mined
+rub_hezbollah,Hezbollah,irgc,Islamic Revolutionary Guard Corps (IRGC),org,state,affiliation,inferred,affiliation,_mined
+rub_hezbollah,Hezbollah,rubio_report,Rubio Cuba Report (State Dept.),concept,context,cited_designation,inferred,report §VIII: cited for designation/nexus (NOT a funded member),rubio-cuba
+rub_houthis,Houthis,rubio_report,Rubio Cuba Report (State Dept.),concept,context,cited_designation,inferred,report §VIII: cited for designation/nexus (NOT a funded member),rubio-cuba
+rub_m_19,M-19,rubio_report,Rubio Cuba Report (State Dept.),concept,context,cited_designation,inferred,report §I-III: cited for designation/nexus (NOT a funded member),rubio-cuba
+rub_m_19,M-19,rub_p_gustavo_petro,Gustavo Petro,person,context,role,inferred,Colombia president; ex-M-19,rubio-cuba
+rub_montoneros,Montoneros,rubio_report,Rubio Cuba Report (State Dept.),concept,context,cited_historical,inferred,"sec.I-III: Cuba-funded (1970s, defunct)",rubio-cuba
+rub_palestine_liberation_organ,Palestine Liberation Organization,rubio_report,Rubio Cuba Report (State Dept.),concept,context,cited_designation,inferred,"report §I-III, VIII: cited for designation/nexus (NOT a funded member)",rubio-cuba
+rub_palestinian_islamic_jihad,Palestinian Islamic Jihad,rubio_report,Rubio Cuba Report (State Dept.),concept,context,cited_designation,inferred,report §VIII: cited for designation/nexus (NOT a funded member),rubio-cuba
+rub_palestinian_islamic_jihad,Palestinian Islamic Jihad,rub_hezbollah,Hezbollah,org,terror,foreign_tie,inferred,foreign tie,_mined
+rub_palestinian_islamic_jihad,Palestinian Islamic Jihad,iran,Islamic Republic of Iran (state),concept,state,funds,inferred,funds,_mined
+rub_tupamaros,Tupamaros,rubio_report,Rubio Cuba Report (State Dept.),concept,context,cited_designation,inferred,report §I-III: cited for designation/nexus (NOT a funded member),rubio-cuba
+samidoun,Samidoun Palestinian Prisoner Solidarity Network,answer,ANSWER Coalition,org,party,co-organizer,inferred,co-organizer,_mined
+samidoun,Samidoun Palestinian Prisoner Solidarity Network,psl,Party for Socialism & Liberation,org,party,co-organizer,inferred,co-organizer,_mined
+samidoun,Samidoun Palestinian Prisoner Solidarity Network,pf,The People's Forum,org,money,co_signatory,inferred,co signatory,_mined
+samidoun,Samidoun Palestinian Prisoner Solidarity Network,p_international_people_s_tribunal,International People’s Tribunal,project,state,co_sponsor,inferred,co sponsor,_mined
+samidoun,Samidoun Palestinian Prisoner Solidarity Network,pflp,Popular Front for the Liberation of Palestine (PFLP),org,terror,designated,confirmed,OFAC: 'sham charity' fundraising front for PFLP,iran-network
+samidoun,Samidoun Palestinian Prisoner Solidarity Network,afgj,Alliance for Global Justice,org,center,hosted,confirmed,AFGJ fiscal-sponsored Samidoun pre-designation,iran-network
+samidoun,Samidoun Palestinian Prisoner Solidarity Network,codepink,CODEPINK,org,context,hosted,confirmed,"Jan 2023 joint campaign; hosted materials, endorser",iran-network
+samidoun,Samidoun Palestinian Prisoner Solidarity Network,rub_the_jericho_movement,The Jericho Movement,org,money,solidarity,inferred,solidarity,_mined

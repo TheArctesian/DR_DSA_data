@@ -1,0 +1,303 @@
+mode,spine,seeds,recipient,recipient_label,recipient_kind,depth,path,last_relation
+funding_only,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,afgj,Alliance for Global Justice,org,1,arc_of_justice -> afgj,grant
+funding_only,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,ccr,Center for Constitutional Rights,org,1,arc_of_justice -> ccr,grant
+funding_only,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,global_exchange,Global Exchange,org,1,arc_of_justice -> global_exchange,grant
+funding_only,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,grassroots_intl,Grassroots International,org,1,arc_of_justice -> grassroots_intl,grant
+funding_only,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,social_good_fund,Social Good Fund,org,1,arc_of_justice -> social_good_fund,grant
+funding_only,Singham,singham|psf|jef,afgj,Alliance for Global Justice,org,1,jef -> afgj,grant
+funding_only,Singham,singham|psf|jef,answer,ANSWER Coalition,org,1,singham -> answer,funds
+funding_only,Singham,singham|psf|jef,btm,BreakThrough News,org,1,singham -> btm,funds
+funding_only,Singham,singham|psf|jef,chung,David Sung Mo Chung,person,1,singham -> chung,funds
+funding_only,Singham,singham|psf|jef,codepink,CODEPINK,org,1,jef -> codepink,grant
+funding_only,Singham,singham|psf|jef,ipa,International Peoples' Assembly,concept,1,singham -> ipa,funds
+funding_only,Singham,singham|psf|jef,pf,The People's Forum,org,1,jef -> pf,funds
+funding_only,Singham,singham|psf|jef,psl,Party for Socialism & Liberation,org,1,singham -> psl,funds
+funding_only,Singham,singham|psf|jef,tricontinental,Tricontinental: Institute for Social Research,org,1,jef -> tricontinental,funds
+funding_only,Singham,singham|psf|jef,ucf,United Community Fund,org,1,psf -> ucf,funds
+funding_only,RLS Berlin,german_gov|rls_berlin,fes,Friedrich Ebert Stiftung Inc (FES),org,1,german_gov -> fes,funds
+funding_only,RLS Berlin,german_gov|rls_berlin,fns,Friedrich Naumann Foundation (FNS),org,1,german_gov -> fns,funds
+funding_only,RLS Berlin,german_gov|rls_berlin,hbs,Heinrich Boell Foundation (HBS),org,1,german_gov -> hbs,funds
+funding_only,RLS Berlin,german_gov|rls_berlin,hss,Hanns Seidel Foundation USA (HSS),org,1,german_gov -> hss,funds
+funding_only,RLS Berlin,german_gov|rls_berlin,kas,Konrad Adenauer Stiftung Inc (KAS),org,1,german_gov -> kas,funds
+funding_only,RLS Berlin,german_gov|rls_berlin,p_coalition_of_women_for_peace,Coalition of Women for Peace,project,1,german_gov -> p_coalition_of_women_for_peace,funds
+funding_only,RLS Berlin,german_gov|rls_berlin,rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,1,rls_berlin -> rls_nyc,funds
+funding_only,RLS Berlin,german_gov|rls_berlin,dsa,Democratic Socialists of America,org,2,rls_berlin -> rls_nyc -> dsa,funds
+funding_only,RLS Berlin,german_gov|rls_berlin,ydsa,Young DSA (YDSA),org,2,rls_berlin -> rls_nyc -> ydsa,funds
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,afgj,Alliance for Global Justice,org,1,arc_of_justice -> afgj,grant
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,ccr,Center for Constitutional Rights,org,1,arc_of_justice -> ccr,grant
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,global_exchange,Global Exchange,org,1,arc_of_justice -> global_exchange,grant
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,grassroots_intl,Grassroots International,org,1,arc_of_justice -> grassroots_intl,grant
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,social_good_fund,Social Good Fund,org,1,arc_of_justice -> social_good_fund,grant
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,hatuey,The Hatuey Project,project,2,arc_of_justice -> afgj -> hatuey,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,hub_occupy_wall_street,Occupy Wall Street,org,2,arc_of_justice -> afgj -> hub_occupy_wall_street,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_411_collective,411 Collective,project,2,arc_of_justice -> afgj -> p_411_collective,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_action_bail_fund,Action Bail Fund,project,2,arc_of_justice -> afgj -> p_action_bail_fund,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_adastra,AdAstra,project,2,arc_of_justice -> afgj -> p_adastra,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_african_awareness_association,African Awareness Association,project,2,arc_of_justice -> afgj -> p_african_awareness_association,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_alianza_ind_gena_sin_fronteras_indigen,Alianza Indígena Sin Fronteras / Indigenous Alliance Without Borders,project,2,arc_of_justice -> afgj -> p_alianza_ind_gena_sin_fronteras_indigen,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_amigos_de_la_playa,Amigos de la Playa,project,2,arc_of_justice -> afgj -> p_amigos_de_la_playa,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_arizona_educators_united,Arizona Educators United,project,2,arc_of_justice -> afgj -> p_arizona_educators_united,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_arizona_palestine_solidarity_alliance,Arizona Palestine Solidarity Alliance,project,2,arc_of_justice -> afgj -> p_arizona_palestine_solidarity_alliance,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_asotrecol,ASOTRECOL,project,2,arc_of_justice -> afgj -> p_asotrecol,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_assata_s_daughters,Assata’s Daughters,project,2,arc_of_justice -> afgj -> p_assata_s_daughters,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_az_jobs_with_justice,AZ Jobs with Justice,project,2,arc_of_justice -> afgj -> p_az_jobs_with_justice,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_beef_relief,Beef Relief,project,2,arc_of_justice -> afgj -> p_beef_relief,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_black_and_pink_ma,Black and Pink MA,project,2,arc_of_justice -> afgj -> p_black_and_pink_ma,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_black_lives_matter_oklahoma_city,Black Lives Matter-Oklahoma City,project,2,arc_of_justice -> afgj -> p_black_lives_matter_oklahoma_city,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_black_lives_matter_tucson,Black Lives Matter Tucson,project,2,arc_of_justice -> afgj -> p_black_lives_matter_tucson,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_black_movement_law_project,Black Movement Law Project,project,2,arc_of_justice -> afgj -> p_black_movement_law_project,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_black_trans_media,Black Trans Media,project,2,arc_of_justice -> afgj -> p_black_trans_media,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_black_trans_travel_fund,Black Trans Travel Fund,project,2,arc_of_justice -> afgj -> p_black_trans_travel_fund,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_bukit_bail_fund_of_pittsburgh,Bukit Bail Fund of Pittsburgh,project,2,arc_of_justice -> afgj -> p_bukit_bail_fund_of_pittsburgh,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_bv_solidarity_project,BV Solidarity Project,project,2,arc_of_justice -> afgj -> p_bv_solidarity_project,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_camino_com_n,Camino Común,project,2,arc_of_justice -> afgj -> p_camino_com_n,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_central_ohio_freedom_fund,Central Ohio Freedom Fund,project,2,arc_of_justice -> afgj -> p_central_ohio_freedom_fund,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_centro_de_derechos_humanos_del_pac_fic,Centro de Derechos Humanos del Pacífico (Centro Pazífico),project,2,arc_of_justice -> afgj -> p_centro_de_derechos_humanos_del_pac_fic,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_centro_solidario_de_puerto_rico,Centro Solidario de Puerto Rico,project,2,arc_of_justice -> afgj -> p_centro_solidario_de_puerto_rico,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_change_links_newspaper,Change-Links Newspaper,project,2,arc_of_justice -> afgj -> p_change_links_newspaper,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_chicago_housing_initiative,Chicago Housing Initiative,project,2,arc_of_justice -> afgj -> p_chicago_housing_initiative,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_chicago_housing_justice_league,Chicago Housing Justice League,project,2,arc_of_justice -> afgj -> p_chicago_housing_justice_league,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_chico_mendes_reforestation_project,Chico Mendes Reforestation Project,project,2,arc_of_justice -> afgj -> p_chico_mendes_reforestation_project,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_cindy_sheehan_s_soapbox,Cindy Sheehan’s Soapbox,project,2,arc_of_justice -> afgj -> p_cindy_sheehan_s_soapbox,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_clean_up_the_mines,Clean up the Mines,project,2,arc_of_justice -> afgj -> p_clean_up_the_mines,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_coalition_of_women_for_peace,Coalition of Women for Peace,project,2,arc_of_justice -> afgj -> p_coalition_of_women_for_peace,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_colorado_freedom_fund,Colorado Freedom Fund,project,2,arc_of_justice -> afgj -> p_colorado_freedom_fund,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_community_action_relief_project,Community Action Relief Project,project,2,arc_of_justice -> afgj -> p_community_action_relief_project,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_corporate_genome_project,Corporate Genome Project,project,2,arc_of_justice -> afgj -> p_corporate_genome_project,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_creating_a_more_beloved_community_film,Creating a More Beloved Community Film & Discussion Series,project,2,arc_of_justice -> afgj -> p_creating_a_more_beloved_community_film,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_denver_justice_project,Denver Justice Project,project,2,arc_of_justice -> afgj -> p_denver_justice_project,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_erie_bail_fund,Erie Bail Fund,project,2,arc_of_justice -> afgj -> p_erie_bail_fund,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_eritye_papa_desalin,Eritye Papa Desalin,project,2,arc_of_justice -> afgj -> p_eritye_papa_desalin,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_free_mumia_abu_jamal_coalition,Free Mumia Abu-Jamal Coalition,project,2,arc_of_justice -> afgj -> p_free_mumia_abu_jamal_coalition,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_friends_of_asociaci_n_de_trabajadores_,Friends of Asociación de Trabajadores Campesinos,project,2,arc_of_justice -> afgj -> p_friends_of_asociaci_n_de_trabajadores_,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_friends_of_gente_de_i_itoi_a_c,"Friends of Gente de I’itoi, A.C.",project,2,arc_of_justice -> afgj -> p_friends_of_gente_de_i_itoi_a_c,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_friends_of_mujeres_de_la_tierra,Friends of Mujeres de la Tierra,project,2,arc_of_justice -> afgj -> p_friends_of_mujeres_de_la_tierra,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_gno_interfaith_sanctuary_coalition,GNO Interfaith Sanctuary Coalition,project,2,arc_of_justice -> afgj -> p_gno_interfaith_sanctuary_coalition,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_good_shepherd_collective,Good Shepherd Collective,project,2,arc_of_justice -> afgj -> p_good_shepherd_collective,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_hampshire_college_legal_support_fund,Hampshire College Legal Support Fund,project,2,arc_of_justice -> afgj -> p_hampshire_college_legal_support_fund,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_hands_up_united,Hands Up United,project,2,arc_of_justice -> afgj -> p_hands_up_united,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_honduras_solidarity_network,Honduras Solidarity Network,project,2,arc_of_justice -> afgj -> p_honduras_solidarity_network,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_human_rights_school,Human Rights School,project,2,arc_of_justice -> afgj -> p_human_rights_school,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_initiative_for_equality,Initiative for Equality,project,2,arc_of_justice -> afgj -> p_initiative_for_equality,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_instituto_agroecol_gico_latinoamerican,Instituto Agroecológico Latinoamericano–Mesoamericana (IALA Mesoamerica),project,2,arc_of_justice -> afgj -> p_instituto_agroecol_gico_latinoamerican,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_international_indigenous_initiative_fo,InterNational Indigenous Initiative for Transformative Collaboration,project,2,arc_of_justice -> afgj -> p_international_indigenous_initiative_fo,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_international_journal_of_foreign_langu,International Journal of Foreign Language Teaching,project,2,arc_of_justice -> afgj -> p_international_journal_of_foreign_langu,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_international_people_s_tribunal,International People’s Tribunal,project,2,arc_of_justice -> afgj -> p_international_people_s_tribunal,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_interoccupy,InterOccupy,project,2,arc_of_justice -> afgj -> p_interoccupy,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_irish_diaspora_decolonization_alliance,Irish Diaspora Decolonization Alliance,project,2,arc_of_justice -> afgj -> p_irish_diaspora_decolonization_alliance,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_just_info,Just Info,project,2,arc_of_justice -> afgj -> p_just_info,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_justice_for_all_coalition,Justice for All Coalition,project,2,arc_of_justice -> afgj -> p_justice_for_all_coalition,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_juthour_arboretum,Juthour Arboretum,project,2,arc_of_justice -> afgj -> p_juthour_arboretum,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_kevin_zeese_emerging_activists_fund,Kevin Zeese Emerging Activists Fund,project,2,arc_of_justice -> afgj -> p_kevin_zeese_emerging_activists_fund,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_kindred_connections,Kindred Connections,project,2,arc_of_justice -> afgj -> p_kindred_connections,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_la_colectiva,La ColectiVA,project,2,arc_of_justice -> afgj -> p_la_colectiva,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_labor_against_racism_and_war,Labor Against Racism and War,project,2,arc_of_justice -> afgj -> p_labor_against_racism_and_war,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_lancaster_bail_fund,Lancaster Bail Fund,project,2,arc_of_justice -> afgj -> p_lancaster_bail_fund,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_legal_defense_for_palestine,Legal Defense for Palestine,project,2,arc_of_justice -> afgj -> p_legal_defense_for_palestine,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_lgbt_freedom_and_asylum_network,LGBT Freedom and Asylum Network,project,2,arc_of_justice -> afgj -> p_lgbt_freedom_and_asylum_network,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_lgbt_voice_tanzania,LGBT Voice Tanzania,project,2,arc_of_justice -> afgj -> p_lgbt_voice_tanzania,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_lo_eterno_media_collective,Lo Eterno Media Collective,project,2,arc_of_justice -> afgj -> p_lo_eterno_media_collective,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_los_angeles_community_action_network,Los Angeles Community Action Network,project,2,arc_of_justice -> afgj -> p_los_angeles_community_action_network,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_lupinewood,Lupinewood,project,2,arc_of_justice -> afgj -> p_lupinewood,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_march_4_racial_justice,March 4 Racial Justice,project,2,arc_of_justice -> afgj -> p_march_4_racial_justice,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_march_4_racial_justice_ny,March 4 Racial Justice NY,project,2,arc_of_justice -> afgj -> p_march_4_racial_justice_ny,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_miracle_for_mikeals_legacy_foundation,Miracle For Mikeals Legacy Foundation,project,2,arc_of_justice -> afgj -> p_miracle_for_mikeals_legacy_foundation,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_mosaic_black_trans_funding_network,Mosaic Black Trans Funding Network,project,2,arc_of_justice -> afgj -> p_mosaic_black_trans_funding_network,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_movement_net_lab,Movement Net Lab,project,2,arc_of_justice -> afgj -> p_movement_net_lab,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_nappy_roots_books,Nappy Roots Books,project,2,arc_of_justice -> afgj -> p_nappy_roots_books,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_national_association_of_human_rights_d,National Association of Human Rights Defenders,project,2,arc_of_justice -> afgj -> p_national_association_of_human_rights_d,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_national_immigrant_solidarity_network,National Immigrant Solidarity Network,project,2,arc_of_justice -> afgj -> p_national_immigrant_solidarity_network,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_national_network_opposing_the_militari,National Network Opposing the Militarization of Youth,project,2,arc_of_justice -> afgj -> p_national_network_opposing_the_militari,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_never_again_action,Never Again Action,project,2,arc_of_justice -> afgj -> p_never_again_action,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_nicaragua_solidarity_fund,Nicaragua Solidarity Fund,project,2,arc_of_justice -> afgj -> p_nicaragua_solidarity_fund,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_o_odham_anti_border_collective,O’odham Anti Border Collective,project,2,arc_of_justice -> afgj -> p_o_odham_anti_border_collective,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_orinoco_tribune,Orinoco Tribune,project,2,arc_of_justice -> afgj -> p_orinoco_tribune,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_otros_mundos_a_c,Otros Mundos A.C.,project,2,arc_of_justice -> afgj -> p_otros_mundos_a_c,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_peace_education,Peace Education,project,2,arc_of_justice -> afgj -> p_peace_education,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_people_helping_people,People Helping People,project,2,arc_of_justice -> afgj -> p_people_helping_people,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_philly_thrive,Philly Thrive,project,2,arc_of_justice -> afgj -> p_philly_thrive,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_poor_people_s_economic_human_rights_ca,Poor People’s Economic Human Rights Campaign,project,2,arc_of_justice -> afgj -> p_poor_people_s_economic_human_rights_ca,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_popular_resistance,Popular Resistance,project,2,arc_of_justice -> afgj -> p_popular_resistance,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_pueblo_sin_fronteras,Pueblo Sin Fronteras,project,2,arc_of_justice -> afgj -> p_pueblo_sin_fronteras,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_queer_food_foundation,Queer Food Foundation,project,2,arc_of_justice -> afgj -> p_queer_food_foundation,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_radical_bloggers_fund,Radical Bloggers Fund,project,2,arc_of_justice -> afgj -> p_radical_bloggers_fund,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_real_food_generation,Real Food Generation,project,2,arc_of_justice -> afgj -> p_real_food_generation,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_real_name_campaign_nola,Real Name Campaign NOLA,project,2,arc_of_justice -> afgj -> p_real_name_campaign_nola,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_reale_justice_network,Reale Justice Network,project,2,arc_of_justice -> afgj -> p_reale_justice_network,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_reconnect_earth,Reconnect Earth,project,2,arc_of_justice -> afgj -> p_reconnect_earth,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_red_de_solidaridad,Red de Solidaridad,project,2,arc_of_justice -> afgj -> p_red_de_solidaridad,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_refuse_fascism,Refuse Fascism,project,2,arc_of_justice -> afgj -> p_refuse_fascism,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_return_solidarity,Return Solidarity,project,2,arc_of_justice -> afgj -> p_return_solidarity,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_reuniting_of_african_descendants_road,Reuniting of African Descendants (ROAD),project,2,arc_of_justice -> afgj -> p_reuniting_of_african_descendants_road,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_solidarity_ignite,Solidarity Ignite,project,2,arc_of_justice -> afgj -> p_solidarity_ignite,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_south_bronx_unite,South Bronx Unite,project,2,arc_of_justice -> afgj -> p_south_bronx_unite,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_splitseed_productions,SplitSeed Productions,project,2,arc_of_justice -> afgj -> p_splitseed_productions,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_stop_mass_incarceration_network,Stop Mass Incarceration Network,project,2,arc_of_justice -> afgj -> p_stop_mass_incarceration_network,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_suriname_indigenous_health_fund,Suriname Indigenous Health Fund,project,2,arc_of_justice -> afgj -> p_suriname_indigenous_health_fund,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_sustainable_nations,Sustainable Nations,project,2,arc_of_justice -> afgj -> p_sustainable_nations,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_sustainable_orphanages_for_haitian_you,Sustainable Orphanages for Haitian Youth,project,2,arc_of_justice -> afgj -> p_sustainable_orphanages_for_haitian_you,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_ta_ayush,Ta’ayush,project,2,arc_of_justice -> afgj -> p_ta_ayush,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_taking_black_pride,Taking Black Pride,project,2,arc_of_justice -> afgj -> p_taking_black_pride,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_the_l_i_c_project,The L.I.C. Project,project,2,arc_of_justice -> afgj -> p_the_l_i_c_project,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_thompson_house_tucson,Thompson House Tucson,project,2,arc_of_justice -> afgj -> p_thompson_house_tucson,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_trans_women_of_color_solidarity_networ,Trans Women of Color Solidarity Network,project,2,arc_of_justice -> afgj -> p_trans_women_of_color_solidarity_networ,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_ubuntu,UBUNTU,project,2,arc_of_justice -> afgj -> p_ubuntu,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_unir,UNIR,project,2,arc_of_justice -> afgj -> p_unir,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_united_students_against_sweatshops,United Students Against Sweatshops,project,2,arc_of_justice -> afgj -> p_united_students_against_sweatshops,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_upland_grassroots,Upland Grassroots,project,2,arc_of_justice -> afgj -> p_upland_grassroots,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_werk_for_peace,WERK for Peace,project,2,arc_of_justice -> afgj -> p_werk_for_peace,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_white_noise_collective,White Noise Collective,project,2,arc_of_justice -> afgj -> p_white_noise_collective,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_woodbine_education_center,Woodbine Education Center,project,2,arc_of_justice -> afgj -> p_woodbine_education_center,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_world_can_t_wait,World Can’t Wait,project,2,arc_of_justice -> afgj -> p_world_can_t_wait,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,p_youth_vs_apocalypse,Youth Vs Apocalypse,project,2,arc_of_justice -> afgj -> p_youth_vs_apocalypse,fiscal_sponsor
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,cuba,Cuba,concept,3,arc_of_justice -> afgj -> hatuey -> cuba,donated
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,minsap,MINSAP (Cuban Health Ministry),org,3,arc_of_justice -> afgj -> hatuey -> minsap,donations_to
+incl_sponsorship,Benjamin estate,alvin_benjamin|rose_benjamin|arc_of_justice,rub_weather_underground,Weather Underground,org,4,arc_of_justice -> afgj -> hatuey -> cuba -> rub_weather_underground,funds
+incl_sponsorship,Singham,singham|psf|jef,afgj,Alliance for Global Justice,org,1,jef -> afgj,grant
+incl_sponsorship,Singham,singham|psf|jef,answer,ANSWER Coalition,org,1,singham -> answer,funds
+incl_sponsorship,Singham,singham|psf|jef,btm,BreakThrough News,org,1,singham -> btm,funds
+incl_sponsorship,Singham,singham|psf|jef,chung,David Sung Mo Chung,person,1,singham -> chung,funds
+incl_sponsorship,Singham,singham|psf|jef,codepink,CODEPINK,org,1,jef -> codepink,grant
+incl_sponsorship,Singham,singham|psf|jef,ipa,International Peoples' Assembly,concept,1,singham -> ipa,funds
+incl_sponsorship,Singham,singham|psf|jef,pf,The People's Forum,org,1,jef -> pf,funds
+incl_sponsorship,Singham,singham|psf|jef,psl,Party for Socialism & Liberation,org,1,singham -> psl,funds
+incl_sponsorship,Singham,singham|psf|jef,tricontinental,Tricontinental: Institute for Social Research,org,1,jef -> tricontinental,funds
+incl_sponsorship,Singham,singham|psf|jef,ucf,United Community Fund,org,1,psf -> ucf,funds
+incl_sponsorship,Singham,singham|psf|jef,ev_nica_delegation_2021,AFGJ Intl Delegation to Nicaragua (Jul 2021),concept,2,singham -> answer -> ev_nica_delegation_2021,cosponsored
+incl_sponsorship,Singham,singham|psf|jef,hatuey,The Hatuey Project,project,2,jef -> afgj -> hatuey,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,hub_occupy_wall_street,Occupy Wall Street,org,2,jef -> afgj -> hub_occupy_wall_street,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_411_collective,411 Collective,project,2,jef -> afgj -> p_411_collective,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_action_bail_fund,Action Bail Fund,project,2,jef -> afgj -> p_action_bail_fund,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_adastra,AdAstra,project,2,jef -> afgj -> p_adastra,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_african_awareness_association,African Awareness Association,project,2,jef -> afgj -> p_african_awareness_association,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_alianza_ind_gena_sin_fronteras_indigen,Alianza Indígena Sin Fronteras / Indigenous Alliance Without Borders,project,2,jef -> afgj -> p_alianza_ind_gena_sin_fronteras_indigen,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_amigos_de_la_playa,Amigos de la Playa,project,2,jef -> afgj -> p_amigos_de_la_playa,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_arizona_educators_united,Arizona Educators United,project,2,jef -> afgj -> p_arizona_educators_united,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_arizona_palestine_solidarity_alliance,Arizona Palestine Solidarity Alliance,project,2,jef -> afgj -> p_arizona_palestine_solidarity_alliance,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_asotrecol,ASOTRECOL,project,2,jef -> afgj -> p_asotrecol,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_assata_s_daughters,Assata’s Daughters,project,2,jef -> afgj -> p_assata_s_daughters,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_az_jobs_with_justice,AZ Jobs with Justice,project,2,jef -> afgj -> p_az_jobs_with_justice,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_beef_relief,Beef Relief,project,2,jef -> afgj -> p_beef_relief,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_black_and_pink_ma,Black and Pink MA,project,2,jef -> afgj -> p_black_and_pink_ma,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_black_lives_matter_oklahoma_city,Black Lives Matter-Oklahoma City,project,2,jef -> afgj -> p_black_lives_matter_oklahoma_city,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_black_lives_matter_tucson,Black Lives Matter Tucson,project,2,jef -> afgj -> p_black_lives_matter_tucson,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_black_movement_law_project,Black Movement Law Project,project,2,jef -> afgj -> p_black_movement_law_project,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_black_trans_media,Black Trans Media,project,2,jef -> afgj -> p_black_trans_media,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_black_trans_travel_fund,Black Trans Travel Fund,project,2,jef -> afgj -> p_black_trans_travel_fund,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_bukit_bail_fund_of_pittsburgh,Bukit Bail Fund of Pittsburgh,project,2,jef -> afgj -> p_bukit_bail_fund_of_pittsburgh,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_bv_solidarity_project,BV Solidarity Project,project,2,jef -> afgj -> p_bv_solidarity_project,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_camino_com_n,Camino Común,project,2,jef -> afgj -> p_camino_com_n,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_central_ohio_freedom_fund,Central Ohio Freedom Fund,project,2,jef -> afgj -> p_central_ohio_freedom_fund,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_centro_de_derechos_humanos_del_pac_fic,Centro de Derechos Humanos del Pacífico (Centro Pazífico),project,2,jef -> afgj -> p_centro_de_derechos_humanos_del_pac_fic,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_centro_solidario_de_puerto_rico,Centro Solidario de Puerto Rico,project,2,jef -> afgj -> p_centro_solidario_de_puerto_rico,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_change_links_newspaper,Change-Links Newspaper,project,2,jef -> afgj -> p_change_links_newspaper,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_chicago_housing_initiative,Chicago Housing Initiative,project,2,jef -> afgj -> p_chicago_housing_initiative,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_chicago_housing_justice_league,Chicago Housing Justice League,project,2,jef -> afgj -> p_chicago_housing_justice_league,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_chico_mendes_reforestation_project,Chico Mendes Reforestation Project,project,2,jef -> afgj -> p_chico_mendes_reforestation_project,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_cindy_sheehan_s_soapbox,Cindy Sheehan’s Soapbox,project,2,jef -> afgj -> p_cindy_sheehan_s_soapbox,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_clean_up_the_mines,Clean up the Mines,project,2,jef -> afgj -> p_clean_up_the_mines,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_coalition_of_women_for_peace,Coalition of Women for Peace,project,2,jef -> afgj -> p_coalition_of_women_for_peace,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_colorado_freedom_fund,Colorado Freedom Fund,project,2,jef -> afgj -> p_colorado_freedom_fund,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_community_action_relief_project,Community Action Relief Project,project,2,jef -> afgj -> p_community_action_relief_project,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_corporate_genome_project,Corporate Genome Project,project,2,jef -> afgj -> p_corporate_genome_project,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_creating_a_more_beloved_community_film,Creating a More Beloved Community Film & Discussion Series,project,2,jef -> afgj -> p_creating_a_more_beloved_community_film,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_denver_justice_project,Denver Justice Project,project,2,jef -> afgj -> p_denver_justice_project,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_erie_bail_fund,Erie Bail Fund,project,2,jef -> afgj -> p_erie_bail_fund,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_eritye_papa_desalin,Eritye Papa Desalin,project,2,jef -> afgj -> p_eritye_papa_desalin,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_free_mumia_abu_jamal_coalition,Free Mumia Abu-Jamal Coalition,project,2,jef -> afgj -> p_free_mumia_abu_jamal_coalition,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_friends_of_asociaci_n_de_trabajadores_,Friends of Asociación de Trabajadores Campesinos,project,2,jef -> afgj -> p_friends_of_asociaci_n_de_trabajadores_,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_friends_of_gente_de_i_itoi_a_c,"Friends of Gente de I’itoi, A.C.",project,2,jef -> afgj -> p_friends_of_gente_de_i_itoi_a_c,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_friends_of_mujeres_de_la_tierra,Friends of Mujeres de la Tierra,project,2,jef -> afgj -> p_friends_of_mujeres_de_la_tierra,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_gno_interfaith_sanctuary_coalition,GNO Interfaith Sanctuary Coalition,project,2,jef -> afgj -> p_gno_interfaith_sanctuary_coalition,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_good_shepherd_collective,Good Shepherd Collective,project,2,jef -> afgj -> p_good_shepherd_collective,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_hampshire_college_legal_support_fund,Hampshire College Legal Support Fund,project,2,jef -> afgj -> p_hampshire_college_legal_support_fund,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_hands_up_united,Hands Up United,project,2,jef -> afgj -> p_hands_up_united,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_honduras_solidarity_network,Honduras Solidarity Network,project,2,jef -> afgj -> p_honduras_solidarity_network,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_human_rights_school,Human Rights School,project,2,jef -> afgj -> p_human_rights_school,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_initiative_for_equality,Initiative for Equality,project,2,jef -> afgj -> p_initiative_for_equality,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_instituto_agroecol_gico_latinoamerican,Instituto Agroecológico Latinoamericano–Mesoamericana (IALA Mesoamerica),project,2,jef -> afgj -> p_instituto_agroecol_gico_latinoamerican,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_international_indigenous_initiative_fo,InterNational Indigenous Initiative for Transformative Collaboration,project,2,jef -> afgj -> p_international_indigenous_initiative_fo,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_international_journal_of_foreign_langu,International Journal of Foreign Language Teaching,project,2,jef -> afgj -> p_international_journal_of_foreign_langu,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_international_people_s_tribunal,International People’s Tribunal,project,2,jef -> afgj -> p_international_people_s_tribunal,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_interoccupy,InterOccupy,project,2,jef -> afgj -> p_interoccupy,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_irish_diaspora_decolonization_alliance,Irish Diaspora Decolonization Alliance,project,2,jef -> afgj -> p_irish_diaspora_decolonization_alliance,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_just_info,Just Info,project,2,jef -> afgj -> p_just_info,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_justice_for_all_coalition,Justice for All Coalition,project,2,jef -> afgj -> p_justice_for_all_coalition,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_juthour_arboretum,Juthour Arboretum,project,2,jef -> afgj -> p_juthour_arboretum,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_kevin_zeese_emerging_activists_fund,Kevin Zeese Emerging Activists Fund,project,2,jef -> afgj -> p_kevin_zeese_emerging_activists_fund,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_kindred_connections,Kindred Connections,project,2,jef -> afgj -> p_kindred_connections,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_la_colectiva,La ColectiVA,project,2,jef -> afgj -> p_la_colectiva,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_labor_against_racism_and_war,Labor Against Racism and War,project,2,jef -> afgj -> p_labor_against_racism_and_war,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_lancaster_bail_fund,Lancaster Bail Fund,project,2,jef -> afgj -> p_lancaster_bail_fund,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_legal_defense_for_palestine,Legal Defense for Palestine,project,2,jef -> afgj -> p_legal_defense_for_palestine,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_lgbt_freedom_and_asylum_network,LGBT Freedom and Asylum Network,project,2,jef -> afgj -> p_lgbt_freedom_and_asylum_network,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_lgbt_voice_tanzania,LGBT Voice Tanzania,project,2,jef -> afgj -> p_lgbt_voice_tanzania,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_lo_eterno_media_collective,Lo Eterno Media Collective,project,2,jef -> afgj -> p_lo_eterno_media_collective,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_los_angeles_community_action_network,Los Angeles Community Action Network,project,2,jef -> afgj -> p_los_angeles_community_action_network,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_lupinewood,Lupinewood,project,2,jef -> afgj -> p_lupinewood,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_march_4_racial_justice,March 4 Racial Justice,project,2,jef -> afgj -> p_march_4_racial_justice,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_march_4_racial_justice_ny,March 4 Racial Justice NY,project,2,jef -> afgj -> p_march_4_racial_justice_ny,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_miracle_for_mikeals_legacy_foundation,Miracle For Mikeals Legacy Foundation,project,2,jef -> afgj -> p_miracle_for_mikeals_legacy_foundation,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_mosaic_black_trans_funding_network,Mosaic Black Trans Funding Network,project,2,jef -> afgj -> p_mosaic_black_trans_funding_network,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_movement_net_lab,Movement Net Lab,project,2,jef -> afgj -> p_movement_net_lab,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_nappy_roots_books,Nappy Roots Books,project,2,jef -> afgj -> p_nappy_roots_books,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_national_association_of_human_rights_d,National Association of Human Rights Defenders,project,2,jef -> afgj -> p_national_association_of_human_rights_d,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_national_immigrant_solidarity_network,National Immigrant Solidarity Network,project,2,jef -> afgj -> p_national_immigrant_solidarity_network,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_national_network_opposing_the_militari,National Network Opposing the Militarization of Youth,project,2,jef -> afgj -> p_national_network_opposing_the_militari,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_never_again_action,Never Again Action,project,2,jef -> afgj -> p_never_again_action,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_nicaragua_solidarity_fund,Nicaragua Solidarity Fund,project,2,jef -> afgj -> p_nicaragua_solidarity_fund,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_o_odham_anti_border_collective,O’odham Anti Border Collective,project,2,jef -> afgj -> p_o_odham_anti_border_collective,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_orinoco_tribune,Orinoco Tribune,project,2,jef -> afgj -> p_orinoco_tribune,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_otros_mundos_a_c,Otros Mundos A.C.,project,2,jef -> afgj -> p_otros_mundos_a_c,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_peace_education,Peace Education,project,2,jef -> afgj -> p_peace_education,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_people_helping_people,People Helping People,project,2,jef -> afgj -> p_people_helping_people,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_philly_thrive,Philly Thrive,project,2,jef -> afgj -> p_philly_thrive,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_poor_people_s_economic_human_rights_ca,Poor People’s Economic Human Rights Campaign,project,2,jef -> afgj -> p_poor_people_s_economic_human_rights_ca,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_popular_resistance,Popular Resistance,project,2,jef -> afgj -> p_popular_resistance,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_pueblo_sin_fronteras,Pueblo Sin Fronteras,project,2,jef -> afgj -> p_pueblo_sin_fronteras,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_queer_food_foundation,Queer Food Foundation,project,2,jef -> afgj -> p_queer_food_foundation,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_radical_bloggers_fund,Radical Bloggers Fund,project,2,jef -> afgj -> p_radical_bloggers_fund,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_real_food_generation,Real Food Generation,project,2,jef -> afgj -> p_real_food_generation,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_real_name_campaign_nola,Real Name Campaign NOLA,project,2,jef -> afgj -> p_real_name_campaign_nola,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_reale_justice_network,Reale Justice Network,project,2,jef -> afgj -> p_reale_justice_network,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_reconnect_earth,Reconnect Earth,project,2,jef -> afgj -> p_reconnect_earth,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_red_de_solidaridad,Red de Solidaridad,project,2,jef -> afgj -> p_red_de_solidaridad,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_refuse_fascism,Refuse Fascism,project,2,jef -> afgj -> p_refuse_fascism,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_return_solidarity,Return Solidarity,project,2,jef -> afgj -> p_return_solidarity,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_reuniting_of_african_descendants_road,Reuniting of African Descendants (ROAD),project,2,jef -> afgj -> p_reuniting_of_african_descendants_road,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_solidarity_ignite,Solidarity Ignite,project,2,jef -> afgj -> p_solidarity_ignite,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_south_bronx_unite,South Bronx Unite,project,2,jef -> afgj -> p_south_bronx_unite,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_splitseed_productions,SplitSeed Productions,project,2,jef -> afgj -> p_splitseed_productions,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_stop_mass_incarceration_network,Stop Mass Incarceration Network,project,2,jef -> afgj -> p_stop_mass_incarceration_network,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_suriname_indigenous_health_fund,Suriname Indigenous Health Fund,project,2,jef -> afgj -> p_suriname_indigenous_health_fund,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_sustainable_nations,Sustainable Nations,project,2,jef -> afgj -> p_sustainable_nations,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_sustainable_orphanages_for_haitian_you,Sustainable Orphanages for Haitian Youth,project,2,jef -> afgj -> p_sustainable_orphanages_for_haitian_you,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_ta_ayush,Ta’ayush,project,2,jef -> afgj -> p_ta_ayush,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_taking_black_pride,Taking Black Pride,project,2,jef -> afgj -> p_taking_black_pride,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_the_l_i_c_project,The L.I.C. Project,project,2,jef -> afgj -> p_the_l_i_c_project,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_thompson_house_tucson,Thompson House Tucson,project,2,jef -> afgj -> p_thompson_house_tucson,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_trans_women_of_color_solidarity_networ,Trans Women of Color Solidarity Network,project,2,jef -> afgj -> p_trans_women_of_color_solidarity_networ,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_ubuntu,UBUNTU,project,2,jef -> afgj -> p_ubuntu,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_unir,UNIR,project,2,jef -> afgj -> p_unir,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_united_students_against_sweatshops,United Students Against Sweatshops,project,2,jef -> afgj -> p_united_students_against_sweatshops,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_upland_grassroots,Upland Grassroots,project,2,jef -> afgj -> p_upland_grassroots,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_werk_for_peace,WERK for Peace,project,2,jef -> afgj -> p_werk_for_peace,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_white_noise_collective,White Noise Collective,project,2,jef -> afgj -> p_white_noise_collective,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_woodbine_education_center,Woodbine Education Center,project,2,jef -> afgj -> p_woodbine_education_center,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_world_can_t_wait,World Can’t Wait,project,2,jef -> afgj -> p_world_can_t_wait,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,p_youth_vs_apocalypse,Youth Vs Apocalypse,project,2,jef -> afgj -> p_youth_vs_apocalypse,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,rub_venceremos_brigade,Venceremos Brigade,org,2,jef -> pf -> rub_venceremos_brigade,fiscal_sponsor
+incl_sponsorship,Singham,singham|psf|jef,venezuela,Venezuela,concept,2,singham -> answer -> venezuela,sponsor
+incl_sponsorship,Singham,singham|psf|jef,cuba,Cuba,concept,3,jef -> afgj -> hatuey -> cuba,donated
+incl_sponsorship,Singham,singham|psf|jef,minsap,MINSAP (Cuban Health Ministry),org,3,jef -> afgj -> hatuey -> minsap,donations_to
+incl_sponsorship,Singham,singham|psf|jef,rub_weather_underground,Weather Underground,org,4,jef -> afgj -> hatuey -> cuba -> rub_weather_underground,funds
+incl_sponsorship,RLS Berlin,german_gov|rls_berlin,fes,Friedrich Ebert Stiftung Inc (FES),org,1,german_gov -> fes,funds
+incl_sponsorship,RLS Berlin,german_gov|rls_berlin,fns,Friedrich Naumann Foundation (FNS),org,1,german_gov -> fns,funds
+incl_sponsorship,RLS Berlin,german_gov|rls_berlin,hbs,Heinrich Boell Foundation (HBS),org,1,german_gov -> hbs,funds
+incl_sponsorship,RLS Berlin,german_gov|rls_berlin,hss,Hanns Seidel Foundation USA (HSS),org,1,german_gov -> hss,funds
+incl_sponsorship,RLS Berlin,german_gov|rls_berlin,kas,Konrad Adenauer Stiftung Inc (KAS),org,1,german_gov -> kas,funds
+incl_sponsorship,RLS Berlin,german_gov|rls_berlin,p_coalition_of_women_for_peace,Coalition of Women for Peace,project,1,german_gov -> p_coalition_of_women_for_peace,funds
+incl_sponsorship,RLS Berlin,german_gov|rls_berlin,rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,1,rls_berlin -> rls_nyc,funds
+incl_sponsorship,RLS Berlin,german_gov|rls_berlin,dsa,Democratic Socialists of America,org,2,rls_berlin -> rls_nyc -> dsa,funds
+incl_sponsorship,RLS Berlin,german_gov|rls_berlin,jacobin,Jacobin,org,2,rls_berlin -> rls_nyc -> jacobin,cosponsor
+incl_sponsorship,RLS Berlin,german_gov|rls_berlin,ydsa,Young DSA (YDSA),org,2,rls_berlin -> rls_nyc -> ydsa,funds

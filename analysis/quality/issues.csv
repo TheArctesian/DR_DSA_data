@@ -1,0 +1,142 @@
+severity,scope,id,field,detail
+high,node,brease,source_url,placeholder URL: https://example.com/source-needed
+high,node,bugni,source_url,placeholder URL: https://example.com/source-needed
+high,node,yee,source_url,placeholder URL: https://example.com/source-needed
+medium,file,datarep_nodes.csv,country,77% blank
+medium,file,datarep_nodes.csv,magnitude,"mixed units: org values look like revenue in $M, person values are a 1-6 salience score; never aggregate across kinds"
+medium,node,gonzales,edges,isolated node: Kate Gonzales
+medium,node,hatuey,n_slices,n_slices=1 but slices lists 3
+medium,node,samidoun,n_slices,n_slices=1 but slices lists 2
+medium,node,santos,edges,isolated node: Lucas Tinti dos Santos
+low,edge,309,label,blank label (icap -award-> seal)
+low,edge,334,label,blank label (lariva -member-> answer)
+low,edge,366,label,blank label (mccarthy -network-> singham)
+low,file,datarep_edges.csv,directed,"mixed spellings: 'yes' 733, 'true' 175, 'no' 151"
+low,file,datarep_edges.csv,relation,"naming variants: hosted (13), hosted_by (2)"
+low,file,datarep_edges.csv,relation,"naming variants: co-organizer (3), co_organizer (1)"
+low,file,datarep_edges.csv,relation,"naming variants: co_founder (14), cofounder (1)"
+low,file,datarep_edges.csv,relation,"naming variants: co_chair (1), cochair (1)"
+low,file,datarep_edges.csv,relation,"naming variants: co_sponsor (1), cosponsor (1)"
+low,node,btm,source_url,no source URL
+low,node,c3misc,source_url,no source URL
+low,node,china,source_url,no source URL
+low,node,cuba,source_url,no source URL
+low,node,cultureproject,source_url,no source URL
+low,node,gbi,source_url,no source URL
+low,node,iran,source_url,no source URL
+low,node,minsap,source_url,no source URL
+low,node,p_black_lives_matter_tucson,source_url,no source URL
+low,node,p_bukit_bail_fund_of_pittsburgh,source_url,no source URL
+low,node,p_bv_solidarity_project,source_url,no source URL
+low,node,p_centro_solidario_de_puerto_rico,source_url,no source URL
+low,node,p_change_links_newspaper,source_url,no source URL
+low,node,p_chicago_housing_initiative,source_url,no source URL
+low,node,p_chicago_housing_justice_league,source_url,no source URL
+low,node,p_chico_mendes_reforestation_project,source_url,no source URL
+low,node,p_cindy_sheehan_s_soapbox,source_url,no source URL
+low,node,p_clean_up_the_mines,source_url,no source URL
+low,node,p_coalition_of_women_for_peace,source_url,no source URL
+low,node,p_colorado_freedom_fund,source_url,no source URL
+low,node,p_community_action_relief_project,source_url,no source URL
+low,node,p_creating_a_more_beloved_community_film,source_url,no source URL
+low,node,p_denver_justice_project,source_url,no source URL
+low,node,p_erie_bail_fund,source_url,no source URL
+low,node,p_eritye_papa_desalin,source_url,no source URL
+low,node,p_free_mumia_abu_jamal_coalition,source_url,no source URL
+low,node,p_friends_of_asociaci_n_de_trabajadores_,source_url,no source URL
+low,node,p_friends_of_gente_de_i_itoi_a_c,source_url,no source URL
+low,node,p_friends_of_mujeres_de_la_tierra,source_url,no source URL
+low,node,p_gno_interfaith_sanctuary_coalition,source_url,no source URL
+low,node,p_good_shepherd_collective,source_url,no source URL
+low,node,p_hampshire_college_legal_support_fund,source_url,no source URL
+low,node,p_hands_up_united,source_url,no source URL
+low,node,p_honduras_solidarity_network,source_url,no source URL
+low,node,p_human_rights_school,source_url,no source URL
+low,node,p_initiative_for_equality,source_url,no source URL
+low,node,p_instituto_agroecol_gico_latinoamerican,source_url,no source URL
+low,node,p_international_indigenous_initiative_fo,source_url,no source URL
+low,node,p_international_journal_of_foreign_langu,source_url,no source URL
+low,node,p_interoccupy,source_url,no source URL
+low,node,p_irish_diaspora_decolonization_alliance,source_url,no source URL
+low,node,p_just_info,source_url,no source URL
+low,node,p_justice_for_all_coalition,source_url,no source URL
+low,node,p_juthour_arboretum,source_url,no source URL
+low,node,p_kevin_zeese_emerging_activists_fund,source_url,no source URL
+low,node,p_kindred_connections,source_url,no source URL
+low,node,p_la_colectiva,source_url,no source URL
+low,node,p_labor_against_racism_and_war,source_url,no source URL
+low,node,p_lancaster_bail_fund,source_url,no source URL
+low,node,p_legal_defense_for_palestine,source_url,no source URL
+low,node,p_lgbt_freedom_and_asylum_network,source_url,no source URL
+low,node,p_lgbt_voice_tanzania,source_url,no source URL
+low,node,p_lo_eterno_media_collective,source_url,no source URL
+low,node,p_lupinewood,source_url,no source URL
+low,node,p_march_4_racial_justice,source_url,no source URL
+low,node,p_march_4_racial_justice_ny,source_url,no source URL
+low,node,p_mosaic_black_trans_funding_network,source_url,no source URL
+low,node,p_movement_net_lab,source_url,no source URL
+low,node,p_nappy_roots_books,source_url,no source URL
+low,node,p_national_association_of_human_rights_d,source_url,no source URL
+low,node,p_national_immigrant_solidarity_network,source_url,no source URL
+low,node,p_national_network_opposing_the_militari,source_url,no source URL
+low,node,p_never_again_action,source_url,no source URL
+low,node,p_nicaragua_solidarity_fund,source_url,no source URL
+low,node,p_o_odham_anti_border_collective,source_url,no source URL
+low,node,p_orinoco_tribune,source_url,no source URL
+low,node,p_otros_mundos_a_c,source_url,no source URL
+low,node,p_peace_education,source_url,no source URL
+low,node,p_people_helping_people,source_url,no source URL
+low,node,p_philly_thrive,source_url,no source URL
+low,node,p_poor_people_s_economic_human_rights_ca,source_url,no source URL
+low,node,p_popular_resistance,source_url,no source URL
+low,node,p_pueblo_sin_fronteras,source_url,no source URL
+low,node,p_queer_food_foundation,source_url,no source URL
+low,node,p_radical_bloggers_fund,source_url,no source URL
+low,node,p_real_food_generation,source_url,no source URL
+low,node,p_real_name_campaign_nola,source_url,no source URL
+low,node,p_reale_justice_network,source_url,no source URL
+low,node,p_reconnect_earth,source_url,no source URL
+low,node,p_red_de_solidaridad,source_url,no source URL
+low,node,p_refuse_fascism,source_url,no source URL
+low,node,p_return_solidarity,source_url,no source URL
+low,node,p_reuniting_of_african_descendants_road,source_url,no source URL
+low,node,p_solidarity_ignite,source_url,no source URL
+low,node,p_south_bronx_unite,source_url,no source URL
+low,node,p_splitseed_productions,source_url,no source URL
+low,node,p_stop_mass_incarceration_network,source_url,no source URL
+low,node,p_suriname_indigenous_health_fund,source_url,no source URL
+low,node,p_sustainable_nations,source_url,no source URL
+low,node,p_sustainable_orphanages_for_haitian_you,source_url,no source URL
+low,node,p_ta_ayush,source_url,no source URL
+low,node,p_taking_black_pride,source_url,no source URL
+low,node,p_the_l_i_c_project,source_url,no source URL
+low,node,p_thompson_house_tucson,source_url,no source URL
+low,node,p_trans_women_of_color_solidarity_networ,source_url,no source URL
+low,node,p_ubuntu,source_url,no source URL
+low,node,p_unir,source_url,no source URL
+low,node,p_united_students_against_sweatshops,source_url,no source URL
+low,node,p_upland_grassroots,source_url,no source URL
+low,node,p_werk_for_peace,source_url,no source URL
+low,node,p_white_noise_collective,source_url,no source URL
+low,node,p_woodbine_education_center,source_url,no source URL
+low,node,p_world_can_t_wait,source_url,no source URL
+low,node,p_youth_vs_apocalypse,source_url,no source URL
+low,node,puf,source_url,no source URL
+low,node,pwa,source_url,no source URL
+low,node,rhc,source_url,no source URL
+low,node,russia,source_url,no source URL
+low,node,seal,source_url,no source URL
+low,node,ucf,source_url,no source URL
+low,node,uts,source_url,no source URL
+low,node,venezuela,source_url,no source URL
+info,file,datarep_edges.csv,relation,187 distinct relation types; 98 used only once
+info,file,datarep_nodes.csv,country,blank on 396 of 512 nodes; see geography.py for inferred locations
+info,file,datarep_nodes.csv,magnitude,person: n=176 min=1.0 median=2.0 max=34.0
+info,file,datarep_nodes.csv,magnitude,org: n=40 min=2.0 median=18.0 max=82.9
+info,file,datarep_nodes.csv,magnitude,concept: n=6 min=6.0 median=16.0 max=49.0
+info,file,datarep_positions.csv,format,file is JSON despite the .csv extension
+info,node,afgj,notes,compiler caveat in notes: 'Stale' - Fiscal sponsor of ~122 left projects; successor to Nicaragua Network || Stale banner copy 
+info,node,rub_black_lives_matter_at_scho,notes,"compiler caveat in notes: 'TIER B' - us_501c3_active; report §V-VI.  [TIER B — context-only, NEVER in a Cuba total]"
+info,node,rub_black_lives_matter_global,notes,"compiler caveat in notes: 'TIER B' - us_501c3_active; report §V-VI.  [TIER B — context-only, NEVER in a Cuba total]"
+info,node,rub_black_lives_matter_grassro,notes,"compiler caveat in notes: 'TIER B' - us_501c3_active; report §V-VI.  [TIER B — context-only, NEVER in a Cuba total]"
+info,node,rub_thousand_currents,notes,"compiler caveat in notes: 'TIER B' - us_501c3_active; report §V-VI.  [TIER B — context-only, NEVER in a Cuba total]"

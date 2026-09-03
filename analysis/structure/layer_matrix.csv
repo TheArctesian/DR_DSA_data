@@ -1,0 +1,9 @@
+node_layer,center,context,money,opposition,party,state,terror,veneer
+center,2,3,21,0,37,56,1,92
+context,3,75,19,4,19,49,19,9
+money,21,19,44,0,85,29,3,9
+opposition,0,4,0,0,0,16,0,0
+party,37,19,85,0,109,90,3,62
+state,56,49,29,16,90,68,5,32
+terror,1,19,3,0,3,5,9,0
+veneer,92,9,9,0,62,32,0,89

@@ -1,0 +1,161 @@
+url,domain,edges,distinct_nodes,complete_clique,relations,nodes
+https://www.influencewatch.org/non-profit/alliance-for-global-justice/,influencewatch.org,12,13,0,co_signatory 7; helped_form 1; fiscal_sponsor 1,Alliance for Global J…; ANSWER Coalition; Black Alliance for Pe…; CODEPINK; Cuba; Freedom Road Socialis…; Occupy Wall Street; James Patrick Jordan
+https://en.wikipedia.org/wiki/BreakThrough_News,en.wikipedia.org,10,8,0,host 3; contributor 2; editor-in-chief 1,ANSWER Coalition; Ben Becker; Brian Becker; BreakThrough News; Claudia De la Cruz; Rania Abdul Khalek; The People's Forum; Eugene Puryear
+https://en.wikipedia.org/wiki/Cuban_Five,en.wikipedia.org,9,7,0,infiltrated 9,Alpha 66; Brothers to the Rescue; Cuban American Nation…; Antonio Guerrero; Gerardo Hernández; Ramón Labañino; René González
+https://en.wikipedia.org/wiki/The_World_Can%27t_Wait,en.wikipedia.org,9,7,0,supporter 4; chaired 1; affiliation 1,Eve Ensler; Revolutionary Communi…; Refuse Fascism; World Can’t Wait; Cindy Sheehan; Debra Sweet; Sunsara Taylor
+https://en.wikipedia.org/wiki/Party_for_Socialism_and_Liberation,en.wikipedia.org,8,8,0,role 3; affiliation 2; member 1,Brian Becker; BreakThrough News; Claudia De la Cruz; Justice and Education…; Rania Abdul Khalek; The People's Forum; Party for Socialism &…; Eugene Puryear
+https://www.adl.org/resources/backgrounder/party-socialism-and-liberation-psl,adl.org,8,8,0,network 2; co-organizer 2; collaborator 1,ANSWER Coalition; Jewish Voice for Peac…; The People's Forum; Party for Socialism &…; Eugene Puryear; Russia; Samidoun Palestinian …; Venezuela
+https://www.influencewatch.org/non-profit/the-peoples-forum/,influencewatch.org,8,9,0,partners 4; hosted 1; co_signatory 1,ANSWER Coalition; David Sung Mo Chung; CODEPINK; Democratic Socialists…; The People's Forum; Vijay Prashad; Party for Socialism &…; Samidoun Palestinian …
+https://www.answercoalition.org/afgj_s_chuck_kaufman_takes_on_imperialist_myths_in,answercoalition.org,7,7,0,supports 5; reposted 1; photo_credit 1,Alliance for Global J…; ANSWER Coalition; FSLN — Sandinista Nat…; Chuck Kaufman; Dan Kovalik; Nicaragua Network; Daniel Ortega
+https://en.wikipedia.org/wiki/Kevin_Zeese,en.wikipedia.org,6,6,0,associate 5; co_founder 1,Medea Benjamin; CODEPINK; Green Party; Nicolás Maduro; Kevin Zeese; Margaret Flowers
+https://en.wikipedia.org/wiki/Medea_Benjamin,en.wikipedia.org,6,7,0,aided 2; relative 1; member 1,Medea Benjamin; CODEPINK; Cuba; Green Party; Green Shadow Cabinet; Rose Benjamin; Students for a Democr…
+https://en.wikipedia.org/wiki/Code_Pink,en.wikipedia.org,5,7,0,affiliation 1; attended 1; visited 1,Medea Benjamin; CODEPINK; Foro de São Paulo; Nicolás Maduro; Progressive Internati…; Hamas; Venezuela
+https://en.wikipedia.org/wiki/Eugene_Puryear,en.wikipedia.org,5,6,0,host 1; vice_presidential_nominee 1; endorsed 1,ANSWER Coalition; BreakThrough News; Democratic Socialists…; Gloria La Riva; Party for Socialism &…; Eugene Puryear
+https://en.wikipedia.org/wiki/Weather_Underground,en.wikipedia.org,5,5,0,split_from 1; succeeded 1; associate 1,Cuba; Black Panther Party; May 19th Communist Or…; Students for a Democr…; Weather Underground
+https://en.wikipedia.org/wiki/Bernardine_Dohrn,en.wikipedia.org,4,4,0,spouse 1; organizer 1; officer 1,National Lawyers Guild; Bernardine Dohrn; Bill Ayers; Students for a Democr…
+https://en.wikipedia.org/wiki/Palestinian_Islamic_Jihad,en.wikipedia.org,4,5,0,collaborator 2; funds 1; foreign_tie 1,Islamic Republic of I…; Popular Front for the…; Hamas; Hezbollah; Palestinian Islamic J…
+https://peoplesforum.org/about/staff/,peoplesforum.org,4,6,0,researcher 1; education_coordinator 1; organizing_director 1,Tajee Bounds; David Sung Mo Chung; Manolo de los Santos; Saidi Moseley; The People's Forum; Tricontinental: Insti…
+https://projects.propublica.org/nonprofits/organizations/822882135,projects.propublica.org,4,5,0,secretary 2; deputy_director 1; director 1,Renata Porto Bugni; STEIN-DELLA CROCE; Rita Henderson; Nancy Taylor; Tricontinental: Insti…
+https://www.hatueyproject.org/news/hatuey-project-press-conference-in-cuba/,hatueyproject.org,4,5,0,met 2; donated 1; role 1,Cuba; The Hatuey Project; Leni Villagómez Reeves; ICAP; Gloria La Riva
+https://afgj.org/about/board-of-directors,afgj.org,3,5,0,coordinator 2; officer 1,Katherine Hoyt; Nicaragua Network; Banbose Shango; National Network on C…; Venezuela Solidarity …
+https://en.wikipedia.org/wiki/Assata_Shakur,en.wikipedia.org,3,4,0,member 1; associate 1; political_asylum 1,Cuba; Assata Shakur; Black Panther Party; May 19th Communist Or…
+https://en.wikipedia.org/wiki/Black_Liberation_Army,en.wikipedia.org,3,3,1,affiliation 2; split 1,Black Liberation Army; Black Panther Party; Republic of New Afrika
+https://en.wikipedia.org/wiki/May_19th_Communist_Organization,en.wikipedia.org,3,3,1,combination 2; formed_by 1,Black Liberation Army; May 19th Communist Or…; Weather Underground
+https://en.wikipedia.org/wiki/Neville_Roy_Singham,en.wikipedia.org,3,4,0,praised 1; funds 1; network 1,ANSWER Coalition; Hugo Chavez; International Peoples…; Neville Roy Singham
+https://en.wikipedia.org/wiki/Paul_Larudee,en.wikipedia.org,3,4,0,born_in 1; appeared_on 1; met 1,Islamic Republic of I…; Press TV; Hamas; Paul Larudee
+https://en.wikipedia.org/wiki/Refuse_Fascism,en.wikipedia.org,3,3,1,founder 1; affiliation 1; shares_address 1,Revolutionary Communi…; Refuse Fascism; World Can’t Wait
+https://en.wikipedia.org/wiki/Robert_F._Williams,en.wikipedia.org,3,4,0,traveled_to 2; president 1,China (PRC); Cuba; Robert F. Williams; Republic of New Afrika
+https://lcbh.org/lcbh-helps-save-the-kcro/,lcbh.org,3,4,0,affiliation 2; role 1,Communities United; Lawyers’ Committee fo…; Chicago Housing Justi…; Frank Avellone
+https://ngo-monitor.org/ngos/coalition_of_women_for_peace/,ngo-monitor.org,3,3,1,funds 1; partner 1; member 1,German Federal Govern…; Women in Black; Coalition of Women fo…
+https://nnoc.org/member-orgs/,nnoc.org,3,4,0,member 3,Alliance for Global J…; Global Exchange; Institute for Policy …; National Network on C…
+https://popularresistance.org/declaration-of-the-embassy-protection-collective/,popularresistance.org,3,3,1,co-arrested 3,David Paul; Kevin Zeese; Margaret Flowers
+https://www.answercoalition.org/national_action_us_troops_out_of_iraq,answercoalition.org,3,3,1,co_initiator 3,ANSWER Coalition; CODEPINK; Popular Resistance
+https://www.codepink.org/day_3,codepink.org,3,5,0,met 1; role 1; collaborator 1,Ann Wright; Medea Benjamin; CODEPINK; Islamic Republic of I…; Mohammad Javad Zarif
+https://www.foxnews.com/politics/inside-cubas-foreign-influence-campaign-from-venceremos-brigade-1960s-saturday-union-hall,foxnews.com,3,4,0,funds 3,ANSWER Coalition; BreakThrough News; Party for Socialism &…; Neville Roy Singham
+https://www.foxnews.com/politics/second-front-how-socialist-cell-us-mobilized-pro-maduro-foot-soldiers-within-12-hours.amp,foxnews.com,3,5,0,member 1; associate 1; attended 1,Claudia De la Cruz; Manolo de los Santos; Jodie Evans; International Peoples…; Tricontinental: Insti…
+https://www.globalsecurity.org/military/world/usa/government/political-parties-psl.htm,globalsecurity.org,3,5,0,founder 1; foreign_tie 1; role 1,ANSWER Coalition; BreakThrough News; Vijay Prashad; Party for Socialism &…; Tricontinental: Insti…
+https://www.influencewatch.org/non-profit/benjamin-fund/,influencewatch.org,3,5,0,spouse 1; relative 1; associate 1,Alvin Benjamin (1920-…; Medea Benjamin; Maya (Mandela) Danaher; Rose Benjamin; Bill Ayers
+https://www.influencewatch.org/person/brian-becker/,influencewatch.org,3,3,1,defended 2; sponsor 1,Brian Becker; Cuba; Venezuela
+https://www.tucsonspotlight.org/collective-builds-community/,tucsonspotlight.org,3,3,1,associate 3,Mirely Baca; T Loving; Vikó Velazquez Morales
+https://www.venezuelasolidaritynetwork.org/01282025,venezuelasolidaritynetwork.org,3,5,0,member 3,Jill Clark-Gollub; David Paul; Democratic Socialists…; Task Force on the Ame…; Venezuela Solidarity …
+https://cindysheehanssoapbox.blogspot.com/2018/02/?m=0,cindysheehanssoapbox.blogspot.com,2,3,0,attended 2,Cindy Sheehan; Dakotah Lilly; Venezuela
+https://consortiumnews.com/2024/07/30/venezuela-as-us-leaders-call-fraud-us-observers-endorse-results/,consortiumnews.com,2,4,0,representative 1; predecessor 1,Hugo Chavez; International Peoples…; Nicolás Maduro; Wyatt Souers
+https://cubasi.cu/en/news/prominent-us-activist-receives-icap-commemorative-seal,cubasi.cu,2,3,0,received 1; support 1,Cuba; ICAP; Gloria La Riva
+https://en.wikipedia.org/wiki/Angela_Davis,en.wikipedia.org,2,3,0,member 2,Black Panther Party; Communist Party USA; Angela Davis
+https://en.wikipedia.org/wiki/Brothers_to_the_Rescue,en.wikipedia.org,2,3,0,infiltrated 1; opposes 1,Cuba; Brothers to the Rescue; René González
+https://en.wikipedia.org/wiki/Carl_Dix,en.wikipedia.org,2,3,0,initiated 1; collaborator 1,Stop Mass Incarcerati…; Carl Dix; Cornel West
+https://en.wikipedia.org/wiki/Cuban_American_National_Foundation,en.wikipedia.org,2,2,0,opposes 1; advocated_isolation_of 1,Cuba; Cuban American Nation…
+https://en.wikipedia.org/wiki/Democratic_Front_for_the_Liberation_of_Palestine,en.wikipedia.org,2,3,0,split 1; collaborator 1,Popular Front for the…; Democratic Front for …; Hamas
+https://en.wikipedia.org/wiki/Fair_Play_for_Cuba_Committee,en.wikipedia.org,2,3,0,organized trips to 1; associate 1,Cuba; Fair Play for Cuba Co…; Robert F. Williams
+https://en.wikipedia.org/wiki/Hezbollah,en.wikipedia.org,2,3,0,affiliation 2,Islamic Republic of I…; Islamic Revolutionary…; Hezbollah
+https://en.wikipedia.org/wiki/International_Peoples%27_Assembly,en.wikipedia.org,2,3,0,hosted 2,Cuba; International Peoples…; Venezuela
+https://en.wikipedia.org/wiki/Leonard_Boudin,en.wikipedia.org,2,3,0,member 1; relative 1,National Lawyers Guild; Kathy Boudin; Leonard Boudin
+https://en.wikipedia.org/wiki/Liz_Theoharis,en.wikipedia.org,2,3,0,spouse 1; collaborator 1,William Willie Baptis…; Christopher Chris Car…; Rev. Dr. Elizabeth Ar…
+https://en.wikipedia.org/wiki/Opal_Tometi,en.wikipedia.org,2,3,0,contacted 1; invited 1,Alicia Garza; Opal Tometi; Venezuela
+https://en.wikipedia.org/wiki/Palestine_Liberation_Organization,en.wikipedia.org,2,3,0,member 2,Popular Front for the…; Democratic Front for …; Palestine Liberation …
+https://en.wikipedia.org/wiki/Ramón_Labañino,en.wikipedia.org,2,3,0,infiltrated 2,Brothers to the Rescue; Antonio Guerrero; Ramón Labañino
+https://en.wikipedia.org/wiki/Students_for_a_Democratic_Society,en.wikipedia.org,2,3,0,affiliation 1; secession 1,Students for a Democr…; Venceremos Brigade; Weather Underground
+https://globalexchange.org/,globalexchange.org,2,3,0,travel 2,Cuba; Global Exchange; Islamic Republic of I…
+https://newlinesmag.com/reportage/the-big-business-of-uyghur-genocide-denial/,newlinesmag.com,2,4,0,advocates 1; funds 1,China (PRC); CODEPINK; People's Support Foun…; United Community Fund
+https://peoplesforum.org/venezuela-elections,peoplesforum.org,2,3,0,candidate 1; president 1,Hugo Chavez; Nicolás Maduro; Venezuela
+https://projects.propublica.org/nonprofits/organizations/522094677,projects.propublica.org,2,3,0,director 2,Alliance for Global J…; Banbose Shango; Nathan Sheard
+https://projects.propublica.org/nonprofits/organizations/811174658,projects.propublica.org,2,3,0,trustee 2,Claudia De la Cruz; General Baker Institu…; Marian Kramer
+https://projects.propublica.org/nonprofits/organizations/824975378,projects.propublica.org,2,3,0,director 2,David Sung Mo Chung; Karina Garcia; Justice and Education…
+https://taskforceamericas.org/staff/roger-harris/,taskforceamericas.org,2,3,0,interest 2,Cuba; Roger D. Harris; Venezuela
+https://www.adl.org/resources/backgrounder/jewish-voice-peace-jvp,adl.org,2,3,0,co-organizer 1; justified 1,IfNotNow; Jewish Voice for Peac…; Hamas
+https://www.codepink.org/pretrip,codepink.org,2,4,0,traveled_to 1; traveled_with 1,Ann Wright; Medea Benjamin; CODEPINK; Islamic Republic of I…
+https://www.discoverthenetworks.org/individuals/richard-becker/,discoverthenetworks.org,2,3,0,supported 1; associate 1,ANSWER Coalition; Occupy Wall Street; Richard Becker
+https://www.elisabethepps.com/meet-elisabeth,elisabethepps.com,2,3,0,member 2,Democratic Socialists…; Elisabeth Epps; Working Families Party
+https://www.guidestar.org/profile/94-3382208,guidestar.org,2,2,0,treasurer 1; board_member 1,Elizabeth Lowengard; Progress Unity Fund
+https://www.influencewatch.org/for-profit/the-black-trans-travel-fund/,influencewatch.org,2,4,0,grant 1; role 1,Black Trans Media; Black Trans Travel Fu…; Devin Michael Lowe; Black Lives Matter Gl…
+https://www.influencewatch.org/non-profit/coalition-of-women-for-peace/,influencewatch.org,2,3,0,collaborator 1; did_not_condemn 1,Women in Black; Coalition of Women fo…; Hamas
+https://www.influencewatch.org/non-profit/nicaragua-network/,influencewatch.org,2,3,0,member 1; co_director 1,ANSWER Coalition; Katherine Hoyt; Nicaragua Network
+https://www.influencewatch.org/organization/international-peoples-assembly-ipa/,influencewatch.org,2,3,0,endorsed 1; co_signatory 1,International Peoples…; Nicolás Maduro; Progressive Internati…
+https://www.influencewatch.org/organization/kevin-zeese-emerging-activists-fund/,influencewatch.org,2,3,0,affiliation 1; founder 1,Green Party; Kevin Zeese Emerging …; Popular Resistance
+https://www.nbcnews.com/id/wbna10704025,nbcnews.com,2,3,0,role 1; visited 1,Hugo Chavez; Cindy Sheehan; Venezuela
+https://www.thedailybeast.com/neville-singham-funded-breakthrough-news-is-pushing-moscow-beijing-propaganda/,thedailybeast.com,2,3,0,hosted 1; secretary 1,BreakThrough News; Claudia De la Cruz; Vijay Prashad
+https://www.yahoo.com/news/manolo-los-santos-leader-hamas-205656272.html,yahoo.com,2,3,0,foreign_tie 1; lauded 1,Cuba; Manolo de los Santos; Hamas
+http://immigrantsolidarity.org/China2017/Article/Article.html,immigrantsolidarity.org,1,2,1,organized 1,China (PRC); National Immigrant So…
+https://afgj.org/chuck-kaufman-presente,afgj.org,1,2,1,board_member 1,Chuck Kaufman; Honduras Solidarity N…
+https://afgj.org/partner-delegation-atc,afgj.org,1,2,1,coordinator 1,Friends of the ATC; Erika Takeo
+https://afgj.org/visiting-cuba,afgj.org,1,2,1,visited 1,Cuba; James Patrick Jordan
+https://archive.thinkprogress.org/as-verdict-looms-in-ferguson-activists-play-the-long-game-eb069e39181f/,archive.thinkprogress.org,1,2,1,co_founder 1,"Taureen ""Tory"" Russell; Tef Poe"
+https://assinvpopactcom.org/,assinvpopactcom.org,1,2,1,fiscal_sponsor 1,Good Shepherd Collect…; Association for Inves…
+https://ballotpedia.org/Karina_Garcia,ballotpedia.org,1,2,1,running_mate 1,Claudia De la Cruz; Karina Garcia
+https://breakingthechainsmag.org/women-on-the-frontlines-an-interview-with-gloria-la-riva/,breakingthechainsmag.org,1,2,1,defends 1,Cuba; Gloria La Riva
+https://breakthroughnews.org/2019/07/20/the-year-in-review-a-look-at-our-coverage/,breakthroughnews.org,1,2,1,hosted 1,International Peoples…; Venezuela
+https://canadiannetworkoncuba.ca/,canadiannetworkoncuba.ca,1,2,1,affiliation 1,Cuba; Canadian Network on C…
+https://colorlines.com/articles/michael-brown-one-year-later,colorlines.com,1,2,1,associate 1,Tara Thompson; Tef Poe
+https://en.wikipedia.org/wiki/A.N.S.W.E.R.,en.wikipedia.org,1,2,1,affiliation 1,ANSWER Coalition; Party for Socialism &…
+https://en.wikipedia.org/wiki/Alicia_Garza,en.wikipedia.org,1,2,1,co_founder 1,Alicia Garza; Opal Tometi
+https://en.wikipedia.org/wiki/Alpha_66,en.wikipedia.org,1,2,1,active_in 1,Cuba; Alpha 66
+https://en.wikipedia.org/wiki/Democratic_Socialists_of_America,en.wikipedia.org,1,2,1,affiliation 1,Democratic Socialists…; Young DSA (YDSA)
+https://en.wikipedia.org/wiki/Eddie_Conway,en.wikipedia.org,1,2,1,member 1,Marshall Eddie Conway; Black Panther Party
+https://en.wikipedia.org/wiki/General_Baker,en.wikipedia.org,1,2,1,spouse 1,General Gordon Baker …; Marian Kramer
+https://en.wikipedia.org/wiki/George_Galloway,en.wikipedia.org,1,2,1,foreign_tie 1,George Galloway; Russia
+https://en.wikipedia.org/wiki/Gloria_La_Riva,en.wikipedia.org,1,2,1,running_mate 1,Gloria La Riva; Eugene Puryear
+https://en.wikipedia.org/wiki/Gustavo_Petro,en.wikipedia.org,1,2,1,foreign_tie 1,Gustavo Petro; Venezuela
+https://en.wikipedia.org/wiki/HispanTV,en.wikipedia.org,1,2,1,spanish_version 1,HispanTV; Press TV
+https://en.wikipedia.org/wiki/Jodie_Evans,en.wikipedia.org,1,2,1,co_founder 1,Medea Benjamin; Jodie Evans
+https://en.wikipedia.org/wiki/Macheteros,en.wikipedia.org,1,2,1,collaborator 1,FALN; Macheteros
+https://en.wikipedia.org/wiki/Nayef_Hawatmeh,en.wikipedia.org,1,2,1,founder 1,Popular Front for the…; Nayef Hawatmeh
+https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine,en.wikipedia.org,1,2,1,collaborator 1,Popular Front for the…; Hamas
+https://en.wikipedia.org/wiki/Student_Nonviolent_Coordinating_Committee,en.wikipedia.org,1,2,1,affiliation 1,Black Panther Party; Student Nonviolent Co…
+https://en.wikipedia.org/wiki/Vijay_Prashad,en.wikipedia.org,1,2,1,associate 1,Vijay Prashad; Neville Roy Singham
+https://fightbacknews.org/articles/venezuela-s-president-maduro-speaks-25th-sao-paulo-forum,fightbacknews.org,1,2,1,praised 1,Hugo Chavez; Nicolás Maduro
+https://home.treasury.gov/news/press-releases/sm611,home.treasury.gov,1,2,1,affiliation 1,Islamic Republic of I…; New Horizon Organizat…
+https://iacenter.org/2019/11/01/the-venceremos-brigade-50-years-of-solidarity-with-cuba/,iacenter.org,1,2,1,sends_volunteers_to 1,Cuba; Venceremos Brigade
+https://kunstlerlaw.net/index.php/rebecca-heinegg/,kunstlerlaw.net,1,2,1,intern 1,Center for Constituti…; Rebecca Heinegg
+https://liberationschool.org/hong-kong-and-china/,liberationschool.org,1,2,1,aligned 1,China (PRC); Russia
+https://nnoc.org,nnoc.org,1,2,1,supports 1,Cuba; National Network on C…
+https://orinocotribune.com/,orinocotribune.com,1,2,1,from 1,Orinoco Tribune; Venezuela
+https://peoplesforum.org/instructor/willie-baptist/,peoplesforum.org,1,2,1,organizer 1,William Willie Baptis…; Poor People’s Economi…
+https://progressive.international/members/,progressive.international,1,2,1,member 1,CODEPINK; Progressive Internati…
+https://projects.propublica.org/nonprofits/organizations/131624238,projects.propublica.org,1,2,1,role 1,Cornel West; Union Theological Sem…
+https://projects.propublica.org/nonprofits/organizations/262823386,projects.propublica.org,1,2,1,director 1,Ann Wright; CODEPINK
+https://projects.propublica.org/nonprofits/organizations/943382208,projects.propublica.org,1,2,1,president 1,Nathalie Patricia Hri…; Progress Unity Fund
+https://revcom.us/movement-for-revolution/stop-mass-incarceration/stop-mass-incarceration-carl-dix.html,revcom.us,1,2,1,co_founder 1,Stop Mass Incarcerati…; Carl Dix
+https://rosalux.nyc/cuba-is-being-strangled/,rosalux.nyc,1,2,1,foreign_tie 1,Cuba; Venezuela
+https://samidoun.net/2023/01/28-january-public-launch-of-the-international-peoples-tribunal-on-u-s-imperialism-sanctions-blockades-and-economic-coercive-measures/,samidoun.net,1,2,1,co_sponsor 1,International People’…; Samidoun Palestinian …
+https://sanctionssearch.ofac.treas.gov/Details.aspx?id=45062,sanctionssearch.ofac.treas.gov,1,2,1,located_in 1,Islamic Republic of I…; Press TV
+https://sanctionstribunal.org,sanctionstribunal.org,1,2,1,named_after 1,Cuba; Tricontinental: Insti…
+https://simple.wikipedia.org/wiki/Karina_Garcia,simple.wikipedia.org,1,2,1,running_mate 1,Claudia De la Cruz; Karina Garcia
+https://sputnikglobe.com/20200627/huge-covid-spikes-in-us-as-trump-tries-to-cut-health-care-for-millions-1079731935.html,sputnikglobe.com,1,2,1,appeared_with 1,Brian Becker; Maurice Cook
+https://thejerichomovement.com,thejerichomovement.com,1,2,1,solidarity 1,The Jericho Movement; Samidoun Palestinian …
+https://therealnews.com/international-election-observers-and-journalists-contest-claims-of-venezuela-election-fraud,therealnews.com,1,2,1,president 1,Nicolás Maduro; Venezuela
+https://thetricontinental.org/team/,thetricontinental.org,1,2,1,role 1,Tings Chak; Tricontinental: Insti…
+https://vb4cuba.com/,vb4cuba.com,1,2,1,fiscal_sponsor 1,The People's Forum; Venceremos Brigade
+https://waysandmeans.house.gov/2025/09/04/chairman-smith-exposes-u-s-nonprofit-as-likely-ccp-funded-propaganda-arm-operating-under-tax-exempt-status/,waysandmeans.house.gov,1,2,1,justified 1,The People's Forum; Hamas
+https://www.answercoalition.org/april_22_direct_from_venezuela,answercoalition.org,1,2,1,sponsor 1,ANSWER Coalition; Venezuela
+https://www.arizonapalestine.org/about.html,arizonapalestine.org,1,2,1,network 1,Arizona Palestine Sol…; People Helping People
+https://www.banks.senate.gov/news/press-releases/senator-jim-banks-to-attorney-general-bondi-i-urge-you-to-investigate-code-pink-for-potential-violations-of-fara/,banks.senate.gov,1,2,1,foreign_tie 1,China (PRC); CODEPINK
+https://www.codepink.org/day_2,codepink.org,1,2,1,associate 1,Ann Wright; Medea Benjamin
+https://www.democracynow.org/2019/2/27/codepinks_medea_benjamin_on_peace_delegation,democracynow.org,1,2,1,met 1,CODEPINK; Mohammad Javad Zarif
+https://www.discoverthenetworks.org/individuals/medea-benjamin/,discoverthenetworks.org,1,2,1,relative 1,Alvin Benjamin (1920-…; Medea Benjamin
+https://www.economichumanrights.org/speaking-engagements/,economichumanrights.org,1,2,1,met 1,Hugo Chavez; Cheri Honkala
+https://www.fgbrdkuba.de/,fgbrdkuba.de,1,2,1,affiliation 1,Cuba; ICAP
+https://www.gp.org/2018_sc_elections,gp.org,1,2,1,partner 1,Kevin Zeese; Margaret Flowers
+https://www.hatueyproject.org/news/u-s-activists-deliver-60000-in-medical-aid-to-cuban-children-with-cancer/,hatueyproject.org,1,2,1,delivered 1,Cuba; The Hatuey Project
+https://www.hondurassolidarity.org,hondurassolidarity.org,1,2,1,supports 1,Global Exchange; Honduras Solidarity N…
+https://www.influencewatch.org/non-profit/black-trans-media/,influencewatch.org,1,2,1,grant 1,Black Trans Media; Black Lives Matter Gl…
+https://www.influencewatch.org/non-profit/breakthrough-news-btn/,influencewatch.org,1,2,1,collaborator 1,BreakThrough News; Tricontinental: Insti…
+https://www.influencewatch.org/non-profit/movement-netlab/,influencewatch.org,1,2,1,split_from 1,Occupy Sandy; Occupy Wall Street
+https://www.influencewatch.org/non-profit/us-labor-against-the-war/,influencewatch.org,1,2,1,shared 1,Democratic Socialists…; Labor Against Racism …
+https://www.influencewatch.org/organization/arizona-educators-united-aeu/,influencewatch.org,1,2,1,affiliation 1,Democratic Socialists…; Arizona Educators Uni…
+https://www.influencewatch.org/organization/arizona-palestine-solidarity-alliance/,influencewatch.org,1,2,1,formed_through 1,Nicaragua Network; Arizona Palestine Sol…
+https://www.influencewatch.org/organization/assatas-daughters/,influencewatch.org,1,2,1,exiled 1,Cuba; Assata Shakur
+https://www.influencewatch.org/organization/black-lives-matter-oklahoma-city/,influencewatch.org,1,2,1,collaborator 1,Black Lives Matter-Ok…; NAACP
+https://www.influencewatch.org/organization/black-movement-law-project/,influencewatch.org,1,2,1,coordinator 1,National Lawyers Guild; Abraham Hassen
+https://www.influencewatch.org/organization/interoccupy/,influencewatch.org,1,2,1,began_with 1,Occupy Wall Street; InterOccupy
+https://www.influencewatch.org/organization/united-states-against-sweatshops/,influencewatch.org,1,2,1,campaign_manager 1,CODEPINK; Makayla Heiser
+https://www.instrumentl.com/990-report/general-baker-institute,instrumentl.com,1,2,1,affiliation 1,General Baker Institu…; Marian Kramer
+https://www.internacionalantifascista.org/antifascist-statement-of-caracas/,internacionalantifascista.org,1,2,1,role 1,Nicolás Maduro; Venezuela
+https://www.nacle.com/CLE/Courses/Protest-Lawyering-Theory-and-Practice-460,nacle.com,1,2,1,coordinator 1,National Lawyers Guild; Meghan Maurus
+https://www.nnomy.org/about-us/steering-committee,nnomy.org,1,2,1,coordinator 1,Military Families Spe…; Pat Alviso
+https://www.okgazette.com/arts-culture/strong-spines-3804530,okgazette.com,1,2,1,co_chair 1,Banbose Shango; National Network on C…
+https://www.peaceandfreedom.us/index.php/news/elections-campaigns/claudia-de-la-cruz-karina-garcia-the-bios,peaceandfreedom.us,1,2,1,visited 1,Cuba; Claudia De la Cruz
+https://www.peoplessupportfoundation.org/,peoplessupportfoundation.org,1,2,1,director 1,Jo Anderson-Figueroa; People's Support Foun…
+https://www.persuasion.community/p/the-democratic-socialists-of-america,persuasion.community,1,2,1,endorsed 1,Savannah Kuang; Nicolás Maduro
+https://www.radiohc.cu/en/the-hatuey-project-of-the-united-states-reaffirms-its-solidarity-with-cuba/,radiohc.cu,1,2,1,solidarity 1,Cuba; The Hatuey Project
+https://www.trtworld.com/magazine/american-activist-from-vietnam-to-gaza-war-my-government-lies-to-me-18204641,trtworld.com,1,2,1,collaborator 1,Medea Benjamin; Tighe Barry
+https://x.com/RaniaKhalek,x.com,1,2,1,host 1,BreakThrough News; Rania Abdul Khalek

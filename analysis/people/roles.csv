@@ -1,0 +1,327 @@
+person,person_label,org,org_label,org_kind,relation,tier,edge_label,confidence,slices
+stein,Abby Stein (JVP Rabbinical Council),jvp,Jewish Voice for Peace (JVP),org,affiliation,member,Rabbinical Council member,confirmed,iran-network
+yee,Amanda Yee,btm,BreakThrough News,org,member,member,role,inferred,singham-spine
+gunther,Andreas Günther,die_linke,Die Linke,org,member,member,"former Director of International Policy, Die Linke",confirmed,rls-germany
+rub_p_angela_davis,Angela Davis,rub_black_panther_party,Black Panther Party,org,member,member,member,inferred,_mined
+rub_p_angela_davis,Angela Davis,rub_communist_party_usa,Communist Party USA,org,member,member,member,inferred,_mined
+hub_assata_shakur,Assata Shakur,rub_black_panther_party,Black Panther Party,org,member,member,member,inferred,_mined
+sunkara,Bhaskar Sunkara,dsa,Democratic Socialists of America,org,member,member,most prominent media figure in DSA's ecosystem,inferred,rls-germany
+baker_carolyn,Carolyn Baker,gbi,General Baker Institute,org,member,member,role,confirmed,singham-spine
+caruso,Christopher Chris Caruso,pf,The People's Forum,org,member,member,role,confirmed,singham-spine
+cook,Claire Cook,psl,Party for Socialism & Liberation,org,member,member,affiliation,inferred,singham-spine
+cook,Claire Cook,puf,Progress Unity Fund,org,member,member,role,confirmed,singham-spine
+delacruz,Claudia De la Cruz,answer,ANSWER Coalition,org,affiliation,member,via PSL overlap (ADL),inferred,_mined
+delacruz,Claudia De la Cruz,pf,The People's Forum,org,member,member,role,confirmed,singham-spine
+kovalik,Dan Kovalik,afgj,Alliance for Global Justice,org,affiliated,member,solidarity lawyer (photo credit on Ortega piece),inferred,latam-solidarity
+dpaul,David Paul,dsa,Democratic Socialists of America,org,member,member,member,inferred,_mined
+dpaul,David Paul,tfa,Task Force on the Americas,org,member,member,member,inferred,_mined
+abbott,Diane Abbott,uk_labour,UK Labour Party,org,member,member,UK Labour MP,confirmed,rls-germany
+maura,Eduardo Maura,podemos,Podemos,org,member,member,Podemos MP,confirmed,rls-germany
+per_elisabeth_epps,Elisabeth Epps,dsa,Democratic Socialists of America,org,member,member,member,inferred,_mined
+per_elisabeth_epps,Elisabeth Epps,wfp,Working Families Party,org,member,member,member,inferred,_mined
+brease,Emily Brease,btm,BreakThrough News,org,member,member,role,inferred,singham-spine
+earle,Ethan Earle,pel,Party of the European Left,org,member,member,Party of the European Left North America Working Group,confirmed,rls-germany
+puryear,Eugene Puryear,psl,Party for Socialism & Liberation,org,member,member,member,inferred,_mined
+puryear,Eugene Puryear,pf,The People's Forum,org,member,member,role,confirmed,singham-spine
+ensler,Eve Ensler,codepink,CODEPINK,org,member,member,CODEPINK Advisory Board,confirmed,singham-spine
+kleiner,Franziska Kleiner,ucf,United Community Fund,org,member,member,role,confirmed,singham-spine
+lariva,Gloria La Riva,answer,ANSWER Coalition,org,member,member,,confirmed,hatuey
+craig,Hannah Priscilla Craig,pf,The People's Forum,org,member,member,role,confirmed,singham-spine
+alhusseini,Ibrahim AlHusseini,codepink,CODEPINK,org,member,member,role,confirmed,singham-spine
+alhusseini,Ibrahim AlHusseini,cultureproject,Culture Project,org,member,member,role,confirmed,singham-spine
+pfetcher,Jason Pfetcher,psf,People's Support Foundation (PSF),org,member,member,role,confirmed,singham-spine
+clarkgollub,Jill Clark-Gollub,vsn,Venezuela Solidarity Network,org,member,member,member,inferred,_mined
+evans,Jodie Evans,codepink,CODEPINK,org,member,member,role,confirmed,singham-spine
+evans,Jodie Evans,ips,Institute for Policy Studies,org,member,member,role,confirmed,singham-spine
+evans,Jodie Evans,ipa,International Peoples' Assembly,concept,member,member,member,inferred,_mined
+evans,Jodie Evans,pf,The People's Forum,org,member,member,role,confirmed,singham-spine
+reyes,Karla Reyes,btm,BreakThrough News,org,member,member,role,confirmed,singham-spine
+krouth,Kristine Teresa Krouth,pwa,People's Welfare Association,org,member,member,role,confirmed,singham-spine
+leila_zand,Leila Zand,codepink,CODEPINK,org,affiliation,member,Director of Citizen Diplomacy with Iran (advisory board + staff),confirmed,iran-network
+rub_p_leonard_boudin,Leonard Boudin,nlg,National Lawyers Guild,org,member,member,member,inferred,_mined
+delossantos,Manolo de los Santos,jef,Justice and Education Fund (JEF),org,member,member,role,confirmed,singham-spine
+delossantos,Manolo de los Santos,pf,The People's Forum,org,member,member,role,confirmed,singham-spine
+bertoldi,Manuel Bertoldi,albamov,ALBA Movimientos,concept,member,member,ALBA Movimientos,confirmed,latam-solidarity
+fernandes,Marco Fernandes,tricontinental,Tricontinental: Institute for Social Research,org,member,member,role,confirmed,singham-spine
+kramer,Marian Kramer,gbi,General Baker Institute,org,affiliation,member,affiliation,inferred,_mined
+nunez,Marlon Matthew Nunez,dsa,Democratic Socialists of America,org,member,member,DSA International Committee,confirmed,latam-solidarity
+nunez,Marlon Matthew Nunez,vsn,Venezuela Solidarity Network,org,member,member,Venezuela Solidarity Network,confirmed,latam-solidarity
+conway,Marshall Eddie Conway,rub_black_panther_party,Black Panther Party,org,member,member,member,inferred,_mined
+benjamin,Medea Benjamin,hub_green_party,Green Party,org,affiliation,member,affiliation,inferred,_mined
+benjamin,Medea Benjamin,rub_students_for_a_democratic,Students for a Democratic Society,org,member,member,member,inferred,_mined
+marsh,"Nadia Marsh, MD",answer,ANSWER Coalition,org,member,member,member of ANSWER (Hatuey's own copy),confirmed,hatuey
+taylor,Nancy Taylor,jef,Justice and Education Fund (JEF),org,member,member,role,confirmed,singham-spine
+nmeyer,Neal Meyer,dsa,Democratic Socialists of America,org,member,member,Bread & Roses caucus lead; NYC-DSA treasurer 2016-2018,confirmed,rls-germany
+janequine,Olivia Goncalves Janequine,jef,Justice and Education Fund (JEF),org,member,member,role,confirmed,singham-spine
+estrada,Paola Estrada,albamov,ALBA Movimientos,concept,member,member,ALBA Movimientos (Brazil),confirmed,latam-solidarity
+wider,Phil Wider,jef,Justice and Education Fund (JEF),org,member,member,role,confirmed,singham-spine
+wider,Phil Wider,pf,The People's Forum,org,member,member,"instructor, People's Forum",inferred,singham-spine
+hu,Rachel Hu,c3misc,Affiliated 501(c)(3),org,member,member,"Host, CovertAction Bulletin/Breakthrough",confirmed,singham-spine
+bugni,Renata Porto Bugni,ucf,United Community Fund,org,member,member,role,confirmed,singham-spine
+theoharis,Rev. Dr. Elizabeth Armen Liz Theoharis,uts,Union Theological Seminary,org,member,member,role,confirmed,singham-spine
+harris,Roger D. Harris,uspc,US Peace Council,org,member,member,executive committee,confirmed,latam-solidarity
+harris,Roger D. Harris,vsn,Venezuela Solidarity Network,org,founding_member,member,founding member,confirmed,latam-solidarity
+kuang,Savannah Kuang,dsa,Democratic Socialists of America,org,member,member,DSA member,confirmed,latam-solidarity
+dagdelen,Sevim Dagdelen,die_linke,Die Linke,org,former_member,member,Die Linke deputy chair; left 2023 (BSW),confirmed,rls-germany
+xiao,Sheila Xiao,pf,The People's Forum,org,affiliation,member,"guest instructor, People's Forum",confirmed,singham-spine
+luvela,Smangele Luvela,ucf,United Community Fund,org,member,member,role,confirmed,singham-spine
+liebich,Stefan Liebich,die_linke,Die Linke,org,member,member,Die Linke Bundestag 2009-2021; foreign-affairs group chair,confirmed,rls-germany
+tighe_barry,Tighe Barry,codepink,CODEPINK,org,affiliation,member,Art Director,confirmed,iran-network
+chak,Tings Chak,jef,Justice and Education Fund (JEF),org,member,member,role,inferred,singham-spine
+chak,Tings Chak,ucf,United Community Fund,org,member,member,role,confirmed,singham-spine
+prashad,Vijay Prashad,tricontinental,Tricontinental: Institute for Social Research,org,member,member,role,confirmed,singham-spine
+bournous,Yiannis Bournous,syriza,SYRIZA,org,member,member,SYRIZA Intl Relations head,confirmed,rls-germany
+per_abraham_hassen,Abraham Hassen,p_black_movement_law_project,Black Movement Law Project,project,role,role,Co-founder (visiting assistant professor of law at Penn State Dickinson Law School; previously defense coordinator at the National Lawyers G,confirmed,afgj-interlock
+per_abraham_hassen,Abraham Hassen,nlg,National Lawyers Guild,org,coordinator,role,coordinator,inferred,_mined
+scharenberg,Albert Scharenberg,rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,director,role,Co-Executive Director (2013-2018),confirmed,rls-germany
+rub_p_alicia_garza,Alicia Garza,rub_black_lives_matter_global,Black Lives Matter Global Network Foundation,org,role,role,Co-founder,inferred,rubio-cuba
+per_allen_kwabena_frimpong,Allen Kwabena Frimpong,p_adastra,AdAstra,project,role,role,Co-Founder & Managing Partner,confirmed,afgj-interlock
+per_allen_kwabena_frimpong,Allen Kwabena Frimpong,p_movement_net_lab,Movement Net Lab,project,role,role,MNL staff member; Black Lives Matter NYC activist,confirmed,afgj-interlock
+per_alyssa_rubin,Alyssa Rubin,p_never_again_action,Never Again Action,project,role,role,National Campaign Director,confirmed,afgj-interlock
+yee,Amanda Yee,psl,Party for Socialism & Liberation,org,editor,role,Liberation News editor,confirmed,hatuey
+per_andrea_ciannavei,Andrea Ciannavei,p_interoccupy,InterOccupy,project,role,role,"Co-Founder, InterOccupy",confirmed,afgj-interlock
+per_andrea_ciannavei,Andrea Ciannavei,p_march_4_racial_justice,March 4 Racial Justice,project,role,role,"Co-Chair / Co-Founder, March for Racial Justice",confirmed,afgj-interlock
+gunther,Andreas Günther,rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,director,role,Executive Director (2019-2023),confirmed,rls-germany
+ann_wright,Ann Wright,codepink,CODEPINK,org,director,role,director,inferred,_mined
+rub_p_antonio_guerrero,Antonio Guerrero,rub_the_wasp_network_red_avisp,The Wasp Network / Red Avispa,org,role,role,Wasp agent (Cuban Five),inferred,rubio-cuba
+per_antonio_gutierrez,Antonio Gutierrez,p_chicago_housing_justice_league,Chicago Housing Justice League,project,role,role,"Steering Committee member; Founder, Autonomous Tenants Union",confirmed,afgj-interlock
+per_aquib_s_yacoob,Aquib S. Yacoob,p_adastra,AdAstra,project,role,role,Team member (communications,confirmed,afgj-interlock
+arlen_gomez,Arlen Benjamin-Gomez,arc_of_justice,"Arc of Justice (fka Benjamin Fund, Inc.)",org,officer,role,"Secretary, Arc of Justice 2014-2018 (990-PF)",confirmed,iran-network
+rub_p_asad_rehman,Asad Rehman,rub_thousand_currents,Thousand Currents,org,role,role,Board member (Thousand Currents); ED War on Want,inferred,rubio-cuba
+hub_assata_shakur,Assata Shakur,rub_black_liberation_army,Black Liberation Army,org,role,role,BLA member; Cuba fugitive,inferred,rubio-cuba
+per_banbose_shango,Banbose Shango,afgj,Alliance for Global Justice,org,director,role,director,inferred,_mined
+per_banbose_shango,Banbose Shango,p_nappy_roots_books,Nappy Roots Books,project,role,role,Co-founder / co-owner (Landry's husband,confirmed,afgj-interlock
+per_banbose_shango,Banbose Shango,rub_national_network_on_cuba,National Network on Cuba,org,officer,role,officer,inferred,_mined
+per_banbose_shango,Banbose Shango,rub_national_network_on_cuba,National Network on Cuba,org,co_chair,role,co chair,inferred,_mined
+per_banbose_shango,Banbose Shango,vsn,Venezuela Solidarity Network,org,coordinator,role,coordinator,inferred,_mined
+per_bella_de_soto,Bella De Soto,p_change_links_newspaper,Change-Links Newspaper,project,role,role,Editorial Staff,confirmed,afgj-interlock
+ben_becker,Ben Becker,ev_wfys_2005,16th World Festival of Youth & Students (Caracas 2005),concept,led,role,authored PSL delegation report,confirmed,latam-solidarity
+ben_becker,Ben Becker,answer,ANSWER Coalition,org,former_organizer,role,ex-organizer,confirmed,hatuey
+ben_becker,Ben Becker,btm,BreakThrough News,org,editor-in-chief,role,editor-in-chief,inferred,_mined
+ben_becker,Ben Becker,btm,BreakThrough News,org,editor,role,editor,inferred,_mined
+rub_p_bernardine_dohrn,Bernardine Dohrn,nlg,National Lawyers Guild,org,organizer,role,organizer,inferred,_mined
+rub_p_bernardine_dohrn,Bernardine Dohrn,rub_students_for_a_democratic,Students for a Democratic Society,org,officer,role,officer,inferred,_mined
+rub_p_bernardine_dohrn,Bernardine Dohrn,rub_weather_underground,Weather Underground,org,role,role,Leader,inferred,rubio-cuba
+sunkara,Bhaskar Sunkara,jacobin,Jacobin,org,founder,role,founding editor,confirmed,rls-germany
+rub_p_bill_ayers,Bill Ayers,rub_weather_underground,Weather Underground,org,role,role,Leader,inferred,rubio-cuba
+brian_becker,Brian Becker,answer,ANSWER Coalition,org,national_coordinator,role,ANSWER coordinator,confirmed,hatuey
+brian_becker,Brian Becker,btm,BreakThrough News,org,role,role,role,inferred,_mined
+brian_becker,Brian Becker,psl,Party for Socialism & Liberation,org,co_founder,role,PSL co-founder,confirmed,hatuey
+brian_becker,Brian Becker,pf,The People's Forum,org,instructor,role,instructor,confirmed,hatuey
+per_carl_dix,Carl Dix,p_refuse_fascism,Refuse Fascism,project,role,role,Co-Founder/spokesperson,confirmed,afgj-interlock
+per_carl_dix,Carl Dix,p_stop_mass_incarceration_network,Stop Mass Incarceration Network,project,role,role,personnel,confirmed,afgj-interlock
+per_carl_dix,Carl Dix,p_stop_mass_incarceration_network,Stop Mass Incarceration Network,project,co_founder,role,co founder,inferred,_mined
+ron,Carlos Ron,tricontinental,Tricontinental: Institute for Social Research,org,role,role,Board/team member (Tricontinental) — receipt pending; not on cached Ron/Tricont pages,inferred,rubio-cuba
+cea_weaver,Cea Weaver,dsa,Democratic Socialists of America,org,organizer,role,NYC-DSA housing lead -> Mamdani admin appointee (2025),confirmed,rls-germany
+wathington,Chad Wathington,psf,People's Support Foundation (PSF),org,former_officer,role,Treasurer/Director until 2017,inferred,singham-spine
+rub_p_charles_charlie_hill,Charles 'Charlie' Hill,rub_republic_of_new_afrika,Republic of New Afrika,org,role,role,Republic of New Afrika member; 1971 TWA hijacking to Cuba; fugitive,inferred,rubio-cuba
+per_cheri_honkala,Cheri Honkala,p_poor_people_s_economic_human_rights_ca,Poor People’s Economic Human Rights Campaign,project,role,role,Founder / National Coordinator,confirmed,afgj-interlock
+kaufman,Chuck Kaufman,answer,ANSWER Coalition,org,cofounder,role,'one of the original founders' of ANSWER,confirmed,latam-solidarity
+kaufman,Chuck Kaufman,afgj,Alliance for Global Justice,org,founder,role,co-founder & National Co-Coordinator,confirmed,latam-solidarity
+kaufman,Chuck Kaufman,p_honduras_solidarity_network,Honduras Solidarity Network,project,board_member,role,board member,inferred,_mined
+kaufman,Chuck Kaufman,nicanet,Nicaragua Network,org,leads,role,Nicaragua Network coordinator,confirmed,latam-solidarity
+per_cindy_sheehan,Cindy Sheehan,p_cindy_sheehan_s_soapbox,Cindy Sheehan’s Soapbox,project,role,role,"Host/Creator (activist; 'Cindy Sheehan's Soapbox, LLC'",confirmed,afgj-interlock
+chanoine,Claudette Chanoine,rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,officer,role,Financial Manager (2013-present),confirmed,rls-germany
+delacruz,Claudia De la Cruz,btm,BreakThrough News,org,secretary,role,secretary,inferred,_mined
+delacruz,Claudia De la Cruz,btm,BreakThrough News,org,secretary,role,secretary,inferred,_mined
+delacruz,Claudia De la Cruz,codepink,CODEPINK,org,role,role,Co-founder/Co-ED (People's Forum); ED (IFCO/Pastor,confirmed,rubio-cuba
+delacruz,Claudia De la Cruz,gbi,General Baker Institute,org,trustee,role,trustee,inferred,_mined
+delacruz,Claudia De la Cruz,rub_ifco_pastors_for_peace,IFCO / Pastors for Peace,org,role,role,Co-founder/Co-ED (People's Forum); ED (IFCO/Pastor,confirmed,rubio-cuba
+delacruz,Claudia De la Cruz,jef,Justice and Education Fund (JEF),org,coordinator,role,coordinator,inferred,_mined
+delacruz,Claudia De la Cruz,pf,The People's Forum,org,co_director,role,co-executive director,confirmed,latam-solidarity
+delacruz,Claudia De la Cruz,pf,The People's Forum,org,co_founder,role,co-founder / co-ED,confirmed,hatuey
+delacruz,Claudia De la Cruz,pf,The People's Forum,org,role,role,Co-founder/Co-ED (People's Forum); ED (IFCO/Pastor,confirmed,rubio-cuba
+per_cornel_west,Cornel West,p_refuse_fascism,Refuse Fascism,project,role,role,Co-Founder,confirmed,afgj-interlock
+per_cornel_west,Cornel West,p_stop_mass_incarceration_network,Stop Mass Incarceration Network,project,role,role,"Co-Initiator, Stop Mass Incarceration Network (professor",confirmed,afgj-interlock
+per_cornel_west,Cornel West,uts,Union Theological Seminary,org,role,role,role,inferred,_mined
+per_cory_jong,Cory Jong,p_youth_vs_apocalypse,Youth Vs Apocalypse,project,role,role,Board Member,confirmed,afgj-interlock
+enkelmann,Dagmar Enkelmann,rls_berlin,Rosa-Luxemburg-Stiftung e.V. (Berlin),org,chair,role,"Chair, RLS e.V. Berlin",confirmed,rls-germany
+per_dakotah_lilly,Dakotah Lilly,p_cindy_sheehan_s_soapbox,Cindy Sheehan’s Soapbox,project,role,role,"Co-host, 'Shee-Lilly' recurring video series",confirmed,afgj-interlock
+ortega,Daniel Ortega,fsln,FSLN — Sandinista National Liberation Front,org,leads,role,FSLN leader / President,confirmed,latam-solidarity
+trochowski,Daniela Trochowski,rls_berlin,Rosa-Luxemburg-Stiftung e.V. (Berlin),org,director,role,"Executive Director, RLS e.V. Berlin",confirmed,rls-germany
+duhalde,David Duhalde,dsa_fund,DSA Fund,org,former_chair,role,DSA Fund chair (2020-2025),confirmed,rls-germany
+duhalde,David Duhalde,dsa,Democratic Socialists of America,org,former_officer,role,former DSA Deputy Director,confirmed,rls-germany
+per_david_foecke,David Foecke,p_youth_vs_apocalypse,Youth Vs Apocalypse,project,role,role,Board Treasurer,confirmed,afgj-interlock
+chung,David Sung Mo Chung,jef,Justice and Education Fund (JEF),org,director,role,director,inferred,_mined
+chung,David Sung Mo Chung,pf,The People's Forum,org,organizing_director,role,organizing director,inferred,_mined
+chung,David Sung Mo Chung,pf,The People's Forum,org,director,role,director,inferred,_mined
+dwilliams,David Williams,rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,officer,role,"Director, Intl Climate Justice Program",confirmed,rls-germany
+per_debra_sweet,Debra Sweet,p_world_can_t_wait,World Can’t Wait,project,role,role,personnel,confirmed,afgj-interlock
+per_devin_michael_lowe,Devin Michael Lowe,p_black_trans_media,Black Trans Media,project,role,role,role,inferred,_mined
+per_devin_michael_lowe,Devin Michael Lowe,p_black_trans_travel_fund,Black Trans Travel Fund,project,role,role,Founder & Co-Director (actor and activist; founded BTTF June 2019,confirmed,afgj-interlock
+per_diane_limas,Diane Limas,p_chicago_housing_justice_league,Chicago Housing Justice League,project,role,role,"Steering Committee member; volunteer, Communities United",confirmed,afgj-interlock
+per_dr_patrisia_gonzales,Dr. Patrisia Gonzales,p_alianza_ind_gena_sin_fronteras_indigen,Alianza Indígena Sin Fronteras / Indigenous Alliance Without Borders,project,role,role,Co-Director of Regenerative Relations & Advisor,confirmed,afgj-interlock
+per_elaine_brower,Elaine Brower,p_sustainable_orphanages_for_haitian_you,Sustainable Orphanages for Haitian Youth,project,role,role,"President, Sustainable Orphanages for Haitian Youth",confirmed,afgj-interlock
+per_elisabeth_epps,Elisabeth Epps,p_colorado_freedom_fund,Colorado Freedom Fund,project,role,role,"Founder and Executive Director (also former Colorado State Representative, D-Denver, through Jan 2025",confirmed,afgj-interlock
+lowengard,Elizabeth Lowengard,puf,Progress Unity Fund,org,treasurer,role,treasurer,inferred,_mined
+lowengard,Elizabeth Lowengard,puf,Progress Unity Fund,org,board_member,role,board member,inferred,_mined
+per_erika_takeo,Erika Takeo,p_friends_of_asociaci_n_de_trabajadores_,Friends of Asociación de Trabajadores Campesinos,project,role,role,"National Coordinator, Friends of the ATC",confirmed,afgj-interlock
+per_erika_takeo,Erika Takeo,friendsatc,Friends of the ATC,org,coordinator,role,coordinator,inferred,_mined
+earle,Ethan Earle,dsa,Democratic Socialists of America,org,cochair,role,"DSA International Committee co-chair (Oct 2018+, concurrent with RLS payroll)",confirmed,rls-germany
+earle,Ethan Earle,rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,officer,role,Project Manager 2012-2019,confirmed,rls-germany
+puryear,Eugene Puryear,answer,ANSWER Coalition,org,organizer,role,organizer,inferred,_mined
+puryear,Eugene Puryear,btm,BreakThrough News,org,role,role,role,inferred,_mined
+puryear,Eugene Puryear,psl,Party for Socialism & Liberation,org,co_founder,role,co founder,inferred,_mined
+puryear,Eugene Puryear,psl,Party for Socialism & Liberation,org,vice_presidential_nominee,role,vice presidential nominee,inferred,_mined
+per_evana,Evana,p_taking_black_pride,Taking Black Pride,project,role,role,"EvaNa) (Core Organizer (also core member/housing-circle lead, Queer The Land",confirmed,afgj-interlock
+rub_p_fernando_gonz_lez_llor,Fernando González Llort,icap,ICAP,org,role,role,Wasp Network agent (Cuban Five) → President of ICA,confirmed,rubio-cuba
+rub_p_fernando_gonz_lez_llor,Fernando González Llort,rub_the_wasp_network_red_avisp,The Wasp Network / Red Avispa,org,role,role,Wasp Network agent (Cuban Five) → President of ICA,confirmed,rubio-cuba
+per_firas_nasr,Firas Nasr,p_werk_for_peace,WERK for Peace,project,role,role,Founding Organizer,confirmed,afgj-interlock
+per_frank_avellone,Frank Avellone,p_chicago_housing_justice_league,Chicago Housing Justice League,project,role,role,"Founder (2018); attorney, 40 years in worker/housing issues; former policy director & senior attorney, Law Center for Better Housing",confirmed,afgj-interlock
+per_frank_avellone,Frank Avellone,hub_lawyers_better_housing,Lawyers’ Committee for Better Housing,org,role,role,role,inferred,_mined
+per_gabrielle_lenart,Gabrielle Lenart,p_queer_food_foundation,Queer Food Foundation,project,role,role,Co-Founder,confirmed,afgj-interlock
+per_gary_ghirardi,Gary Ghirardi,p_national_network_opposing_the_militari,National Network Opposing the Militarization of Youth,project,role,role,NNOMY volunteer communications staff person,confirmed,afgj-interlock
+rub_p_george_galloway,George Galloway,rub_viva_palestina_us,Viva Palestina US,org,role,role,Founder,inferred,rubio-cuba
+rub_p_gerardo_hern_ndez,Gerardo Hernández,rub_the_wasp_network_red_avisp,The Wasp Network / Red Avispa,org,role,role,Wasp Network leader (Cuban Five),inferred,rubio-cuba
+per_gila_svirsky,Gila Svirsky,p_coalition_of_women_for_peace,Coalition of Women for Peace,project,role,role,Co-founder (2000); prior 6 years at New Israel Fund,confirmed,afgj-interlock
+lariva,Gloria La Riva,psl,Party for Socialism & Liberation,org,founder,role,PSL co-founder,confirmed,hatuey
+lariva,Gloria La Riva,hatuey,The Hatuey Project,project,coordinator,role,coordinator / director,confirmed,hatuey
+rub_p_gustavo_petro,Gustavo Petro,rub_m_19,M-19,org,role,role,Colombia president; ex-M-19,inferred,rubio-cuba
+per_hannah_safran,Hannah Safran,p_coalition_of_women_for_peace,Coalition of Women for Peace,project,role,role,Co-founder (2000); also co-founder of Women in Black,confirmed,afgj-interlock
+chua,Heidi Chua,dsa,Democratic Socialists of America,org,officer,role,DSA Assistant to National Director (Jan 2019+); active DSA member while on RLS payroll,confirmed,rls-germany
+chua,Heidi Chua,rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,officer,role,Office Manager FY2013-2018,confirmed,rls-germany
+hub_hugo_chavez,Hugo Chavez,venezuela,Venezuela,concept,role,role,role,inferred,_mined
+hub_hugo_chavez,Hugo Chavez,venezuela,Venezuela,concept,president,role,president,inferred,_mined
+jordan,James Patrick Jordan,afgj,Alliance for Global Justice,org,president,role,current President,confirmed,latam-solidarity
+anderson-figueroa,Jo Anderson-Figueroa,psf,People's Support Foundation (PSF),org,director,role,director,inferred,_mined
+per_joan_donovan,Joan Donovan,p_interoccupy,InterOccupy,project,role,role,"Co-Founder, InterOccupy",confirmed,afgj-interlock
+evans,Jodie Evans,codepink,CODEPINK,org,co_founder,role,Co-founded CODEPINK 2002; President 2019-22 (990),confirmed,iran-network
+evans,Jodie Evans,codepink,CODEPINK,org,role,role,Co-founder; Singham spouse,confirmed,rubio-cuba
+evans,Jodie Evans,psf,People's Support Foundation (PSF),org,officer,role,"President, People's Support Foundation (990)",confirmed,iran-network
+evans,Jodie Evans,pf,The People's Forum,org,role,role,Co-founder; Singham spouse,confirmed,rubio-cuba
+per_johnnie_jae,Johnnie Jae,p_march_4_racial_justice,March 4 Racial Justice,project,role,role,"Organizer; founder/CEO of A Tribe Called Geek; founding board member, Not Your Mascots / LiveIndigenousOK",confirmed,afgj-interlock
+jonathan_raggett,Jonathan 'Jonny' Raggett,arc_of_justice,"Arc of Justice (fka Benjamin Fund, Inc.)",org,officer,role,"Secretary, Arc of Justice 2019-present (990-PF)",confirmed,iran-network
+garcia,Karina Garcia,jef,Justice and Education Fund (JEF),org,director,role,director,inferred,_mined
+garcia,Karina Garcia,psl,Party for Socialism & Liberation,org,vp_candidate,role,2024 VP nominee,confirmed,hatuey
+hoyt,Katherine Hoyt,afgj,Alliance for Global Justice,org,board_member,role,board (ex-National Co-Coordinator),confirmed,latam-solidarity
+hoyt,Katherine Hoyt,nicanet,Nicaragua Network,org,coordinator,role,coordinator,inferred,_mined
+hoyt,Katherine Hoyt,nicanet,Nicaragua Network,org,co_director,role,co director,inferred,_mined
+rub_p_kathy_boudin,Kathy Boudin,rub_may_19th_communist_organiz,May 19th Communist Organization,org,role,role,Member,inferred,rubio-cuba
+rub_p_kathy_boudin,Kathy Boudin,rub_weather_underground,Weather Underground,org,role,role,Member,inferred,rubio-cuba
+balagun,Kazembe Balagun,brecht_forum,Brecht Forum,org,former_role,role,formerly Education/Outreach Coordinator,confirmed,rls-germany
+balagun,Kazembe Balagun,rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,officer,role,"Project Manager North America/UN, RLS-NYC (2013-2020); a.k.a. Keith Mitchell",confirmed,rls-germany
+per_kevin_zeese,Kevin Zeese,p_kevin_zeese_emerging_activists_fund,Kevin Zeese Emerging Activists Fund,project,role,role,Namesake / Founder (deceased Sept. 2020; fund created in his memory,confirmed,afgj-interlock
+per_kevin_zeese,Kevin Zeese,p_popular_resistance,Popular Resistance,project,role,role,"Co-founder/Co-director, d. 2020-09-06",confirmed,afgj-interlock
+per_khafre_jay,Khafre Jay,p_youth_vs_apocalypse,Youth Vs Apocalypse,project,role,role,Board President,confirmed,afgj-interlock
+irgens_moller,Kirsten Irgens-Moller,arc_of_justice,"Arc of Justice (fka Benjamin Fund, Inc.)",org,officer,role,"Secretary/only paid officer, $10K/yr FY06-13",confirmed,iran-network
+irgens_moller,Kirsten Irgens-Moller,global_exchange,Global Exchange,org,co_founder,role,"Co-founded GE 1988; ED 1988-2011, then Sec.",confirmed,iran-network
+per_kristen_godfrey,Kristen Godfrey,p_thompson_house_tucson,Thompson House Tucson,project,role,role,Originated the Host Homes program idea that became Thompson House,confirmed,afgj-interlock
+per_kristen_hackett,Kristen Hackett,p_justice_for_all_coalition,Justice for All Coalition,project,role,role,"Executive Committee Member, Astoria Resident",confirmed,afgj-interlock
+hub_leni_villag_mez_reeves,Leni Villagómez Reeves,hatuey,The Hatuey Project,project,role,role,role,inferred,_mined
+per_lourdes_escalante,Lourdes Escalante,p_alianza_ind_gena_sin_fronteras_indigen,Alianza Indígena Sin Fronteras / Indigenous Alliance Without Borders,project,role,role,Co-Director of Programming and Projects,confirmed,afgj-interlock
+per_lourdez,Lourdez,p_taking_black_pride,Taking Black Pride,project,role,role,"Core Organizer (also co-founding member, Trans Women of Color Solidarity Network",confirmed,afgj-interlock
+per_lourdez,Lourdez,p_trans_women_of_color_solidarity_networ,Trans Women of Color Solidarity Network,project,role,role,"Co-founding member, Trans Women of Color Solidarity Network",confirmed,afgj-interlock
+per_makayla_heiser,Makayla Heiser,codepink,CODEPINK,org,campaign_manager,role,campaign manager,inferred,_mined
+per_makayla_heiser,Makayla Heiser,p_united_students_against_sweatshops,United Students Against Sweatshops,project,role,role,National Organizing Director,confirmed,afgj-interlock
+delossantos,Manolo de los Santos,pf,The People's Forum,org,co_director,role,co-executive director,confirmed,latam-solidarity
+delossantos,Manolo de los Santos,pf,The People's Forum,org,co_founder,role,founding director,confirmed,hatuey
+delossantos,Manolo de los Santos,pf,The People's Forum,org,role,role,Co-founder/director,confirmed,rubio-cuba
+bertoldi,Manuel Bertoldi,ipa,International Peoples' Assembly,concept,coordinator,role,IPA coordinator,confirmed,latam-solidarity
+per_margaret_flowers,Margaret Flowers,p_kevin_zeese_emerging_activists_fund,Kevin Zeese Emerging Activists Fund,project,role,role,"Co-Director, Popular Resistance (the fund's housing/administering organization",confirmed,afgj-interlock
+per_margaret_flowers,Margaret Flowers,p_popular_resistance,Popular Resistance,project,role,role,Co-director,confirmed,afgj-interlock
+svart,Maria Svart,dsa,Democratic Socialists of America,org,director,role,DSA National Director,confirmed,rls-germany
+kramer,Marian Kramer,gbi,General Baker Institute,org,trustee,role,trustee,inferred,_mined
+mfernandez,Mariana Fernandez,rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,officer,role,Program Manager (2017-present),confirmed,rls-germany
+per_mark_swartz,Mark Swartz,p_chicago_housing_justice_league,Chicago Housing Justice League,project,role,role,"Steering Committee member; Executive Director, Lawyers' Committee for Better Housing",confirmed,afgj-interlock
+per_marlen_s_nchez,Marlen Sánchez,p_instituto_agroecol_gico_latinoamerican,Instituto Agroecológico Latinoamericano–Mesoamericana (IALA Mesoamerica),project,role,role,"Director, IALA Mesoamerica; National Coordinator of Agroecology, ATC (Asociación de Trabajadores del Campo",confirmed,afgj-interlock
+per_mattie,Mattie,p_taking_black_pride,Taking Black Pride,project,role,role,"Core Organizer (also co-founder, Trans Women of Color Solidarity Network; helped pass WA SB5313 Gender Affirming Treatment Act 2021",confirmed,afgj-interlock
+per_mattie,Mattie,p_trans_women_of_color_solidarity_networ,Trans Women of Color Solidarity Network,project,role,role,"Co-founder, Trans Women of Color Solidarity Network",confirmed,afgj-interlock
+per_maurice_cook,Maurice Cook,p_march_4_racial_justice,March 4 Racial Justice,project,role,role,"Co-Chair / Co-Founder, March for Racial Justice; also Founder/ED of Serve Your City (SYC",confirmed,afgj-interlock
+per_mavis_jay_sanders,Mavis-Jay Sanders,p_queer_food_foundation,Queer Food Foundation,project,role,role,Founding member,confirmed,afgj-interlock
+danaher,Maya (Mandela) Danaher,arc_of_justice,"Arc of Justice (fka Benjamin Fund, Inc.)",org,officer,role,"Treasurer, Arc of Justice, all filing yrs (990-PF)",confirmed,iran-network
+per_mcahl_sheffield,Mcahl Sheffield,p_chicago_housing_initiative,Chicago Housing Initiative,project,role,role,Media Organizer Intern,confirmed,afgj-interlock
+benjamin,Medea Benjamin,arc_of_justice,"Arc of Justice (fka Benjamin Fund, Inc.)",org,officer,role,"President, Arc of Justice, all filing yrs (990-PF)",confirmed,iran-network
+benjamin,Medea Benjamin,codepink,CODEPINK,org,co_founder,role,"Co-founded CODEPINK Nov 2002; Treasurer, $0 comp",confirmed,iran-network
+benjamin,Medea Benjamin,codepink,CODEPINK,org,role,role,Co-founder,inferred,rubio-cuba
+benjamin,Medea Benjamin,global_exchange,Global Exchange,org,co_founder,role,"Co-founded Global Exchange, 1988",confirmed,iran-network
+benjamin,Medea Benjamin,hub_green_shadow_cabinet,Green Shadow Cabinet,org,role,role,role,inferred,_mined
+benjamin,Medea Benjamin,rub_hamas,Hamas,org,coordinator,role,coordinator,inferred,_mined
+per_meghan_maurus,Meghan Maurus,p_just_info,Just Info,project,role,role,"Attorney / Co-Founder, Maurus & Heinegg (New York Law Collective",confirmed,afgj-interlock
+per_meghan_maurus,Meghan Maurus,nlg,National Lawyers Guild,org,coordinator,role,coordinator,inferred,_mined
+per_melina_abdullah,Melina Abdullah,p_los_angeles_community_action_network,Los Angeles Community Action Network,project,role,role,Board,confirmed,afgj-interlock
+per_melissa_barber_md,"Melissa Barber, MD",p_south_bronx_unite,South Bronx Unite,project,role,role,Founding Member and Board Member,confirmed,afgj-interlock
+per_michael_cox,Michael Cox,p_black_and_pink_ma,Black and Pink MA,project,role,role,"Director of Policy, Black and Pink Massachusetts (formerly Executive Director",confirmed,afgj-interlock
+per_michael_novick,Michael Novick,p_change_links_newspaper,Change-Links Newspaper,project,role,role,Editorial Staff,confirmed,afgj-interlock
+per_mirely_baca,Mirely Baca,p_kindred_connections,Kindred Connections,project,role,role,Co-Founder,confirmed,afgj-interlock
+zarif,Mohammad Javad Zarif,iran,Islamic Republic of Iran (state),concept,role,role,role,inferred,_mined
+per_mohyeddin_abdulaziz,Mohyeddin Abdulaziz,p_arizona_palestine_solidarity_alliance,Arizona Palestine Solidarity Alliance,project,role,role,Co-Founder,confirmed,afgj-interlock
+per_moira_meltzer_cohen,Moira Meltzer-Cohen,p_just_info,Just Info,project,role,role,"Attorney, New York Law Collective (listed under ""Who We Are""",confirmed,afgj-interlock
+per_monxo_lopez,Monxo Lopez,p_south_bronx_unite,South Bronx Unite,project,role,role,Founding Member and Board Member,confirmed,afgj-interlock
+per_mychal_johnson,Mychal Johnson,p_south_bronx_unite,South Bronx Unite,project,role,role,Founding Board Member & Organizational Lead (co-founder of South Bronx Unite,confirmed,afgj-interlock
+valente,Mónica Valente,fsp,Foro de São Paulo,concept,secretary,role,Secretary of Foro de São Paulo,confirmed,latam-solidarity
+taylor,Nancy Taylor,tricontinental,Tricontinental: Institute for Social Research,org,secretary,role,secretary,inferred,_mined
+per_nate_kleinman,Nate Kleinman,p_interoccupy,InterOccupy,project,role,role,"Co-Founder, InterOccupy",confirmed,afgj-interlock
+hrizi,Nathalie Patricia Hrizi,puf,Progress Unity Fund,org,president,role,president,inferred,_mined
+per_nathan_sheard,Nathan Sheard,afgj,Alliance for Global Justice,org,director,role,director,inferred,_mined
+per_nathan_sheard,Nathan Sheard,p_black_movement_law_project,Black Movement Law Project,project,role,role,Co-founder; managing director of advocacy (as of 2025,confirmed,afgj-interlock
+rub_p_nayef_hawatmeh,Nayef Hawatmeh,rub_democratic_front_for_the_l,Democratic Front for the Liberation of Palestine,org,role,role,Founder,inferred,rubio-cuba
+rub_p_nayef_hawatmeh,Nayef Hawatmeh,pflp,Popular Front for the Liberation of Palestine (PFLP),org,role,role,Founder,inferred,rubio-cuba
+rub_p_nayef_hawatmeh,Nayef Hawatmeh,pflp,Popular Front for the Liberation of Palestine (PFLP),org,founder,role,founder,inferred,_mined
+nmeyer,Neal Meyer,rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,officer,role,Assistant Office Manager (990-PF),confirmed,rls-germany
+singham,Neville Roy Singham,codepink,CODEPINK,org,role,role,Funder / network architect,confirmed,rubio-cuba
+singham,Neville Roy Singham,pf,The People's Forum,org,role,role,Funder / network architect,confirmed,rubio-cuba
+singham,Neville Roy Singham,tricontinental,Tricontinental: Institute for Social Research,org,role,role,Funder / network architect,confirmed,rubio-cuba
+maduro,Nicolás Maduro,ev_caracas_antifa_2024,Antifascist Congress of Caracas (Nov 28 2024),concept,led,role,'bravely led by President Maduro' (declaration),confirmed,latam-solidarity
+maduro,Nicolás Maduro,venezuela,Venezuela,concept,role,role,role,inferred,_mined
+maduro,Nicolás Maduro,venezuela,Venezuela,concept,president,role,president,inferred,_mined
+maduro,Nicolás Maduro,venezuela,Venezuela,concept,candidate,role,candidate,inferred,_mined
+rub_p_onyesonwu_chatoyer,Onyesonwu Chatoyer,rub_international_may_day_brig,International May Day Brigade,org,role,role,Lead coordinator (US contingent); NNOC co-chair; V,confirmed,rubio-cuba
+rub_p_onyesonwu_chatoyer,Onyesonwu Chatoyer,rub_national_network_on_cuba,National Network on Cuba,org,role,role,Lead coordinator (US contingent); NNOC co-chair; V,confirmed,rubio-cuba
+rub_p_onyesonwu_chatoyer,Onyesonwu Chatoyer,rub_venceremos_brigade,Venceremos Brigade,org,role,role,Lead coordinator (US contingent); NNOC co-chair; V,confirmed,rubio-cuba
+rub_p_opal_tometi,Opal Tometi,bap,Black Alliance for Peace,org,role,role,Co-founder (BLM GNF); BAP founding/former advisory,inferred,rubio-cuba
+rub_p_opal_tometi,Opal Tometi,rub_black_lives_matter_global,Black Lives Matter Global Network Foundation,org,role,role,Co-founder (BLM GNF); BAP founding/former advisory,inferred,rubio-cuba
+per_oren_robinson,Oren Robinson,p_national_network_opposing_the_militari,National Network Opposing the Militarization of Youth,project,role,role,"NNOMY volunteer technical support person; Program Coordinator, Project on Youth & Non-Military Opportunities",confirmed,afgj-interlock
+per_pablo_benson_silva,Pablo Benson-Silva,p_movement_net_lab,Movement Net Lab,project,role,role,"MNL staff member; member, NYC Network of Worker Cooperatives",confirmed,afgj-interlock
+per_page_may,Page May,p_assata_s_daughters,Assata’s Daughters,project,role,role,Founder (2015,confirmed,afgj-interlock
+per_pat_alviso,Pat Alviso,hub_military_families_speak_out,Military Families Speak Out,org,coordinator,role,coordinator,inferred,_mined
+per_pat_alviso,Pat Alviso,p_national_network_opposing_the_militari,National Network Opposing the Militarization of Youth,project,role,role,"Steering Committee; National Coordinator, Military Families Speak Out (MFSO), Long Beach, CA",confirmed,afgj-interlock
+rub_p_paul_larudee,Paul Larudee,rub_association_for_investment,Association for Investment in Popular Action Committees,org,role,role,Treasurer,inferred,rubio-cuba
+per_rachel_o_leary_carmona,Rachel O'Leary Carmona,p_adastra,AdAstra,project,role,role,"Co-Founder & Managing Partner, AdAstra Management Collective",confirmed,afgj-interlock
+per_rachel_wilson,Rachel Wilson,p_chicago_housing_justice_league,Chicago Housing Justice League,project,role,role,Senior Organizer (since 2024,confirmed,afgj-interlock
+rub_p_ram_n_laba_ino,Ramón Labañino,rub_the_wasp_network_red_avisp,The Wasp Network / Red Avispa,org,role,role,Wasp agent (Cuban Five),inferred,rubio-cuba
+khalek,Rania Abdul Khalek,btm,BreakThrough News,org,role,role,role,inferred,_mined
+per_rebecca_heinegg,Rebecca Heinegg,p_just_info,Just Info,project,role,role,"Attorney / Co-Founder, Maurus & Heinegg (New York Law Collective",confirmed,afgj-interlock
+bugni,Renata Porto Bugni,tricontinental,Tricontinental: Institute for Social Research,org,deputy_director,role,deputy director,inferred,_mined
+rub_p_ren_gonz_lez,René González,rub_the_wasp_network_red_avisp,The Wasp Network / Red Avispa,org,role,role,Wasp agent (Cuban Five),inferred,rubio-cuba
+rub_p_rev_lucius_walker,Rev. Lucius Walker,rub_ifco_pastors_for_peace,IFCO / Pastors for Peace,org,role,role,Founder,confirmed,rubio-cuba
+richard_becker,Richard Becker,answer,ANSWER Coalition,org,coordinator,role,coordinator,confirmed,hatuey
+richard_becker,Richard Becker,psl,Party for Socialism & Liberation,org,co_founder,role,PSL co-founder,confirmed,hatuey
+per_rick_jahnkow,Rick Jahnkow,p_national_network_opposing_the_militari,National Network Opposing the Militarization of Youth,project,role,role,"NNOMY Volunteer Administrative Staff / Steering Committee Member (also Past Program Coordinator, Project on Youth and Non-Military Opportuni",confirmed,afgj-interlock
+henderson,Rita Henderson,tricontinental,Tricontinental: Institute for Social Research,org,director,role,director,inferred,_mined
+rub_p_robert_f_williams,Robert F. Williams,rub_naacp,NAACP,org,role,role,Radio Free Dixie; NAACP→Cuba exile,inferred,rubio-cuba
+rub_p_robert_f_williams,Robert F. Williams,rub_republic_of_new_afrika,Republic of New Afrika,org,president,role,president,inferred,_mined
+harris,Roger D. Harris,tfa,Task Force on the Americas,org,board_member,role,board,confirmed,latam-solidarity
+hamby,Ryan Hamby,pf,The People's Forum,org,officer,role,"General Manager, People's Forum",inferred,singham-spine
+croce,STEIN-DELLA CROCE,tricontinental,Tricontinental: Institute for Social Research,org,secretary,role,secretary,inferred,_mined
+moseley,Saidi Moseley,pf,The People's Forum,org,education_coordinator,role,education coordinator,inferred,_mined
+per_samantha_butler,Samantha Butler,p_chicago_housing_initiative,Chicago Housing Initiative,project,role,role,Research Organizer Intern,confirmed,afgj-interlock
+per_samantha_parsons,Samantha Parsons,p_corporate_genome_project,Corporate Genome Project,project,role,role,Team member (bio on org's People page notes she is former co-founder and Campaigns Director of UnKoch My Campus,confirmed,afgj-interlock
+per_samantha_parsons,Samantha Parsons,p_real_food_generation,Real Food Generation,project,role,role,Development Director,confirmed,afgj-interlock
+xiao,Sheila Xiao,answer,ANSWER Coalition,org,coordinator,role,"chair, ANSWER LA (PUF = ANSWER sponsor)",confirmed,singham-spine
+liebich,Stefan Liebich,rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,director,role,Executive Director (2023+),confirmed,rls-germany
+ehmsen,Stefanie Ehmsen,rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,director,role,Co-Executive Director (2013-2018),confirmed,rls-germany
+per_steve_lalla,Steve Lalla,p_orinoco_tribune,Orinoco Tribune,project,role,role,Contributor/Journalist,confirmed,afgj-interlock
+per_sunny_levine,Sunny Levine,p_queer_food_foundation,Queer Food Foundation,project,role,role,Chair of the Board,confirmed,afgj-interlock
+per_sunsara_taylor,Sunsara Taylor,p_refuse_fascism,Refuse Fascism,project,role,role,Co-Founder & lead spokesperson,confirmed,afgj-interlock
+per_sunsara_taylor,Sunsara Taylor,p_world_can_t_wait,World Can’t Wait,project,chaired,role,chaired,inferred,_mined
+rub_p_suzanne_adely,Suzanne Adely,nlg,National Lawyers Guild,org,role,role,President,confirmed,rubio-cuba
+per_t_loving,T Loving,p_kindred_connections,Kindred Connections,project,role,role,Co-Founder,confirmed,afgj-interlock
+per_t_dubb_o,T-Dubb-O,p_hands_up_united,Hands Up United,project,role,role,Co-Founder,confirmed,afgj-interlock
+per_t_sheri_dickerson,T. Sheri Dickerson,p_black_lives_matter_oklahoma_city,Black Lives Matter-Oklahoma City,project,role,role,legal name Tashella Sheri Amore Dickerson) (Executive Director / organizer and leader of Black Lives Matter Oklahoma and Black Lives Matter,confirmed,afgj-interlock
+bounds,Tajee Bounds,pf,The People's Forum,org,coordinator,role,coordinator,inferred,_mined
+per_tamara_shapiro,Tamara Shapiro,p_movement_net_lab,Movement Net Lab,project,role,role,"MNL staff member; member, NYC Network of Worker Cooperatives",confirmed,afgj-interlock
+per_tara_thompson,Tara Thompson,p_hands_up_united,Hands Up United,project,role,role,Director,confirmed,afgj-interlock
+per_taureen_tory_russell,"Taureen ""Tory"" Russell",p_hands_up_united,Hands Up United,project,role,role,Co-Founder,confirmed,afgj-interlock
+per_tef_poe,Tef Poe,p_hands_up_united,Hands Up United,project,role,role,Co-Founder,confirmed,afgj-interlock
+chak,Tings Chak,tricontinental,Tricontinental: Institute for Social Research,org,role,role,role,inferred,_mined
+burke,Tom Burke,ev_fsp_caracas_2019,25th Foro de São Paulo (Caracas 2019),concept,led,role,led FRSO delegation,confirmed,latam-solidarity
+burke,Tom Burke,frso,Freedom Road Socialist Organization,org,secretary,role,Organization Secretary,confirmed,latam-solidarity
+per_trayce_peterson,Trayce Peterson,p_splitseed_productions,SplitSeed Productions,project,role,role,"Co-Founder (educator/organizer/storyteller, instructor in Human Rights Practice, University of Arizona",confirmed,afgj-interlock
+per_vee_morris_moore,Vee Morris Moore,p_assata_s_daughters,Assata’s Daughters,project,role,role,Organizing and Programming Director,confirmed,afgj-interlock
+prashad,Vijay Prashad,btm,BreakThrough News,org,role,role,role,inferred,_mined
+prashad,Vijay Prashad,pi,Progressive International,org,council,role,former PI Council member,inferred,rls-germany
+prashad,Vijay Prashad,tricontinental,Tricontinental: Institute for Social Research,org,director,role,"Director, Tricontinental",confirmed,rls-germany
+prashad,Vijay Prashad,tricontinental,Tricontinental: Institute for Social Research,org,role,role,Executive Director,confirmed,rubio-cuba
+per_vik_velazquez_morales,Vikó Velazquez Morales,p_kindred_connections,Kindred Connections,project,role,role,Co-Founder,confirmed,afgj-interlock
+bello,Walden Bello,pi,Progressive International,org,council,role,PI Council member,confirmed,rls-germany
+baptist,William Willie Baptist Jr.,p_poor_people_s_economic_human_rights_ca,Poor People’s Economic Human Rights Campaign,project,organizer,role,organizer,inferred,_mined

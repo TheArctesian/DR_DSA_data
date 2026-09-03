@@ -1,0 +1,513 @@
+id,label,kind,degree_full,degree_confirmed,confirmed_share,degree_rank_full,degree_rank_confirmed,rank_shift,betweenness_full,betweenness_confirmed,betweenness_rank_full,betweenness_rank_confirmed
+afgj,Alliance for Global Justice,org,150,132,88%,1,1,0,84732.2,56628.4,1,1
+rubio_report,Rubio Cuba Report (State Dept.),concept,46,1,2%,2,373,371,16394.1,0.0,2,486
+cuba,Cuba,concept,34,6,18%,3,17,14,15421.0,1091.3,3,34
+codepink,CODEPINK,org,32,17,53%,4,3,-1,12194.4,7519.7,5,7
+pf,The People's Forum,org,29,14,48%,5,6,1,6536.7,5160.2,8,8
+benjamin,Medea Benjamin,person,24,8,33%,6,13,7,3994.8,3015.5,17,13
+china,China (PRC),concept,24,0,0%,7,398,391,5097.8,0.0,11,161
+psl,Party for Socialism & Liberation,org,24,11,46%,8,11,3,3763.4,2447.7,21,14
+rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,24,20,83%,9,2,-7,7710.6,8550.6,7,4
+answer,ANSWER Coalition,org,23,10,43%,10,12,2,3880.0,1317.3,19,25
+dsa,Democratic Socialists of America,org,21,13,62%,11,7,-4,10446.3,14415.3,6,3
+icap,ICAP,org,19,12,63%,12,9,-3,4911.8,3276.6,12,11
+iran,Islamic Republic of Iran (state),concept,19,6,32%,13,20,7,2149.3,1339.5,29,23
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),concept,18,16,89%,14,4,-10,4202.6,19638.3,15,2
+rub_national_network_on_cuba,National Network on Cuba,org,18,12,67%,15,10,-5,12499.6,3822.3,4,10
+venezuela,Venezuela,concept,18,1,6%,16,384,368,2216.3,0.0,27,502
+arc_of_justice,"Arc of Justice (fka Benjamin Fund, Inc.)",org,16,15,94%,17,5,-12,5193.0,7759.1,10,5
+ipa,International Peoples' Assembly,concept,16,7,44%,18,16,-2,2187.3,2010.3,28,15
+hatuey,The Hatuey Project,project,15,13,87%,19,8,-11,4286.3,7561.2,14,6
+lariva,Gloria La Riva,person,15,4,27%,20,37,17,1391.5,63.8,44,113
+singham,Neville Roy Singham,person,15,4,27%,21,53,32,1649.1,407.5,39,61
+tricontinental,Tricontinental: Institute for Social Research,org,15,4,27%,22,54,32,2536.4,641.9,24,53
+delacruz,Claudia De la Cruz,person,14,5,36%,23,24,1,1890.6,610.6,36,54
+jef,Justice and Education Fund (JEF),org,14,8,57%,24,14,-10,4354.8,4036.8,13,9
+btm,BreakThrough News,org,13,1,8%,25,160,135,1382.5,0.0,45,151
+maduro,Nicolás Maduro,person,12,5,42%,26,29,3,2431.6,670.1,26,52
+brian_becker,Brian Becker,person,11,5,45%,27,23,-4,1299.4,809.9,49,42
+evans,Jodie Evans,person,10,5,50%,28,26,-2,698.7,579.4,80,55
+rub_hamas,Hamas,org,10,0,0%,29,467,438,2762.1,0.0,23,440
+global_exchange,Global Exchange,org,9,7,78%,30,15,-15,873.6,1214.4,68,27
+per_kevin_zeese,Kevin Zeese,person,9,2,22%,31,133,102,369.9,0.3,126,135
+ev_antifa_festival_2025,International Anti-Fascist Festival (Caracas Jan 9-11 2025),concept,8,6,75%,32,18,-14,169.8,854.7,163,40
+hub_occupy_wall_street,Occupy Wall Street,org,8,0,0%,33,425,392,1498.7,0.0,43,219
+nicanet,Nicaragua Network,org,8,3,38%,34,63,29,119.6,2.9,183,126
+nlg,National Lawyers Guild,org,8,3,38%,35,64,29,2143.0,537.7,30,57
+p_chicago_housing_justice_league,Chicago Housing Justice League,project,8,6,75%,36,21,-15,3979.7,1855.0,18,17
+p_world_can_t_wait,World Can’t Wait,project,8,2,25%,37,128,91,1371.3,373.0,46,85
+rub_black_panther_party,Black Panther Party,org,8,0,0%,38,449,411,720.9,0.0,79,421
+rub_weather_underground,Weather Underground,org,8,0,0%,39,505,466,1003.5,0.0,62,483
+samidoun,Samidoun Palestinian Prisoner Solidarity Network,org,8,3,38%,40,82,42,1909.6,1291.3,35,26
+ben_becker,Ben Becker,person,7,5,71%,41,22,-19,250.8,62.8,138,115
+delossantos,Manolo de los Santos,person,7,2,29%,42,96,54,296.1,0.0,132,173
+german_gov,German Federal Government,concept,7,6,86%,43,19,-24,3835.5,1855.0,20,16
+harris,Roger D. Harris,person,7,5,71%,44,27,-17,134.5,252.9,178,99
+hub_assata_shakur,Assata Shakur,person,7,0,0%,45,409,364,811.7,0.0,69,203
+kaufman,Chuck Kaufman,person,7,5,71%,46,28,-18,61.8,1813.8,205,18
+ma,"Simon Ma, MD, MPH",person,7,1,14%,47,207,160,47.6,0.0,209,245
+p_popular_resistance,Popular Resistance,project,7,3,43%,48,75,27,582.5,371.5,91,92
+per_cindy_sheehan,Cindy Sheehan,person,7,1,14%,49,294,245,417.9,0.0,121,337
+pflp,Popular Front for the Liberation of Palestine (PFLP),org,7,1,14%,50,359,309,740.2,0.0,77,402
+puryear,Eugene Puryear,person,7,1,14%,51,361,310,625.0,0.0,84,405
+richard_becker,Richard Becker,person,7,4,57%,52,50,-2,242.2,63.8,148,114
+rub_ifco_pastors_for_peace,IFCO / Pastors for Peace,org,7,4,57%,53,51,-2,1120.8,425.7,52,59
+rub_venceremos_brigade,Venceremos Brigade,org,7,4,57%,54,52,-2,198.6,42.8,157,119
+russia,Russia,concept,7,0,0%,55,507,452,1284.7,0.0,50,487
+viq,"Rachel Viqueira, MHS",person,7,1,14%,56,385,329,47.6,0.0,210,503
+vsn,Venezuela Solidarity Network,org,7,4,57%,57,55,-2,323.3,111.4,130,111
+fsln,FSLN — Sandinista National Liberation Front,org,6,1,17%,58,184,126,4088.1,0.0,16,186
+hub_hugo_chavez,Hugo Chavez,person,6,0,0%,59,416,357,228.6,0.0,153,210
+ortega,Daniel Ortega,person,6,4,67%,60,38,-22,287.9,1206.1,133,28
+p_coalition_of_women_for_peace,Coalition of Women for Peace,project,6,3,50%,61,73,12,5823.8,745.0,9,49
+p_interoccupy,InterOccupy,project,6,4,67%,62,40,-22,993.2,929.0,66,36
+p_refuse_fascism,Refuse Fascism,project,6,4,67%,63,46,-17,1095.1,743.5,54,50
+per_margaret_flowers,Margaret Flowers,person,6,2,33%,64,135,71,94.1,0.3,197,136
+per_tef_poe,Tef Poe,person,6,1,17%,65,354,289,757.6,0.0,74,397
+prashad,Vijay Prashad,person,6,2,33%,66,139,73,1624.4,264.7,41,98
+psf,People's Support Foundation (PSF),org,6,3,50%,67,79,12,1163.3,427.8,51,58
+rub_alpha_66,Alpha 66,org,6,0,0%,68,442,374,769.4,0.0,70,413
+rub_brothers_to_the_rescue,Brothers to the Rescue,org,6,0,0%,69,451,382,769.4,0.0,71,423
+rub_cuban_american_national_fo,Cuban American National Foundation,org,6,0,0%,70,455,385,769.4,0.0,72,428
+rub_p_robert_f_williams,Robert F. Williams,person,6,0,0%,71,495,424,1068.8,0.0,55,470
+rub_the_wasp_network_red_avisp,The Wasp Network / Red Avispa,org,6,2,33%,72,144,72,151.7,0.0,174,479
+ucf,United Community Fund,org,6,5,83%,73,33,-40,742.0,1486.0,76,22
+bap,Black Alliance for Peace,org,5,2,40%,74,89,15,444.6,24.4,119,121
+die_linke,Die Linke,org,5,5,100%,75,25,-50,560.5,415.5,93,60
+dpaul,David Paul,person,5,1,20%,76,173,97,240.9,0.0,150,174
+garcia,Karina Garcia,person,5,2,40%,77,100,23,45.4,0.0,213,187
+hub_green_party,Green Party,org,5,0,0%,78,414,336,133.7,0.0,179,208
+hub_leni_villag_mez_reeves,Leni Villagómez Reeves,person,5,0,0%,79,419,340,15.2,0.0,236,213
+hub_occupy_sandy,Occupy Sandy,org,5,0,0%,80,424,344,28.9,0.0,221,218
+hub_revolutionary_communist_party_usa,"Revolutionary Communist Party, USA",org,5,0,0%,81,427,346,8.4,0.0,252,221
+jvp,Jewish Voice for Peace (JVP),org,5,1,20%,82,201,119,557.6,0.0,94,235
+marsh,"Nadia Marsh, MD",person,5,2,40%,83,105,22,14.9,0.0,237,246
+ncri_report,Following the Benjamins: How a $48 Million Foundation Operated an Iran-Aligned Influence Network Outside State Oversight in Florida,concept,5,0,0%,84,439,355,179.6,0.0,161,253
+p_arizona_palestine_solidarity_alliance,Arizona Palestine Solidarity Alliance,project,5,2,40%,85,108,23,760.6,373.0,73,67
+p_assata_s_daughters,Assata’s Daughters,project,5,3,60%,86,68,-18,1024.6,745.0,60,44
+p_hands_up_united,Hands Up United,project,5,5,100%,87,30,-57,2971.0,1486.0,22,20
+p_just_info,Just Info,project,5,4,80%,88,41,-47,1119.8,1116.0,53,29
+p_national_network_opposing_the_militari,National Network Opposing the Militarization of Youth,project,5,5,100%,89,31,-58,2527.8,1486.0,25,21
+per_cornel_west,Cornel West,person,5,2,40%,90,132,42,335.9,0.7,128,128
+pi,Progressive International,org,5,2,40%,91,138,47,734.3,373.0,78,86
+press_tv,Press TV,org,5,2,40%,92,140,48,104.9,0.0,193,404
+rls_berlin,Rosa-Luxemburg-Stiftung e.V. (Berlin),org,5,5,100%,93,32,-61,1944.5,3124.1,34,12
+rub_black_liberation_army,Black Liberation Army,org,5,0,0%,94,446,352,45.3,0.0,214,417
+rub_black_lives_matter_global,Black Lives Matter Global Network Foundation,org,5,1,20%,95,367,272,515.2,0.0,99,419
+rub_democratic_front_for_the_l,Democratic Front for the Liberation of Palestine,org,5,0,0%,96,458,362,114.8,0.0,186,431
+rub_may_19th_communist_organiz,May 19th Communist Organization,org,5,0,0%,97,472,375,106.2,0.0,192,445
+rub_palestinian_islamic_jihad,Palestinian Islamic Jihad,org,5,0,0%,98,497,399,177.8,0.0,162,473
+rub_students_for_a_democratic,Students for a Democratic Society,org,5,0,0%,99,501,402,419.0,0.0,120,477
+tfa,Task Force on the Americas,org,5,2,40%,100,148,48,363.9,0.0,127,497
+tighe_barry,Tighe Barry,person,5,3,60%,101,83,-18,524.4,552.7,98,56
+zarif,Mohammad Javad Zarif,person,5,2,40%,102,151,49,94.1,155.6,196,110
+ann_wright,Ann Wright,person,4,2,50%,103,87,-16,0.0,3.0,292,125
+chak,Tings Chak,person,4,1,25%,104,165,61,104.0,0.0,194,159
+earle,Ethan Earle,person,4,4,100%,105,34,-71,1832.8,1572.3,37,19
+ev_fsp_caracas_2019,25th Foro de São Paulo (Caracas 2019),concept,4,4,100%,106,35,-71,103.7,835.1,195,41
+ev_nica_delegation_2021,AFGJ Intl Delegation to Nicaragua (Jul 2021),concept,4,4,100%,107,36,-71,3.2,331.8,265,96
+fsp,Foro de São Paulo,concept,4,3,75%,108,61,-47,610.7,1325.2,85,24
+hub_andira_alves,Andira Alves,person,4,1,25%,109,193,84,0.0,0.0,331,202
+hub_lawyers_better_housing,Lawyers’ Committee for Better Housing,org,4,0,0%,110,418,308,1.3,0.0,277,212
+jacobin,Jacobin,org,4,3,75%,111,62,-49,1642.3,0.5,40,133
+p_adastra,AdAstra,project,4,4,100%,112,39,-73,1757.2,929.0,38,35
+p_cindy_sheehan_s_soapbox,Cindy Sheehan’s Soapbox,project,4,3,75%,113,72,-41,649.0,745.0,83,48
+p_kevin_zeese_emerging_activists_fund,Kevin Zeese Emerging Activists Fund,project,4,3,75%,114,74,-40,235.9,371.5,152,91
+p_kindred_connections,Kindred Connections,project,4,4,100%,115,42,-73,1996.0,1116.0,32,30
+p_march_4_racial_justice,March 4 Racial Justice,project,4,4,100%,116,43,-73,1005.4,929.0,61,37
+p_movement_net_lab,Movement Net Lab,project,4,4,100%,117,44,-73,877.7,929.0,67,38
+p_queer_food_foundation,Queer Food Foundation,project,4,4,100%,118,45,-73,1503.0,1116.0,42,31
+p_south_bronx_unite,South Bronx Unite,project,4,4,100%,119,47,-72,1997.5,1116.0,31,32
+p_taking_black_pride,Taking Black Pride,project,4,4,100%,120,48,-72,1001.5,743.5,65,51
+p_youth_vs_apocalypse,Youth Vs Apocalypse,project,4,4,100%,121,49,-72,1987.7,1116.0,33,33
+per_banbose_shango,Banbose Shango,person,4,1,25%,122,291,169,42.2,0.0,215,334
+per_carl_dix,Carl Dix,person,4,2,50%,123,131,8,5.3,0.7,259,127
+per_cheri_honkala,Cheri Honkala,person,4,1,25%,124,293,169,82.2,0.0,202,336
+per_dakotah_lilly,Dakotah Lilly,person,4,1,25%,125,296,171,12.1,0.0,241,339
+per_t_loving,T Loving,person,4,1,25%,126,349,223,250.5,0.0,143,392
+per_tamara_shapiro,Tamara Shapiro,person,4,1,25%,127,351,224,217.8,0.0,156,394
+per_vik_velazquez_morales,Vikó Velazquez Morales,person,4,1,25%,128,357,229,250.5,0.0,144,400
+puf,Progress Unity Fund,org,4,2,50%,129,141,12,513.3,373.0,100,87
+rub_hezbollah,Hezbollah,org,4,0,0%,130,468,338,397.7,0.0,124,441
+rub_p_antonio_guerrero,Antonio Guerrero,person,4,0,0%,131,480,349,11.0,0.0,243,453
+rub_p_bernardine_dohrn,Bernardine Dohrn,person,4,0,0%,132,482,350,91.8,0.0,199,455
+rub_p_gerardo_hern_ndez,Gerardo Hernández,person,4,0,0%,133,486,353,11.0,0.0,244,460
+rub_p_opal_tometi,Opal Tometi,person,4,0,0%,134,491,357,387.8,0.0,125,465
+rub_p_paul_larudee,Paul Larudee,person,4,0,0%,135,492,357,163.5,0.0,173,466
+rub_p_ram_n_laba_ino,Ramón Labañino,person,4,0,0%,136,493,357,11.0,0.0,245,467
+rub_p_ren_gonz_lez,René González,person,4,0,0%,137,494,357,11.0,0.0,246,468
+rub_republic_of_new_afrika,Republic of New Afrika,org,4,0,0%,138,499,361,589.9,0.0,90,475
+uspc,US Peace Council,org,4,3,75%,139,84,-55,123.5,234.6,182,101
+alvin_benjamin,Alvin Benjamin (1920-2012),person,3,1,33%,140,153,13,0.0,0.0,291,138
+baptist,William Willie Baptist Jr.,person,3,0,0%,141,394,253,487.8,0.0,117,144
+chung,David Sung Mo Chung,person,3,0,0%,142,399,257,0.0,0.0,305,163
+clarkgollub,Jill Clark-Gollub,person,3,2,67%,143,95,-48,2.8,234.6,269,100
+dsa_fund,DSA Fund,org,3,3,100%,144,56,-88,16.7,0.5,234,132
+duhalde,David Duhalde,person,3,3,100%,145,57,-88,129.9,165.8,180,109
+ensler,Eve Ensler,person,3,1,33%,146,177,31,106.8,0.0,191,178
+ev_ipa_founding_2019,IPA Founding Assembly (Caracas Feb 2019),concept,3,3,100%,147,58,-89,6.3,341.9,258,95
+ev_maduro_inaug_2025,Maduro 3rd Inauguration (Jan 10 2025),concept,3,3,100%,148,59,-89,185.9,302.5,160,97
+ev_wfys_2005,16th World Festival of Youth & Students (Caracas 2005),concept,3,3,100%,149,60,-89,502.0,373.0,106,90
+friendsatc,Friends of the ATC,org,3,2,67%,150,98,-52,451.0,373.0,118,64
+frso,Freedom Road Socialist Organization,org,3,2,67%,151,99,-52,554.8,0.0,96,185
+gbi,General Baker Institute,org,3,1,33%,152,185,33,598.1,0.0,89,188
+hrizi,Nathalie Patricia Hrizi,person,3,0,0%,153,408,255,311.2,0.0,131,199
+hu,Rachel Hu,person,3,1,33%,154,192,38,502.0,0.0,107,201
+hub_communities_united,Communities United,org,3,0,0%,155,411,256,0.3,0.0,285,205
+hub_green_shadow_cabinet,Green Shadow Cabinet,org,3,0,0%,156,415,259,22.4,0.0,226,209
+hub_ifnotnow,IfNotNow,org,3,0,0%,157,417,260,115.2,0.0,185,211
+hub_military_families_speak_out,Military Families Speak Out,org,3,0,0%,158,421,263,28.3,0.0,222,215
+hub_mott_haven_port_morris_community_land_st,Mott Haven-Port Morris Community Land Stewards,org,3,0,0%,159,422,263,1.5,0.0,275,216
+hub_movement_netlab,Movement NetLab,org,3,0,0%,160,423,263,12.2,0.0,240,217
+hub_opposed_to_militarism_draft,Committee Opposed to Militarism & the Draft,org,3,0,0%,161,426,265,1.5,0.0,276,220
+hub_will_kohr,Will Kohr,person,3,0,0%,162,430,268,0.0,0.0,335,224
+hub_women_in_black,Women in Black,org,3,0,0%,163,431,268,0.5,0.0,283,225
+hub_women_s_march,Women’s March,org,3,0,0%,164,432,268,6.8,0.0,256,226
+iran_foreign_ministry,Iranian Ministry of Foreign Affairs,org,3,1,33%,165,195,30,3.1,0.0,266,228
+kuang,Savannah Kuang,person,3,1,33%,166,205,39,93.7,0.0,198,242
+leila_zand,Leila Zand,person,3,2,67%,167,103,-64,2.7,179.7,270,108
+new_horizon,New Horizon Organization,org,3,2,67%,168,106,-62,251.7,373.0,137,65
+niac,National Iranian American Council (NIAC),org,3,1,33%,169,212,43,2.3,0.0,273,254
+nunez,Marlon Matthew Nunez,person,3,3,100%,170,65,-105,19.6,60.2,229,116
+o4p,Organizing for Power (O4P),project,3,3,100%,171,66,-105,502.0,373.0,109,66
+p_alianza_ind_gena_sin_fronteras_indigen,Alianza Indígena Sin Fronteras / Indigenous Alliance Without Borders,project,3,3,100%,172,67,-105,1003.0,745.0,63,43
+p_black_lives_matter_oklahoma_city,Black Lives Matter-Oklahoma City,project,3,2,67%,173,110,-63,1057.9,373.0,57,69
+p_black_movement_law_project,Black Movement Law Project,project,3,3,100%,174,69,-105,163.8,745.0,172,45
+p_black_trans_media,Black Trans Media,project,3,1,33%,175,222,47,605.5,0.0,87,265
+p_black_trans_travel_fund,Black Trans Travel Fund,project,3,2,67%,176,111,-65,605.5,373.0,88,70
+p_change_links_newspaper,Change-Links Newspaper,project,3,3,100%,177,70,-107,1057.4,745.0,58,46
+p_chicago_housing_initiative,Chicago Housing Initiative,project,3,3,100%,178,71,-107,1003.0,745.0,64,47
+p_honduras_solidarity_network,Honduras Solidarity Network,project,3,1,33%,179,242,63,87.9,0.0,201,285
+p_orinoco_tribune,Orinoco Tribune,project,3,2,67%,180,120,-60,580.5,373.0,92,78
+p_poor_people_s_economic_human_rights_ca,Poor People’s Economic Human Rights Campaign,project,3,2,67%,181,121,-60,526.2,373.0,97,79
+p_stop_mass_incarceration_network,Stop Mass Incarceration Network,project,3,3,100%,182,76,-106,606.1,370.5,86,93
+p_trans_women_of_color_solidarity_networ,Trans Women of Color Solidarity Network,project,3,3,100%,183,77,-106,499.5,370.5,116,94
+pel,Party of the European Left,org,3,3,100%,184,78,-106,1054.6,912.7,59,39
+per_allen_kwabena_frimpong,Allen Kwabena Frimpong,person,3,2,67%,185,129,-56,197.2,4.5,158,123
+per_andrea_ciannavei,Andrea Ciannavei,person,3,2,67%,186,130,-56,10.2,4.5,247,124
+per_debra_sweet,Debra Sweet,person,3,1,33%,187,298,111,2.9,0.0,267,341
+per_diane_limas,Diane Limas,person,3,1,33%,188,300,112,0.3,0.0,287,343
+per_elaine_brower,Elaine Brower,person,3,1,33%,189,302,113,111.5,0.0,190,345
+per_elisabeth_epps,Elisabeth Epps,person,3,1,33%,190,303,113,328.3,0.0,129,346
+per_frank_avellone,Frank Avellone,person,3,1,33%,191,307,116,0.3,0.0,288,350
+per_khafre_jay,Khafre Jay,person,3,1,33%,192,314,122,502.0,0.0,115,357
+per_mirely_baca,Mirely Baca,person,3,1,33%,193,329,136,0.0,0.0,441,372
+per_nate_kleinman,Nate Kleinman,person,3,1,33%,194,334,140,0.2,0.0,289,377
+per_nathan_sheard,Nathan Sheard,person,3,1,33%,195,335,140,2.5,0.0,272,378
+per_pablo_benson_silva,Pablo Benson-Silva,person,3,1,33%,196,337,141,3.3,0.0,264,380
+per_rachel_o_leary_carmona,Rachel O'Leary Carmona,person,3,1,33%,197,340,143,269.6,0.0,135,383
+per_sunsara_taylor,Sunsara Taylor,person,3,1,33%,198,347,149,0.0,0.0,449,390
+per_tara_thompson,Tara Thompson,person,3,1,33%,199,352,153,247.7,0.0,145,395
+rose_benjamin,Rose Benjamin,person,3,1,33%,200,365,165,0.0,0.0,458,410
+rub_fair_play_for_cuba_committ,Fair Play for Cuba Committee,org,3,0,0%,201,462,261,220.9,0.0,155,435
+rub_international_may_day_brig,International May Day Brigade,org,3,3,100%,202,80,-122,22.0,42.8,227,118
+rub_p_angela_davis,Angela Davis,person,3,0,0%,203,479,276,29.2,0.0,220,452
+rub_p_bill_ayers,Bill Ayers,person,3,0,0%,204,483,279,51.4,0.0,208,456
+rub_p_kathy_boudin,Kathy Boudin,person,3,0,0%,205,488,283,46.0,0.0,212,462
+rub_p_onyesonwu_chatoyer,Onyesonwu Chatoyer,person,3,3,100%,206,81,-125,13.7,25.7,239,120
+rub_palestine_liberation_organ,Palestine Liberation Organization,org,3,0,0%,207,496,289,0.0,0.0,489,472
+rub_thousand_currents,Thousand Currents,org,3,1,33%,208,371,163,688.5,0.0,81,480
+sunkara,Bhaskar Sunkara,person,3,2,67%,209,146,-63,17.7,0.0,233,494
+theoharis,Rev. Dr. Elizabeth Armen Liz Theoharis,person,3,1,33%,210,380,170,195.5,0.0,159,498
+xiao,Sheila Xiao,person,3,2,67%,211,150,-61,29.7,12.1,218,122
+albamov,ALBA Movimientos,concept,2,2,100%,212,85,-127,0.5,0.5,282,131
+alhusseini,Ibrahim AlHusseini,person,2,2,100%,213,86,-127,502.0,373.0,102,62
+anderson-figueroa,Jo Anderson-Figueroa,person,2,0,0%,214,392,178,36.4,0.0,217,139
+atc,ATC — Asociación de Trabajadores del Campo,org,2,1,50%,215,155,-60,19.1,0.0,231,141
+baker_gordon,General Gordon Baker Jr.,person,2,0,0%,216,393,177,403.9,0.0,123,143
+balagun,Kazembe Balagun,person,2,2,100%,217,88,-129,502.0,373.0,103,63
+belen,Matthew Matt Belen,person,2,0,0%,218,395,177,0.0,0.0,295,145
+bello,Walden Bello,person,2,1,50%,219,157,-62,70.2,0.0,204,146
+bertoldi,Manuel Bertoldi,person,2,2,100%,220,90,-130,250.5,186.0,139,102
+bounds,Tajee Bounds,person,2,0,0%,221,396,175,9.3,0.0,250,147
+bugni,Renata Porto Bugni,person,2,1,50%,222,161,-61,7.0,0.0,255,152
+burke,Tom Burke,person,2,2,100%,223,91,-132,0.0,0.0,299,153
+camacaro,William Camacaro,person,2,2,100%,224,92,-132,0.0,0.0,301,155
+caruso,Christopher Chris Caruso,person,2,1,50%,225,163,-62,224.5,0.0,154,156
+ccr,Center for Constitutional Rights,org,2,1,50%,226,164,-62,46.0,0.0,211,157
+cea_weaver,Cea Weaver,person,2,2,100%,227,93,-134,0.0,0.0,302,158
+chua,Heidi Chua,person,2,2,100%,228,94,-134,0.0,0.0,304,162
+cook,Claire Cook,person,2,1,50%,229,167,-62,29.4,0.0,219,165
+craig,Hannah Priscilla Craig,person,2,1,50%,230,168,-62,9.3,0.0,251,167
+croce,STEIN-DELLA CROCE,person,2,0,0%,231,402,171,9.8,0.0,248,168
+danaher,Maya (Mandela) Danaher,person,2,1,50%,232,171,-61,0.0,0.0,310,171
+estrada,Paola Estrada,person,2,2,100%,233,97,-136,250.5,186.0,140,103
+ev_nica_election_2021,Nicaragua General Election (Nov 2021),concept,2,1,50%,234,179,-55,0.0,0.0,316,180
+gunther,Andreas Günther,person,2,2,100%,235,101,-134,146.3,183.1,175,106
+henderson,Rita Henderson,person,2,0,0%,236,407,171,9.8,0.0,249,196
+hispantv,HispanTV,org,2,1,50%,237,189,-48,0.0,0.0,328,197
+hoyt,Katherine Hoyt,person,2,1,50%,238,190,-48,0.0,0.0,329,198
+hub_dead_prez,Dead Prez,org,2,0,0%,239,412,173,4.4,0.0,261,206
+hub_dream_defenders,Dream Defenders,org,2,0,0%,240,413,173,0.0,0.0,333,207
+hub_massachusetts_bail,Massachusetts Bail Fund,org,2,0,0%,241,420,179,2.5,0.0,271,214
+hub_talib_kweli,Talib Kweli,person,2,0,0%,242,428,186,4.4,0.0,262,222
+hub_trans_justice_funding,Trans Justice Funding Project,org,2,0,0%,243,429,186,0.0,0.0,334,223
+ips,Institute for Policy Studies,org,2,1,50%,244,194,-50,13.9,0.0,238,227
+irgc,Islamic Revolutionary Guard Corps (IRGC),org,2,1,50%,245,197,-48,7.9,0.0,254,230
+irgens_moller,Kirsten Irgens-Moller,person,2,2,100%,246,102,-144,0.0,0.0,337,231
+jordan,James Patrick Jordan,person,2,1,50%,247,200,-47,0.0,0.0,340,234
+kleiner,Franziska Kleiner,person,2,1,50%,248,203,-45,26.4,0.0,224,238
+kovalik,Dan Kovalik,person,2,0,0%,249,434,185,0.0,0.0,343,239
+kramer,Marian Kramer,person,2,0,0%,250,435,185,2.0,0.0,274,240
+liebich,Stefan Liebich,person,2,2,100%,251,104,-147,146.3,183.1,176,107
+nmeyer,Neal Meyer,person,2,2,100%,252,107,-145,0.0,0.0,353,255
+p_arizona_educators_united,Arizona Educators United,project,2,1,50%,253,217,-36,1331.2,0.0,47,260
+p_black_and_pink_ma,Black and Pink MA,project,2,2,100%,254,109,-145,744.0,373.0,75,68
+p_colorado_freedom_fund,Colorado Freedom Fund,project,2,2,100%,255,112,-143,504.8,373.0,101,71
+p_corporate_genome_project,Corporate Genome Project,project,2,2,100%,256,113,-143,250.5,186.0,141,104
+p_friends_of_asociaci_n_de_trabajadores_,Friends of Asociación de Trabajadores Campesinos,project,2,2,100%,257,114,-143,246.5,373.0,147,72
+p_good_shepherd_collective,Good Shepherd Collective,project,2,1,50%,258,240,-18,408.3,0.0,122,283
+p_instituto_agroecol_gico_latinoamerican,Instituto Agroecológico Latinoamericano–Mesoamericana (IALA Mesoamerica),project,2,2,100%,259,115,-144,502.0,373.0,110,73
+p_international_people_s_tribunal,International People’s Tribunal,project,2,1,50%,260,247,-13,0.0,0.0,384,290
+p_justice_for_all_coalition,Justice for All Coalition,project,2,2,100%,261,116,-145,502.0,373.0,111,74
+p_labor_against_racism_and_war,Labor Against Racism and War,project,2,1,50%,262,251,-11,1331.2,0.0,48,294
+p_los_angeles_community_action_network,Los Angeles Community Action Network,project,2,2,100%,263,117,-146,502.0,373.0,112,75
+p_nappy_roots_books,Nappy Roots Books,project,2,2,100%,264,118,-146,0.0,373.0,397,76
+p_national_immigrant_solidarity_network,National Immigrant Solidarity Network,project,2,1,50%,265,262,-3,1060.7,0.0,56,305
+p_never_again_action,Never Again Action,project,2,2,100%,266,119,-147,555.9,373.0,95,77
+p_people_helping_people,People Helping People,project,2,1,50%,267,267,0,0.0,0.0,403,310
+p_real_food_generation,Real Food Generation,project,2,2,100%,268,122,-146,250.5,186.0,142,105
+p_splitseed_productions,SplitSeed Productions,project,2,2,100%,269,123,-146,241.9,373.0,149,80
+p_sustainable_orphanages_for_haitian_you,Sustainable Orphanages for Haitian Youth,project,2,2,100%,270,124,-146,283.7,373.0,134,81
+p_thompson_house_tucson,Thompson House Tucson,project,2,2,100%,271,125,-146,502.0,373.0,113,82
+p_united_students_against_sweatshops,United Students Against Sweatshops,project,2,2,100%,272,126,-146,114.4,373.0,188,83
+p_werk_for_peace,WERK for Peace,project,2,2,100%,273,127,-146,660.4,373.0,82,84
+per_abraham_hassen,Abraham Hassen,person,2,1,50%,274,287,13,2.8,0.0,268,330
+per_alyssa_rubin,Alyssa Rubin,person,2,1,50%,275,288,13,114.0,0.0,189,331
+per_antonio_gutierrez,Antonio Gutierrez,person,2,1,50%,276,289,13,502.0,0.0,114,332
+per_aquib_s_yacoob,Aquib S. Yacoob,person,2,1,50%,277,290,13,165.6,0.0,171,333
+per_devin_michael_lowe,Devin Michael Lowe,person,2,1,50%,278,299,21,0.3,0.0,286,342
+per_erika_takeo,Erika Takeo,person,2,1,50%,279,304,25,0.8,0.0,279,347
+per_firas_nasr,Firas Nasr,person,2,1,50%,280,306,26,166.2,0.0,170,349
+per_gary_ghirardi,Gary Ghirardi,person,2,1,50%,281,309,28,166.7,0.0,164,352
+per_gila_svirsky,Gila Svirsky,person,2,1,50%,282,310,28,0.0,0.0,429,353
+per_hannah_safran,Hannah Safran,person,2,1,50%,283,311,28,0.0,0.0,430,354
+per_joan_donovan,Joan Donovan,person,2,1,50%,284,312,28,0.0,0.0,431,355
+per_lourdez,Lourdez,person,2,2,100%,285,134,-151,0.7,0.7,280,129
+per_makayla_heiser,Makayla Heiser,person,2,1,50%,286,318,32,19.4,0.0,230,361
+per_mark_swartz,Mark Swartz,person,2,1,50%,287,319,32,0.0,0.0,436,362
+per_mattie,Mattie,person,2,2,100%,288,136,-152,0.7,0.7,281,130
+per_maurice_cook,Maurice Cook,person,2,1,50%,289,321,32,37.2,0.0,216,364
+per_meghan_maurus,Meghan Maurus,person,2,1,50%,290,324,34,8.3,0.0,253,367
+per_melissa_barber_md,"Melissa Barber, MD",person,2,1,50%,291,326,35,166.7,0.0,165,369
+per_michael_cox,Michael Cox,person,2,1,50%,292,327,35,246.5,0.0,146,370
+per_michael_novick,Michael Novick,person,2,1,50%,293,328,35,117.0,0.0,184,371
+per_monxo_lopez,Monxo Lopez,person,2,1,50%,294,332,38,166.7,0.0,166,375
+per_mychal_johnson,Mychal Johnson,person,2,1,50%,295,333,38,166.7,0.0,167,376
+per_oren_robinson,Oren Robinson,person,2,1,50%,296,336,40,166.7,0.0,168,379
+per_page_may,Page May,person,2,1,50%,297,338,41,0.0,0.0,444,381
+per_pat_alviso,Pat Alviso,person,2,1,50%,298,339,41,59.9,0.0,206,382
+per_rebecca_heinegg,Rebecca Heinegg,person,2,1,50%,299,342,43,3.5,0.0,263,385
+per_rick_jahnkow,Rick Jahnkow,person,2,1,50%,300,343,43,166.7,0.0,169,386
+per_samantha_parsons,Samantha Parsons,person,2,2,100%,301,137,-164,0.5,0.5,284,134
+per_t_sheri_dickerson,T. Sheri Dickerson,person,2,1,50%,302,350,48,256.0,0.0,136,393
+per_taureen_tory_russell,"Taureen ""Tory"" Russell",person,2,1,50%,303,353,50,0.0,0.0,451,396
+per_trayce_peterson,Trayce Peterson,person,2,1,50%,304,355,51,1.0,0.0,278,398
+per_vee_morris_moore,Vee Morris Moore,person,2,1,50%,305,356,51,0.0,0.0,452,399
+reyes,Karla Reyes,person,2,1,50%,306,363,57,23.3,0.0,225,407
+rub_african_national_congress,African National Congress,org,2,1,50%,307,366,59,236.4,0.0,151,411
+rub_amistur_cuba_sa,Amistur Cuba SA,org,2,2,100%,308,142,-166,18.1,55.7,232,117
+rub_association_for_investment,Association for Investment in Popular Action Committees,org,2,0,0%,309,444,135,54.9,0.0,207,415
+rub_canadian_network_on_cuba,Canadian Network on Cuba,org,2,0,0%,310,452,142,143.6,0.0,177,424
+rub_communist_party_usa,Communist Party USA,org,2,1,50%,311,368,57,114.7,0.0,187,427
+rub_faln,FALN,org,2,0,0%,312,463,151,0.0,0.0,472,436
+rub_m_19,M-19,org,2,0,0%,313,470,157,77.1,0.0,203,443
+rub_macheteros,Macheteros,org,2,0,0%,314,471,157,0.0,0.0,477,444
+rub_naacp,NAACP,org,2,0,0%,315,474,159,28.0,0.0,223,447
+rub_p_alicia_garza,Alicia Garza,person,2,0,0%,316,478,162,0.0,0.0,482,451
+rub_p_fernando_gonz_lez_llor,Fernando González Llort,person,2,2,100%,317,143,-174,0.0,0.0,485,458
+rub_p_george_galloway,George Galloway,person,2,0,0%,318,485,167,502.0,0.0,108,459
+rub_p_gustavo_petro,Gustavo Petro,person,2,0,0%,319,487,168,88.0,0.0,200,461
+rub_p_leonard_boudin,Leonard Boudin,person,2,0,0%,320,489,169,128.9,0.0,181,463
+rub_p_nayef_hawatmeh,Nayef Hawatmeh,person,2,0,0%,321,490,169,0.0,0.0,486,464
+rub_student_nonviolent_coordin,Student Nonviolent Coordinating Committee,org,2,0,0%,322,500,178,0.0,0.0,491,476
+rub_the_jericho_movement,The Jericho Movement,org,2,0,0%,323,502,179,6.5,0.0,257,478
+scharenberg,Albert Scharenberg,person,2,1,50%,324,374,50,502.0,0.0,104,489
+souers,Wyatt Souers,person,2,1,50%,325,377,52,4.9,0.0,260,493
+stein,Abby Stein (JVP Rabbinical Council),person,2,2,100%,326,145,-181,0.0,373.0,500,88
+svart,Maria Svart,person,2,1,50%,327,378,51,0.0,0.0,501,495
+syriza,SYRIZA,org,2,2,100%,328,147,-181,502.0,373.0,105,89
+taylor,Nancy Taylor,person,2,1,50%,329,379,50,0.0,0.0,502,496
+uts,Union Theological Seminary,org,2,1,50%,330,383,53,12.0,0.0,242,501
+valente,Mónica Valente,person,2,2,100%,331,149,-182,16.7,80.3,235,112
+wfp,Working Families Party,org,2,0,0%,332,511,179,20.8,0.0,228,506
+wider,Phil Wider,person,2,1,50%,333,387,54,0.0,0.0,507,507
+ydsa,Young DSA (YDSA),org,2,0,0%,334,512,178,0.0,0.0,508,508
+yee,Amanda Yee,person,2,1,50%,335,388,53,0.0,0.0,509,509
+abbott,Diane Abbott,person,1,1,100%,336,152,-184,0.0,0.0,290,137
+arlen_gomez,Arlen Benjamin-Gomez,person,1,1,100%,337,154,-183,0.0,0.0,293,140
+baker_carolyn,Carolyn Baker,person,1,1,100%,338,156,-182,0.0,0.0,294,142
+bournous,Yiannis Bournous,person,1,1,100%,339,158,-181,0.0,0.0,296,148
+brease,Emily Brease,person,1,0,0%,340,397,57,0.0,0.0,297,149
+brecht_forum,Brecht Forum,org,1,1,100%,341,159,-182,0.0,0.0,298,150
+c3misc,Affiliated 501(c)(3),org,1,1,100%,342,162,-180,0.0,0.0,300,154
+chanoine,Claudette Chanoine,person,1,1,100%,343,166,-177,0.0,0.0,303,160
+conway,Marshall Eddie Conway,person,1,0,0%,344,400,56,0.0,0.0,306,164
+cpc,Congressional Progressive Caucus,org,1,0,0%,345,401,56,0.0,0.0,307,166
+cultureproject,Culture Project,org,1,1,100%,346,169,-177,0.0,0.0,308,169
+dagdelen,Sevim Dagdelen,person,1,1,100%,347,170,-177,0.0,0.0,309,170
+deborah_benjamin,Deborah Coyle Benjamin,person,1,1,100%,348,172,-176,0.0,0.0,311,172
+dwilliams,David Williams,person,1,1,100%,349,174,-175,0.0,0.0,312,175
+ehmsen,Stefanie Ehmsen,person,1,1,100%,350,175,-175,0.0,0.0,313,176
+enkelmann,Dagmar Enkelmann,person,1,1,100%,351,176,-175,0.0,0.0,314,177
+ev_caracas_antifa_2024,Antifascist Congress of Caracas (Nov 28 2024),concept,1,1,100%,352,178,-174,0.0,0.0,315,179
+fars_news,Fars News Agency,org,1,1,100%,353,180,-173,0.0,0.0,317,181
+fernandes,Marco Fernandes,person,1,1,100%,354,181,-173,0.0,0.0,318,182
+fes,Friedrich Ebert Stiftung Inc (FES),org,1,1,100%,355,182,-173,0.0,0.0,319,183
+fns,Friedrich Naumann Foundation (FNS),org,1,1,100%,356,183,-173,0.0,0.0,320,184
+ghost_officers,Ghost Officers (5 unidentified signers),concept,1,1,100%,357,186,-171,0.0,0.0,321,189
+goodwin,Alicia Thilani Singham Goodwin,person,1,0,0%,358,404,46,0.0,0.0,323,191
+grassroots_intl,Grassroots International,org,1,1,100%,359,187,-172,0.0,0.0,324,192
+grenyion,Kristen Grenyion,person,1,0,0%,360,405,45,0.0,0.0,325,193
+hamby,Ryan Hamby,person,1,0,0%,361,406,45,0.0,0.0,326,194
+hbs,Heinrich Boell Foundation (HBS),org,1,1,100%,362,188,-174,0.0,0.0,327,195
+hss,Hanns Seidel Foundation USA (HSS),org,1,1,100%,363,191,-172,0.0,0.0,330,200
+hub_autonomous_tenants_union,Autonomous Tenants Union,org,1,0,0%,364,410,46,0.0,0.0,332,204
+iranian_red_crescent,Iranian Red Crescent Society,org,1,1,100%,365,196,-169,0.0,0.0,336,229
+janequine,Olivia Goncalves Janequine,person,1,1,100%,366,198,-168,0.0,0.0,338,232
+jonathan_raggett,Jonathan 'Jonny' Raggett,person,1,1,100%,367,199,-168,0.0,0.0,339,233
+kas,Konrad Adenauer Stiftung Inc (KAS),org,1,1,100%,368,202,-166,0.0,0.0,341,236
+khalek,Rania Abdul Khalek,person,1,0,0%,369,433,64,0.0,0.0,342,237
+krouth,Kristine Teresa Krouth,person,1,1,100%,370,204,-166,0.0,0.0,344,241
+lowengard,Elizabeth Lowengard,person,1,0,0%,371,436,65,0.0,0.0,345,243
+luvela,Smangele Luvela,person,1,1,100%,372,206,-166,0.0,0.0,346,244
+maura,Eduardo Maura,person,1,1,100%,373,208,-165,0.0,0.0,347,247
+mcalevey,Jane McAlevey,person,1,1,100%,374,209,-165,0.0,0.0,348,248
+mccarthy,Bobbette McCarthy,person,1,0,0%,375,437,62,0.0,0.0,349,249
+mfernandez,Mariana Fernandez,person,1,1,100%,376,210,-166,0.0,0.0,350,250
+minsap,MINSAP (Cuban Health Ministry),org,1,1,100%,377,211,-166,0.0,0.0,351,251
+moseley,Saidi Moseley,person,1,0,0%,378,438,60,0.0,0.0,352,252
+p_411_collective,411 Collective,project,1,1,100%,379,213,-166,0.0,0.0,354,256
+p_action_bail_fund,Action Bail Fund,project,1,1,100%,380,214,-166,0.0,0.0,355,257
+p_african_awareness_association,African Awareness Association,project,1,1,100%,381,215,-166,0.0,0.0,356,258
+p_amigos_de_la_playa,Amigos de la Playa,project,1,1,100%,382,216,-166,0.0,0.0,357,259
+p_asotrecol,ASOTRECOL,project,1,1,100%,383,218,-165,0.0,0.0,358,261
+p_az_jobs_with_justice,AZ Jobs with Justice,project,1,1,100%,384,219,-165,0.0,0.0,359,262
+p_beef_relief,Beef Relief,project,1,1,100%,385,220,-165,0.0,0.0,360,263
+p_black_lives_matter_tucson,Black Lives Matter Tucson,project,1,1,100%,386,221,-165,0.0,0.0,361,264
+p_bukit_bail_fund_of_pittsburgh,Bukit Bail Fund of Pittsburgh,project,1,1,100%,387,223,-164,0.0,0.0,362,266
+p_bv_solidarity_project,BV Solidarity Project,project,1,1,100%,388,224,-164,0.0,0.0,363,267
+p_camino_com_n,Camino Común,project,1,1,100%,389,225,-164,0.0,0.0,364,268
+p_central_ohio_freedom_fund,Central Ohio Freedom Fund,project,1,1,100%,390,226,-164,0.0,0.0,365,269
+p_centro_de_derechos_humanos_del_pac_fic,Centro de Derechos Humanos del Pacífico (Centro Pazífico),project,1,1,100%,391,227,-164,0.0,0.0,366,270
+p_centro_solidario_de_puerto_rico,Centro Solidario de Puerto Rico,project,1,1,100%,392,228,-164,0.0,0.0,367,271
+p_chico_mendes_reforestation_project,Chico Mendes Reforestation Project,project,1,1,100%,393,229,-164,0.0,0.0,368,272
+p_clean_up_the_mines,Clean up the Mines,project,1,1,100%,394,230,-164,0.0,0.0,369,273
+p_community_action_relief_project,Community Action Relief Project,project,1,1,100%,395,231,-164,0.0,0.0,370,274
+p_creating_a_more_beloved_community_film,Creating a More Beloved Community Film & Discussion Series,project,1,1,100%,396,232,-164,0.0,0.0,371,275
+p_denver_justice_project,Denver Justice Project,project,1,1,100%,397,233,-164,0.0,0.0,372,276
+p_erie_bail_fund,Erie Bail Fund,project,1,1,100%,398,234,-164,0.0,0.0,373,277
+p_eritye_papa_desalin,Eritye Papa Desalin,project,1,1,100%,399,235,-164,0.0,0.0,374,278
+p_free_mumia_abu_jamal_coalition,Free Mumia Abu-Jamal Coalition,project,1,1,100%,400,236,-164,0.0,0.0,375,279
+p_friends_of_gente_de_i_itoi_a_c,"Friends of Gente de I’itoi, A.C.",project,1,1,100%,401,237,-164,0.0,0.0,376,280
+p_friends_of_mujeres_de_la_tierra,Friends of Mujeres de la Tierra,project,1,1,100%,402,238,-164,0.0,0.0,377,281
+p_gno_interfaith_sanctuary_coalition,GNO Interfaith Sanctuary Coalition,project,1,1,100%,403,239,-164,0.0,0.0,378,282
+p_hampshire_college_legal_support_fund,Hampshire College Legal Support Fund,project,1,1,100%,404,241,-163,0.0,0.0,379,284
+p_human_rights_school,Human Rights School,project,1,1,100%,405,243,-162,0.0,0.0,380,286
+p_initiative_for_equality,Initiative for Equality,project,1,1,100%,406,244,-162,0.0,0.0,381,287
+p_international_indigenous_initiative_fo,InterNational Indigenous Initiative for Transformative Collaboration,project,1,1,100%,407,245,-162,0.0,0.0,382,288
+p_international_journal_of_foreign_langu,International Journal of Foreign Language Teaching,project,1,1,100%,408,246,-162,0.0,0.0,383,289
+p_irish_diaspora_decolonization_alliance,Irish Diaspora Decolonization Alliance,project,1,1,100%,409,248,-161,0.0,0.0,385,291
+p_juthour_arboretum,Juthour Arboretum,project,1,1,100%,410,249,-161,0.0,0.0,386,292
+p_la_colectiva,La ColectiVA,project,1,1,100%,411,250,-161,0.0,0.0,387,293
+p_lancaster_bail_fund,Lancaster Bail Fund,project,1,1,100%,412,252,-160,0.0,0.0,388,295
+p_legal_defense_for_palestine,Legal Defense for Palestine,project,1,1,100%,413,253,-160,0.0,0.0,389,296
+p_lgbt_freedom_and_asylum_network,LGBT Freedom and Asylum Network,project,1,1,100%,414,254,-160,0.0,0.0,390,297
+p_lgbt_voice_tanzania,LGBT Voice Tanzania,project,1,1,100%,415,255,-160,0.0,0.0,391,298
+p_lo_eterno_media_collective,Lo Eterno Media Collective,project,1,1,100%,416,256,-160,0.0,0.0,392,299
+p_lupinewood,Lupinewood,project,1,1,100%,417,257,-160,0.0,0.0,393,300
+p_march_4_racial_justice_ny,March 4 Racial Justice NY,project,1,1,100%,418,258,-160,0.0,0.0,394,301
+p_miracle_for_mikeals_legacy_foundation,Miracle For Mikeals Legacy Foundation,project,1,1,100%,419,259,-160,0.0,0.0,395,302
+p_mosaic_black_trans_funding_network,Mosaic Black Trans Funding Network,project,1,1,100%,420,260,-160,0.0,0.0,396,303
+p_national_association_of_human_rights_d,National Association of Human Rights Defenders,project,1,1,100%,421,261,-160,0.0,0.0,398,304
+p_nicaragua_solidarity_fund,Nicaragua Solidarity Fund,project,1,1,100%,422,263,-159,0.0,0.0,399,306
+p_o_odham_anti_border_collective,O’odham Anti Border Collective,project,1,1,100%,423,264,-159,0.0,0.0,400,307
+p_otros_mundos_a_c,Otros Mundos A.C.,project,1,1,100%,424,265,-159,0.0,0.0,401,308
+p_peace_education,Peace Education,project,1,1,100%,425,266,-159,0.0,0.0,402,309
+p_philly_thrive,Philly Thrive,project,1,1,100%,426,268,-158,0.0,0.0,404,311
+p_pueblo_sin_fronteras,Pueblo Sin Fronteras,project,1,1,100%,427,269,-158,0.0,0.0,405,312
+p_radical_bloggers_fund,Radical Bloggers Fund,project,1,1,100%,428,270,-158,0.0,0.0,406,313
+p_real_name_campaign_nola,Real Name Campaign NOLA,project,1,1,100%,429,271,-158,0.0,0.0,407,314
+p_reale_justice_network,Reale Justice Network,project,1,1,100%,430,272,-158,0.0,0.0,408,315
+p_reconnect_earth,Reconnect Earth,project,1,1,100%,431,273,-158,0.0,0.0,409,316
+p_red_de_solidaridad,Red de Solidaridad,project,1,1,100%,432,274,-158,0.0,0.0,410,317
+p_return_solidarity,Return Solidarity,project,1,1,100%,433,275,-158,0.0,0.0,411,318
+p_reuniting_of_african_descendants_road,Reuniting of African Descendants (ROAD),project,1,1,100%,434,276,-158,0.0,0.0,412,319
+p_solidarity_ignite,Solidarity Ignite,project,1,1,100%,435,277,-158,0.0,0.0,413,320
+p_suriname_indigenous_health_fund,Suriname Indigenous Health Fund,project,1,1,100%,436,278,-158,0.0,0.0,414,321
+p_sustainable_nations,Sustainable Nations,project,1,1,100%,437,279,-158,0.0,0.0,415,322
+p_ta_ayush,Ta’ayush,project,1,1,100%,438,280,-158,0.0,0.0,416,323
+p_the_l_i_c_project,The L.I.C. Project,project,1,1,100%,439,281,-158,0.0,0.0,417,324
+p_ubuntu,UBUNTU,project,1,1,100%,440,282,-158,0.0,0.0,418,325
+p_unir,UNIR,project,1,1,100%,441,283,-158,0.0,0.0,419,326
+p_upland_grassroots,Upland Grassroots,project,1,1,100%,442,284,-158,0.0,0.0,420,327
+p_white_noise_collective,White Noise Collective,project,1,1,100%,443,285,-158,0.0,0.0,421,328
+p_woodbine_education_center,Woodbine Education Center,project,1,1,100%,444,286,-158,0.0,0.0,422,329
+per_bella_de_soto,Bella De Soto,person,1,1,100%,445,292,-153,0.0,0.0,423,335
+per_cory_jong,Cory Jong,person,1,1,100%,446,295,-151,0.0,0.0,424,338
+per_david_foecke,David Foecke,person,1,1,100%,447,297,-150,0.0,0.0,425,340
+per_dr_patrisia_gonzales,Dr. Patrisia Gonzales,person,1,1,100%,448,301,-147,0.0,0.0,426,344
+per_evana,Evana,person,1,1,100%,449,305,-144,0.0,0.0,427,348
+per_gabrielle_lenart,Gabrielle Lenart,person,1,1,100%,450,308,-142,0.0,0.0,428,351
+per_johnnie_jae,Johnnie Jae,person,1,1,100%,451,313,-138,0.0,0.0,432,356
+per_kristen_godfrey,Kristen Godfrey,person,1,1,100%,452,315,-137,0.0,0.0,433,358
+per_kristen_hackett,Kristen Hackett,person,1,1,100%,453,316,-137,0.0,0.0,434,359
+per_lourdes_escalante,Lourdes Escalante,person,1,1,100%,454,317,-137,0.0,0.0,435,360
+per_marlen_s_nchez,Marlen Sánchez,person,1,1,100%,455,320,-135,0.0,0.0,437,363
+per_mavis_jay_sanders,Mavis-Jay Sanders,person,1,1,100%,456,322,-134,0.0,0.0,438,365
+per_mcahl_sheffield,Mcahl Sheffield,person,1,1,100%,457,323,-134,0.0,0.0,439,366
+per_melina_abdullah,Melina Abdullah,person,1,1,100%,458,325,-133,0.0,0.0,440,368
+per_mohyeddin_abdulaziz,Mohyeddin Abdulaziz,person,1,1,100%,459,330,-129,0.0,0.0,442,373
+per_moira_meltzer_cohen,Moira Meltzer-Cohen,person,1,1,100%,460,331,-129,0.0,0.0,443,374
+per_rachel_wilson,Rachel Wilson,person,1,1,100%,461,341,-120,0.0,0.0,445,384
+per_samantha_butler,Samantha Butler,person,1,1,100%,462,344,-118,0.0,0.0,446,387
+per_steve_lalla,Steve Lalla,person,1,1,100%,463,345,-118,0.0,0.0,447,388
+per_sunny_levine,Sunny Levine,person,1,1,100%,464,346,-118,0.0,0.0,448,389
+per_t_dubb_o,T-Dubb-O,person,1,1,100%,465,348,-117,0.0,0.0,450,391
+pfetcher,Jason Pfetcher,person,1,1,100%,466,358,-108,0.0,0.0,453,401
+podemos,Podemos,org,1,1,100%,467,360,-107,0.0,0.0,454,403
+pwa,People's Welfare Association,org,1,1,100%,468,362,-106,0.0,0.0,455,406
+rhc,Radio Havana Cuba / Prensa Latina / Granma,org,1,1,100%,469,364,-105,0.0,0.0,456,408
+ron,Carlos Ron,person,1,0,0%,470,440,-30,0.0,0.0,457,409
+rub_al_tajammu,Al-Tajammu,org,1,0,0%,471,441,-30,0.0,0.0,459,412
+rub_amazon_labor_union,Amazon Labor Union,org,1,0,0%,472,443,-29,0.0,0.0,460,414
+rub_belly_of_the_beast_llc,Belly of the Beast LLC,org,1,0,0%,473,445,-28,0.0,0.0,461,416
+rub_black_lives_matter_at_scho,Black Lives Matter at School,org,1,0,0%,474,447,-27,0.0,0.0,462,418
+rub_black_lives_matter_grassro,Black Lives Matter Grassroots,org,1,0,0%,475,448,-27,0.0,0.0,463,420
+rub_british_cuba_solidarity_ca,British Cuba Solidarity Campaign,org,1,0,0%,476,450,-26,0.0,0.0,464,422
+rub_changingfrequencies,changingFrequencies,org,1,0,0%,477,453,-24,0.0,0.0,465,425
+rub_claudia_jones_school,Claudia Jones School,org,1,0,0%,478,454,-24,0.0,0.0,466,426
+rub_cuban_interests_section,Cuban Interests Section,org,1,0,0%,479,456,-23,0.0,0.0,467,429
+rub_cuban_mission_to_the_un,Cuban Mission to the UN,org,1,0,0%,480,457,-23,0.0,0.0,468,430
+rub_eln,ELN,org,1,0,0%,481,459,-22,0.0,0.0,469,432
+rub_equality_for_flatbush,Equality for Flatbush,org,1,0,0%,482,460,-22,0.0,0.0,470,433
+rub_f_4_commandos,F-4 Commandos,org,1,0,0%,483,461,-22,0.0,0.0,471,434
+rub_george_floyd_riots_antifa,George Floyd riots / Antifa / campus activism,concept,1,0,0%,484,464,-20,0.0,0.0,473,437
+rub_germany_cuba_friendship_as,Germany-Cuba Friendship Association,org,1,0,0%,485,465,-20,0.0,0.0,474,438
+rub_haitian_women_for_haitian,Haitian Women for Haitian Refugees,org,1,0,0%,486,466,-20,0.0,0.0,475,439
+rub_houthis,Houthis,org,1,0,0%,487,469,-18,0.0,0.0,476,442
+rub_montoneros,Montoneros,org,1,0,0%,488,473,-15,0.0,0.0,478,446
+rub_nation_of_islam,Nation of Islam,org,1,0,0%,489,475,-14,0.0,0.0,479,448
+rub_national_conference_of_bla,National Conference of Black Lawyers,org,1,0,0%,490,476,-14,0.0,0.0,480,449
+rub_olas,OLAS,org,1,0,0%,491,477,-14,0.0,0.0,481,450
+rub_p_asad_rehman,Asad Rehman,person,1,0,0%,492,481,-11,0.0,0.0,483,454
+rub_p_charles_charlie_hill,Charles 'Charlie' Hill,person,1,0,0%,493,484,-9,0.0,0.0,484,457
+rub_p_rev_lucius_walker,Rev. Lucius Walker,person,1,1,100%,494,369,-125,0.0,0.0,487,469
+rub_p_suzanne_adely,Suzanne Adely,person,1,1,100%,495,370,-125,0.0,0.0,488,471
+rub_radio_habana,Radio Habana,org,1,0,0%,496,498,2,0.0,0.0,490,474
+rub_tupamaros,Tupamaros,org,1,0,0%,497,503,6,0.0,0.0,492,481
+rub_viva_palestina_us,Viva Palestina US,org,1,0,0%,498,504,6,0.0,0.0,493,482
+rub_witness_for_peace_solidari,Witness for Peace Solidarity Collective,org,1,1,100%,499,372,-127,0.0,0.0,494,484
+rub_zimbabwe_african_people_s,Zimbabwe African People's Union,org,1,0,0%,500,506,6,0.0,0.0,495,485
+seal,ICAP 65th-Anniversary Seal,concept,1,1,100%,501,375,-126,0.0,0.0,497,490
+singham_shanti,Shanti Singham,person,1,0,0%,502,509,7,0.0,0.0,498,491
+social_good_fund,Social Good Fund,org,1,1,100%,503,376,-127,0.0,0.0,499,492
+trochowski,Daniela Trochowski,person,1,1,100%,504,381,-123,0.0,0.0,503,499
+uk_labour,UK Labour Party,org,1,1,100%,505,382,-123,0.0,0.0,504,500
+wathington,Chad Wathington,person,1,0,0%,506,510,4,0.0,0.0,505,504
+wfdy,World Federation of Democratic Youth,org,1,1,100%,507,386,-121,0.0,0.0,506,505
+inv_sacp,South African Communist Party (SACP),org,1,1,100%,508,389,-119,0.0,0.0,510,510
+inv_cosatu,COSATU (Congress of South African Trade Unions),org,1,1,100%,509,390,-119,0.0,0.0,511,511
+inv_juan_ruiz_rivera_brigade,"""Juan Ruiz Rivera"" Puerto Rican Solidarity Brigade",org,1,1,100%,510,391,-119,0.0,0.0,512,512
+gonzales,Kate Gonzales,person,0,0,n/a,511,403,-108,0.0,0.0,322,190
+santos,Lucas Tinti dos Santos,person,0,0,n/a,512,508,-4,0.0,0.0,496,488

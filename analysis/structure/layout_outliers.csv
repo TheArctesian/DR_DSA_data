@@ -1,0 +1,513 @@
+id,label,primary_slice,x,y,dist_own_centroid,z_within_slice,share_of_6_nearest_in_same_slice,knn_majority_slice
+hub_assata_shakur,Assata Shakur,afgj-interlock,1899,1625,2425,4.75,0.0,rubio-cuba
+cuba,Cuba,singham-spine,1869,1802,2464,4.64,0.0,rubio-cuba
+venezuela,Venezuela,singham-spine,777,1698,1693,2.55,0.0,latam-solidarity
+rub_germany_cuba_friendship_as,Germany-Cuba Friendship Association,rubio-cuba,-1084,-2003,2718,2.54,0.0,rls-germany
+minsap,MINSAP (Cuban Health Ministry),hatuey,1996,1943,2229,2.01,0.0,rubio-cuba
+icap,ICAP,hatuey,1960,1691,2020,1.57,0.0,rubio-cuba
+codepink,CODEPINK,iran-network,-687,914,1634,1.33,0.0,singham-spine
+clarkgollub,Jill Clark-Gollub,latam-solidarity,-211,-975,1531,1.17,0.0,rubio-cuba
+arc_of_justice,"Arc of Justice (fka Benjamin Fund, Inc.)",iran-network,-1172,-101,1556,1.15,0.0,afgj-interlock
+cultureproject,Culture Project,singham-spine,622,-760,1134,1.03,0.0,afgj-interlock
+p_radical_bloggers_fund,Radical Bloggers Fund,afgj-projects,-1051,-459,1125,1.01,0.0,afgj-interlock
+fsp,Foro de São Paulo,latam-solidarity,14,-951,1462,0.99,0.0,afgj-interlock
+xiao,Sheila Xiao,singham-spine,-155,-905,1108,0.96,0.0,afgj-projects
+grassroots_intl,Grassroots International,iran-network,45,1091,1461,0.94,0.0,rubio-cuba
+p_assata_s_daughters,Assata’s Daughters,afgj-interlock,-926,-427,1086,0.86,0.0,afgj-projects
+p_never_again_action,Never Again Action,afgj-interlock,-978,-229,1062,0.79,0.0,singham-spine
+p_friends_of_mujeres_de_la_tierra,Friends of Mujeres de la Tierra,afgj-projects,262,913,1065,0.79,0.0,afgj-interlock
+p_initiative_for_equality,Initiative for Equality,afgj-projects,-540,-1022,1059,0.76,0.0,afgj-interlock
+tighe_barry,Tighe Barry,iran-network,-295,879,1382,0.75,0.0,afgj-interlock
+janequine,Olivia Goncalves Janequine,singham-spine,-545,-675,1026,0.74,0.0,afgj-interlock
+ron,Carlos Ron,rubio-cuba,1047,1715,1576,0.74,0.0,latam-solidarity
+p_international_indigenous_initiative_fo,InterNational Indigenous Initiative for Transformative Collaboration,afgj-projects,-947,272,1049,0.72,0.0,singham-spine
+o4p,Organizing for Power (O4P),rls-germany,1075,-579,1384,0.67,0.0,afgj-interlock
+p_kevin_zeese_emerging_activists_fund,Kevin Zeese Emerging Activists Fund,afgj-interlock,-826,591,1015,0.66,0.0,afgj-projects
+fernandes,Marco Fernandes,singham-spine,-981,37,997,0.66,0.0,afgj-interlock
+p_corporate_genome_project,Corporate Genome Project,afgj-interlock,-355,984,1001,0.62,0.0,singham-spine
+frso,Freedom Road Socialist Organization,latam-solidarity,-1051,106,1316,0.62,0.0,singham-spine
+psf,People's Support Foundation (PSF),iran-network,-940,-552,1325,0.62,0.0,afgj-interlock
+rub_ifco_pastors_for_peace,IFCO / Pastors for Peace,rubio-cuba,-1086,3,1492,0.61,0.0,afgj-interlock
+p_thompson_house_tucson,Thompson House Tucson,afgj-interlock,-950,144,995,0.6,0.0,singham-spine
+caruso,Christopher Chris Caruso,singham-spine,960,11,973,0.6,0.0,afgj-interlock
+p_splitseed_productions,SplitSeed Productions,afgj-interlock,-597,818,988,0.58,0.0,latam-solidarity
+uk_labour,UK Labour Party,rls-germany,878,382,1332,0.56,0.0,afgj-interlock
+camacaro,William Camacaro,latam-solidarity,335,-787,1292,0.56,0.0,rubio-cuba
+tfa,Task Force on the Americas,latam-solidarity,-315,-678,1286,0.55,0.0,afgj-interlock
+rub_students_for_a_democratic,Students for a Democratic Society,rubio-cuba,-174,-1056,1453,0.55,0.0,afgj-interlock
+bertoldi,Manuel Bertoldi,latam-solidarity,535,-742,1283,0.54,0.0,afgj-interlock
+baker_carolyn,Carolyn Baker,singham-spine,-893,503,950,0.53,0.0,afgj-interlock
+p_bv_solidarity_project,BV Solidarity Project,afgj-projects,-65,-1118,997,0.53,0.0,afgj-interlock
+rub_the_jericho_movement,The Jericho Movement,rubio-cuba,-832,-372,1379,0.43,0.0,afgj-interlock
+p_white_noise_collective,White Noise Collective,afgj-projects,-299,-1039,969,0.42,0.0,afgj-interlock
+pwa,People's Welfare Association,singham-spine,818,550,889,0.37,0.0,afgj-interlock
+per_sunsara_taylor,Sunsara Taylor,afgj-interlock,-308,-769,905,0.34,0.0,afgj-projects
+jvp,Jewish Voice for Peace (JVP),iran-network,-732,145,1199,0.34,0.0,afgj-interlock
+niac,National Iranian American Council (NIAC),iran-network,-256,671,1183,0.3,0.0,afgj-interlock
+abbott,Diane Abbott,rls-germany,470,663,1205,0.29,0.0,singham-spine
+dwilliams,David Williams,rls-germany,906,-85,1199,0.28,0.0,afgj-interlock
+p_lgbt_freedom_and_asylum_network,LGBT Freedom and Asylum Network,afgj-projects,-823,-503,927,0.27,0.0,afgj-interlock
+kuang,Savannah Kuang,latam-solidarity,-661,-277,1163,0.23,0.0,afgj-interlock
+p_just_info,Just Info,afgj-interlock,-175,882,845,0.16,0.0,latam-solidarity
+nlg,National Lawyers Guild,latam-solidarity,976,-329,1131,0.15,0.0,afgj-projects
+mccarthy,Bobbette McCarthy,singham-spine,81,987,800,0.13,0.0,afgj-interlock
+rub_brothers_to_the_rescue,Brothers to the Rescue,rubio-cuba,-232,-721,1180,0.12,0.0,afgj-interlock
+p_amigos_de_la_playa,Amigos de la Playa,afgj-projects,-829,103,883,0.1,0.0,rubio-cuba
+pfetcher,Jason Pfetcher,singham-spine,574,709,770,0.05,0.0,afgj-interlock
+baptist,William Willie Baptist Jr.,singham-spine,-110,-563,763,0.03,0.0,afgj-interlock
+chanoine,Claudette Chanoine,rls-germany,718,-696,1078,0.02,0.0,afgj-interlock
+per_gila_svirsky,Gila Svirsky,afgj-interlock,-478,667,795,0.02,0.0,rubio-cuba
+per_mcahl_sheffield,Mcahl Sheffield,afgj-interlock,444,-607,783,-0.02,0.0,afgj-projects
+answer,ANSWER Coalition,hatuey,-643,710,1260,-0.02,0.0,latam-solidarity
+p_reconnect_earth,Reconnect Earth,afgj-projects,577,515,846,-0.04,0.0,afgj-interlock
+ghost_officers,Ghost Officers (5 unidentified signers),iran-network,-476,-921,1027,-0.06,0.0,afgj-interlock
+p_centro_solidario_de_puerto_rico,Centro Solidario de Puerto Rico,afgj-projects,786,-440,825,-0.12,0.0,singham-spine
+p_la_colectiva,La ColectiVA,afgj-projects,-387,-841,825,-0.12,0.0,afgj-interlock
+deborah_benjamin,Deborah Coyle Benjamin,iran-network,-385,304,986,-0.15,0.0,rubio-cuba
+per_antonio_gutierrez,Antonio Gutierrez,afgj-interlock,-686,-29,734,-0.16,0.0,singham-spine
+souers,Wyatt Souers,latam-solidarity,261,-505,1005,-0.16,0.0,afgj-projects
+inv_juan_ruiz_rivera_brigade,"""Juan Ruiz Rivera"" Puerto Rican Solidarity Brigade",rubio-cuba,-46,-604,988,-0.18,0.0,singham-spine
+pi,Progressive International,rls-germany,199,572,978,-0.19,0.0,afgj-interlock
+svart,Maria Svart,rls-germany,571,207,979,-0.19,0.0,rubio-cuba
+rub_zimbabwe_african_people_s,Zimbabwe African People's Union,rubio-cuba,842,-533,943,-0.25,0.0,afgj-interlock
+cea_weaver,Cea Weaver,rls-germany,-170,659,947,-0.26,0.0,afgj-interlock
+garcia,Karina Garcia,hatuey,486,-887,1149,-0.26,0.0,afgj-interlock
+per_samantha_parsons,Samantha Parsons,afgj-interlock,-578,-243,692,-0.28,0.0,rubio-cuba
+stein,Abby Stein (JVP Rabbinical Council),iran-network,-102,453,916,-0.31,0.0,afgj-interlock
+bounds,Tajee Bounds,singham-spine,426,-270,625,-0.35,0.0,afgj-interlock
+dpaul,David Paul,latam-solidarity,-9,-404,928,-0.36,0.0,afgj-interlock
+grenyion,Kristen Grenyion,singham-spine,148,-408,616,-0.37,0.0,iran-network
+liebich,Stefan Liebich,rls-germany,609,-306,887,-0.38,0.0,singham-spine
+p_taking_black_pride,Taking Black Pride,afgj-interlock,-459,-363,659,-0.38,0.0,iran-network
+p_werk_for_peace,WERK for Peace,afgj-interlock,528,-377,657,-0.38,0.0,singham-spine
+delacruz,Claudia De la Cruz,hatuey,-518,499,1079,-0.4,0.0,afgj-interlock
+richard_becker,Richard Becker,hatuey,-5,-679,1083,-0.4,0.0,afgj-interlock
+p_real_name_campaign_nola,Real Name Campaign NOLA,afgj-projects,-250,564,742,-0.43,0.0,rubio-cuba
+per_banbose_shango,Banbose Shango,afgj-interlock,-430,488,634,-0.45,0.0,rubio-cuba
+balagun,Kazembe Balagun,rls-germany,524,-568,851,-0.46,0.0,rubio-cuba
+rub_national_network_on_cuba,National Network on Cuba,rubio-cuba,171,-494,809,-0.46,0.0,singham-spine
+p_legal_defense_for_palestine,Legal Defense for Palestine,afgj-projects,308,547,730,-0.47,0.0,rubio-cuba
+rub_witness_for_peace_solidari,Witness for Peace Solidarity Collective,rubio-cuba,-236,773,783,-0.51,0.0,afgj-interlock
+uts,Union Theological Seminary,singham-spine,-472,-99,558,-0.53,0.0,rubio-cuba
+evans,Jodie Evans,iran-network,-259,-865,820,-0.53,0.0,afgj-projects
+puf,Progress Unity Fund,singham-spine,-335,629,554,-0.54,0.0,rubio-cuba
+p_clean_up_the_mines,Clean up the Mines,afgj-projects,228,-804,709,-0.55,0.0,afgj-interlock
+p_reuniting_of_african_descendants_road,Reuniting of African Descendants (ROAD),afgj-projects,410,-710,701,-0.58,0.0,afgj-interlock
+ben_becker,Ben Becker,hatuey,-60,1056,993,-0.59,0.0,rubio-cuba
+goodwin,Alicia Thilani Singham Goodwin,singham-spine,-349,-203,529,-0.61,0.0,rubio-cuba
+rub_belly_of_the_beast_llc,Belly of the Beast LLC,rubio-cuba,-308,370,691,-0.65,0.0,afgj-interlock
+wfdy,World Federation of Democratic Youth,latam-solidarity,-554,716,790,-0.71,0.0,singham-spine
+danaher,Maya (Mandela) Danaher,iran-network,317,-1063,730,-0.73,0.0,afgj-projects
+scharenberg,Albert Scharenberg,rls-germany,-993,-337,718,-0.74,0.0,afgj-interlock
+singham,Neville Roy Singham,hatuey,207,-595,916,-0.75,0.0,afgj-interlock
+rub_weather_underground,Weather Underground,rubio-cuba,61,-252,627,-0.75,0.0,latam-solidarity
+p_human_rights_school,Human Rights School,afgj-projects,-583,-351,647,-0.78,0.0,afgj-interlock
+rub_alpha_66,Alpha 66,rubio-cuba,259,-293,593,-0.8,0.0,afgj-interlock
+rub_canadian_network_on_cuba,Canadian Network on Cuba,rubio-cuba,-187,479,597,-0.8,0.0,afgj-interlock
+rub_claudia_jones_school,Claudia Jones School,rubio-cuba,444,874,589,-0.81,0.0,afgj-interlock
+benjamin,Medea Benjamin,iran-network,618,309,691,-0.82,0.0,afgj-interlock
+bello,Walden Bello,rls-germany,334,6,676,-0.83,0.0,afgj-interlock
+pf,The People's Forum,hatuey,1040,-451,873,-0.84,0.0,afgj-interlock
+duhalde,David Duhalde,rls-germany,-339,-938,659,-0.87,0.0,afgj-projects
+rub_british_cuba_solidarity_ca,British Cuba Solidarity Campaign,rubio-cuba,885,111,537,-0.89,0.0,afgj-projects
+inv_cosatu,COSATU (Congress of South African Trade Unions),rubio-cuba,10,-95,532,-0.9,0.0,singham-spine
+nicanet,Nicaragua Network,latam-solidarity,-255,-15,690,-0.96,0.0,rls-germany
+pflp,Popular Front for the Liberation of Palestine (PFLP),iran-network,-170,-43,611,-1.01,0.0,afgj-interlock
+rub_al_tajammu,Al-Tajammu,rubio-cuba,742,14,455,-1.02,0.0,afgj-interlock
+rub_p_asad_rehman,Asad Rehman,rubio-cuba,731,572,452,-1.03,0.0,afgj-interlock
+rub_democratic_front_for_the_l,Democratic Front for the Liberation of Palestine,rubio-cuba,-23,415,421,-1.08,0.0,afgj-interlock
+hub_massachusetts_bail,Massachusetts Bail Fund,afgj-interlock,-267,-212,415,-1.09,0.0,rls-germany
+p_chico_mendes_reforestation_project,Chico Mendes Reforestation Project,afgj-projects,-113,-672,564,-1.1,0.0,rubio-cuba
+rub_changingfrequencies,changingFrequencies,rubio-cuba,38,111,384,-1.13,0.0,afgj-interlock
+p_irish_diaspora_decolonization_alliance,Irish Diaspora Decolonization Alliance,afgj-projects,405,271,550,-1.15,0.0,rubio-cuba
+per_mattie,Mattie,afgj-interlock,-328,1,375,-1.2,0.0,rubio-cuba
+rub_student_nonviolent_coordin,Student Nonviolent Coordinating Committee,rubio-cuba,405,-49,338,-1.21,0.0,afgj-interlock
+rub_p_nayef_hawatmeh,Nayef Hawatmeh,rubio-cuba,403,604,317,-1.24,0.0,singham-spine
+dsa,Democratic Socialists of America,latam-solidarity,0,0,539,-1.34,0.0,afgj-interlock
+rub_black_liberation_army,Black Liberation Army,rubio-cuba,220,485,253,-1.34,0.0,afgj-interlock
+p_az_jobs_with_justice,AZ Jobs with Justice,afgj-projects,218,333,498,-1.35,0.0,afgj-interlock
+p_lgbt_voice_tanzania,LGBT Voice Tanzania,afgj-projects,-108,348,491,-1.37,0.0,rubio-cuba
+jef,Justice and Education Fund (JEF),iran-network,500,94,449,-1.38,0.0,afgj-interlock
+inv_sacp,South African Communist Party (SACP),rubio-cuba,154,265,226,-1.38,0.0,afgj-interlock
+hatuey,The Hatuey Project,hatuey,1016,-84,592,-1.43,0.0,afgj-interlock
+ucf,United Community Fund,singham-spine,177,87,202,-1.49,0.0,rubio-cuba
+jacobin,Jacobin,rls-germany,71,-367,358,-1.5,0.0,iran-network
+luvela,Smangele Luvela,singham-spine,-106,25,199,-1.5,0.0,afgj-interlock
+wathington,Chad Wathington,singham-spine,110,352,193,-1.52,0.0,afgj-interlock
+hub_communities_united,Communities United,afgj-interlock,246,-58,238,-1.6,0.0,latam-solidarity
+delossantos,Manolo de los Santos,hatuey,748,-198,506,-1.61,0.0,singham-spine
+rub_national_conference_of_bla,National Conference of Black Lawyers,rubio-cuba,326,346,78,-1.62,0.0,rls-germany
+samidoun,Samidoun Palestinian Prisoner Solidarity Network,iran-network,578,-133,292,-1.73,0.0,afgj-interlock
+kovalik,Dan Kovalik,latam-solidarity,514,276,380,-1.74,0.0,singham-spine
+p_gno_interfaith_sanctuary_coalition,GNO Interfaith Sanctuary Coalition,afgj-projects,-363,-102,387,-1.76,0.0,singham-spine
+p_labor_against_racism_and_war,Labor Against Racism and War,afgj-projects,257,-398,359,-1.87,0.0,rubio-cuba
+p_sustainable_nations,Sustainable Nations,afgj-projects,-105,-453,352,-1.89,0.0,afgj-interlock
+rose_benjamin,Rose Benjamin,iran-network,156,-304,213,-1.92,0.0,rubio-cuba
+p_international_journal_of_foreign_langu,International Journal of Foreign Language Teaching,afgj-projects,-143,141,314,-2.04,0.0,singham-spine
+p_unir,UNIR,afgj-projects,101,-72,94,-2.86,0.0,rubio-cuba
+hub_hugo_chavez,Hugo Chavez,afgj-interlock,953,1727,1895,3.21,0.17,latam-solidarity
+per_marlen_s_nchez,Marlen Sánchez,afgj-interlock,-82,1792,1731,2.73,0.17,latam-solidarity
+p_orinoco_tribune,Orinoco Tribune,afgj-interlock,896,1562,1723,2.71,0.17,latam-solidarity
+per_erika_takeo,Erika Takeo,afgj-interlock,79,1565,1500,2.06,0.17,latam-solidarity
+p_good_shepherd_collective,Good Shepherd Collective,afgj-projects,196,1135,1272,1.56,0.17,afgj-interlock
+p_central_ohio_freedom_fund,Central Ohio Freedom Fund,afgj-projects,-290,1094,1259,1.51,0.17,rls-germany
+rub_p_ren_gonz_lez,René González,rubio-cuba,1828,1680,2009,1.43,0.17,hatuey
+bap,Black Alliance for Peace,latam-solidarity,80,-1117,1620,1.39,0.17,afgj-interlock
+p_camino_com_n,Camino Común,afgj-projects,862,769,1226,1.39,0.17,afgj-interlock
+p_pueblo_sin_fronteras,Pueblo Sin Fronteras,afgj-projects,-1128,268,1217,1.36,0.17,singham-spine
+p_bukit_bail_fund_of_pittsburgh,Bukit Bail Fund of Pittsburgh,afgj-projects,-169,1051,1192,1.26,0.17,rls-germany
+p_trans_women_of_color_solidarity_networ,Trans Women of Color Solidarity Network,afgj-interlock,-1157,132,1201,1.2,0.17,singham-spine
+p_coalition_of_women_for_peace,Coalition of Women for Peace,afgj-interlock,1210,-207,1199,1.19,0.17,afgj-projects
+rub_hezbollah,Hezbollah,rubio-cuba,1877,-765,1832,1.15,0.17,iran-network
+rhc,Radio Havana Cuba / Prensa Latina / Granma,hatuey,1708,1636,1808,1.13,0.17,rubio-cuba
+p_sustainable_orphanages_for_haitian_you,Sustainable Orphanages for Haitian Youth,afgj-interlock,-810,-718,1157,1.07,0.17,afgj-projects
+per_hannah_safran,Hannah Safran,afgj-interlock,-407,-996,1152,1.05,0.17,afgj-projects
+p_denver_justice_project,Denver Justice Project,afgj-projects,-1107,-222,1135,1.05,0.17,afgj-interlock
+per_joan_donovan,Joan Donovan,afgj-interlock,487,-977,1133,1.0,0.17,afgj-projects
+tricontinental,Tricontinental: Institute for Social Research,latam-solidarity,244,-963,1462,0.99,0.17,afgj-interlock
+p_stop_mass_incarceration_network,Stop Mass Incarceration Network,afgj-interlock,-586,-870,1126,0.98,0.17,iran-network
+p_miracle_for_mikeals_legacy_foundation,Miracle For Mikeals Legacy Foundation,afgj-projects,-935,-679,1107,0.94,0.17,afgj-interlock
+rub_hamas,Hamas,rubio-cuba,1766,-645,1672,0.9,0.17,iran-network
+p_adastra,AdAstra,afgj-interlock,951,-548,1096,0.89,0.17,iran-network
+p_lupinewood,Lupinewood,afgj-projects,989,390,1094,0.89,0.17,afgj-interlock
+vsn,Venezuela Solidarity Network,latam-solidarity,160,-889,1388,0.81,0.17,afgj-interlock
+p_black_lives_matter_oklahoma_city,Black Lives Matter-Oklahoma City,afgj-interlock,-87,-991,1064,0.8,0.17,latam-solidarity
+chung,David Sung Mo Chung,singham-spine,-905,-320,1043,0.79,0.17,afgj-interlock
+gbi,General Baker Institute,singham-spine,-1036,209,1040,0.78,0.17,afgj-interlock
+p_ta_ayush,Ta’ayush,afgj-projects,-1037,-115,1061,0.77,0.17,afgj-interlock
+btm,BreakThrough News,singham-spine,-1013,360,1031,0.75,0.17,afgj-interlock
+afgj,Alliance for Global Justice,afgj-interlock,1081,25,1040,0.73,0.17,afgj-projects
+p_beef_relief,Beef Relief,afgj-projects,-715,-867,1047,0.72,0.17,iran-network
+china,China (PRC),singham-spine,605,1009,1015,0.71,0.17,afgj-interlock
+hub_autonomous_tenants_union,Autonomous Tenants Union,afgj-interlock,-492,-817,1031,0.7,0.17,hatuey
+per_tamara_shapiro,Tamara Shapiro,afgj-interlock,554,-827,1029,0.7,0.17,latam-solidarity
+p_black_trans_media,Black Trans Media,afgj-projects,-701,618,1038,0.68,0.17,afgj-interlock
+p_united_students_against_sweatshops,United Students Against Sweatshops,afgj-interlock,-910,395,1008,0.63,0.17,rls-germany
+hub_green_shadow_cabinet,Green Shadow Cabinet,afgj-interlock,-949,-54,998,0.61,0.17,rubio-cuba
+anderson-figueroa,Jo Anderson-Figueroa,singham-spine,-870,-241,975,0.6,0.17,rubio-cuba
+brease,Emily Brease,singham-spine,695,-496,974,0.6,0.17,rubio-cuba
+arlen_gomez,Arlen Benjamin-Gomez,iran-network,-832,-837,1300,0.57,0.17,afgj-projects
+p_ubuntu,UBUNTU,afgj-projects,816,-743,1005,0.56,0.17,iran-network
+hub_trans_justice_funding,Trans Justice Funding Project,afgj-interlock,470,-800,965,0.51,0.17,latam-solidarity
+p_refuse_fascism,Refuse Fascism,afgj-interlock,750,-592,966,0.51,0.17,rubio-cuba
+rub_republic_of_new_afrika,Republic of New Afrika,rubio-cuba,-564,-763,1412,0.49,0.17,afgj-interlock
+per_oren_robinson,Oren Robinson,afgj-interlock,632,-671,943,0.45,0.17,rubio-cuba
+hu,Rachel Hu,singham-spine,413,1007,913,0.43,0.17,afgj-interlock
+rub_international_may_day_brig,International May Day Brigade,rubio-cuba,-631,-647,1376,0.43,0.17,afgj-interlock
+per_melina_abdullah,Melina Abdullah,afgj-interlock,869,-368,934,0.42,0.17,afgj-projects
+p_reale_justice_network,Reale Justice Network,afgj-projects,123,838,968,0.42,0.17,afgj-interlock
+brecht_forum,Brecht Forum,rls-germany,-104,965,1259,0.41,0.17,latam-solidarity
+rub_p_opal_tometi,Opal Tometi,rubio-cuba,-907,-146,1357,0.4,0.17,afgj-interlock
+gunther,Andreas Günther,rls-germany,-244,967,1249,0.39,0.17,afgj-interlock
+brian_becker,Brian Becker,hatuey,-476,-730,1415,0.3,0.17,afgj-interlock
+rub_haitian_women_for_haitian,Haitian Women for Haitian Refugees,rubio-cuba,-861,-69,1290,0.29,0.17,afgj-interlock
+pel,Party of the European Left,rls-germany,-398,883,1171,0.22,0.17,singham-spine
+rub_black_lives_matter_at_scho,Black Lives Matter at School,rubio-cuba,-860,207,1241,0.22,0.17,afgj-projects
+p_honduras_solidarity_network,Honduras Solidarity Network,afgj-projects,379,-960,907,0.19,0.17,rubio-cuba
+p_lo_eterno_media_collective,Lo Eterno Media Collective,afgj-projects,-744,-610,908,0.19,0.17,afgj-interlock
+psl,Party for Socialism & Liberation,hatuey,-388,-731,1354,0.17,0.17,afgj-interlock
+p_nicaragua_solidarity_fund,Nicaragua Solidarity Fund,afgj-projects,856,216,900,0.16,0.17,afgj-interlock
+per_rebecca_heinegg,Rebecca Heinegg,afgj-interlock,-361,801,839,0.15,0.17,rls-germany
+moseley,Saidi Moseley,singham-spine,672,-243,797,0.12,0.17,rubio-cuba
+rub_black_panther_party,Black Panther Party,rubio-cuba,-767,500,1165,0.1,0.17,afgj-interlock
+bugni,Renata Porto Bugni,singham-spine,29,-595,787,0.09,0.17,iran-network
+rub_viva_palestina_us,Viva Palestina US,rubio-cuba,312,-874,1164,0.09,0.17,latam-solidarity
+p_colorado_freedom_fund,Colorado Freedom Fund,afgj-interlock,850,8,810,0.06,0.17,rubio-cuba
+rub_association_for_investment,Association for Investment in Popular Action Committees,rubio-cuba,-762,243,1141,0.06,0.17,afgj-interlock
+rub_macheteros,Macheteros,rubio-cuba,398,-852,1140,0.06,0.17,afgj-projects
+rub_f_4_commandos,F-4 Commandos,rubio-cuba,-649,-190,1133,0.05,0.17,afgj-projects
+sunkara,Bhaskar Sunkara,rls-germany,-494,783,1087,0.04,0.17,afgj-interlock
+taylor,Nancy Taylor,singham-spine,-282,-523,769,0.04,0.17,afgj-interlock
+p_march_4_racial_justice,March 4 Racial Justice,afgj-interlock,285,-692,795,0.02,0.17,afgj-projects
+per_firas_nasr,Firas Nasr,afgj-interlock,-596,543,797,0.02,0.17,singham-spine
+henderson,Rita Henderson,singham-spine,109,-558,756,0.01,0.17,iran-network
+p_red_de_solidaridad,Red de Solidaridad,afgj-projects,165,721,858,0.01,0.17,afgj-interlock
+baker_gordon,General Gordon Baker Jr.,singham-spine,-593,635,744,-0.02,0.17,afgj-interlock
+mfernandez,Mariana Fernandez,rls-germany,-38,744,1053,-0.03,0.17,afgj-interlock
+rub_p_leonard_boudin,Leonard Boudin,rubio-cuba,-678,511,1080,-0.04,0.17,afgj-interlock
+nmeyer,Neal Meyer,rls-germany,-419,734,1026,-0.09,0.17,afgj-interlock
+per_elisabeth_epps,Elisabeth Epps,afgj-interlock,-331,718,752,-0.11,0.17,rubio-cuba
+yee,Amanda Yee,hatuey,-340,-592,1221,-0.11,0.17,afgj-interlock
+p_community_action_relief_project,Community Action Relief Project,afgj-projects,-801,-160,825,-0.12,0.17,rubio-cuba
+p_national_immigrant_solidarity_network,National Immigrant Solidarity Network,afgj-projects,834,-266,822,-0.13,0.17,afgj-interlock
+cook,Claire Cook,singham-spine,-302,-439,701,-0.14,0.17,afgj-interlock
+bournous,Yiannis Bournous,rls-germany,10,672,996,-0.15,0.17,afgj-interlock
+p_chicago_housing_initiative,Chicago Housing Initiative,afgj-interlock,-225,-617,732,-0.16,0.17,afgj-interlock
+p_national_association_of_human_rights_d,National Association of Human Rights Defenders,afgj-projects,-770,-282,809,-0.18,0.17,afgj-interlock
+wfp,Working Families Party,rls-germany,360,449,970,-0.21,0.17,singham-spine
+rub_p_paul_larudee,Paul Larudee,rubio-cuba,544,-653,956,-0.23,0.17,afgj-interlock
+ehmsen,Stefanie Ehmsen,rls-germany,409,377,951,-0.25,0.17,singham-spine
+p_woodbine_education_center,Woodbine Education Center,afgj-projects,776,118,791,-0.25,0.17,afgj-interlock
+per_rachel_o_leary_carmona,Rachel O'Leary Carmona,afgj-interlock,-137,742,700,-0.26,0.17,rls-germany
+lowengard,Elizabeth Lowengard,singham-spine,-519,587,656,-0.26,0.17,afgj-interlock
+wider,Phil Wider,singham-spine,395,717,655,-0.26,0.17,afgj-interlock
+friendsatc,Friends of the ATC,latam-solidarity,-700,780,948,-0.31,0.17,afgj-projects
+rub_olas,OLAS,rubio-cuba,641,-582,909,-0.31,0.17,afgj-interlock
+cpc,Congressional Progressive Caucus,rls-germany,585,36,919,-0.32,0.17,afgj-interlock
+croce,STEIN-DELLA CROCE,singham-spine,7,823,632,-0.33,0.17,latam-solidarity
+ann_wright,Ann Wright,iran-network,-520,-441,893,-0.36,0.17,afgj-interlock
+theoharis,Rev. Dr. Elizabeth Armen Liz Theoharis,singham-spine,279,733,608,-0.39,0.17,afgj-interlock
+dsa_fund,DSA Fund,rls-germany,-806,420,879,-0.4,0.17,afgj-interlock
+per_gary_ghirardi,Gary Ghirardi,afgj-interlock,327,652,652,-0.4,0.17,singham-spine
+rub_naacp,NAACP,rubio-cuba,-417,-10,850,-0.4,0.17,afgj-projects
+rub_venceremos_brigade,Venceremos Brigade,rubio-cuba,-170,-359,848,-0.4,0.17,afgj-interlock
+p_action_bail_fund,Action Bail Fund,afgj-projects,-51,-868,747,-0.41,0.17,afgj-interlock
+syriza,SYRIZA,rls-germany,553,-46,863,-0.43,0.17,afgj-interlock
+p_kindred_connections,Kindred Connections,afgj-interlock,656,-46,624,-0.48,0.17,rls-germany
+per_mychal_johnson,Mychal Johnson,afgj-interlock,564,406,623,-0.48,0.17,singham-spine
+rub_african_national_congress,African National Congress,rubio-cuba,-15,979,795,-0.49,0.17,hatuey
+per_t_dubb_o,T-Dubb-O,afgj-interlock,340,-467,610,-0.52,0.17,afgj-projects
+alhusseini,Ibrahim AlHusseini,singham-spine,58,748,559,-0.52,0.17,rls-germany
+mcalevey,Jane McAlevey,rls-germany,-841,312,819,-0.53,0.17,afgj-interlock
+rub_thousand_currents,Thousand Currents,rubio-cuba,1144,338,767,-0.53,0.17,afgj-interlock
+rub_p_suzanne_adely,Suzanne Adely,rubio-cuba,-327,91,733,-0.58,0.17,afgj-projects
+rub_black_lives_matter_global,Black Lives Matter Global Network Foundation,rubio-cuba,1048,547,718,-0.61,0.17,afgj-projects
+social_good_fund,Social Good Fund,iran-network,-392,-498,776,-0.63,0.17,singham-spine
+rub_p_alicia_garza,Alicia Garza,rubio-cuba,40,907,705,-0.63,0.17,singham-spine
+gonzales,Kate Gonzales,singham-spine,490,358,514,-0.65,0.17,rls-germany
+maura,Eduardo Maura,rls-germany,-351,452,738,-0.7,0.17,afgj-interlock
+p_erie_bail_fund,Erie Bail Fund,afgj-projects,586,-488,669,-0.7,0.17,singham-spine
+per_kristen_hackett,Kristen Hackett,afgj-interlock,-264,-365,528,-0.76,0.17,rubio-cuba
+ncri_report,Following the Benjamins: How a $48 Million Foundation Operated an Iran-Aligned Influence Network Outside State Oversight in Florida,iran-network,-352,-370,720,-0.76,0.17,afgj-interlock
+rub_amazon_labor_union,Amazon Labor Union,rubio-cuba,-234,203,618,-0.76,0.17,afgj-projects
+global_exchange,Global Exchange,iran-network,830,-869,707,-0.79,0.17,afgj-projects
+chua,Heidi Chua,rls-germany,-414,396,692,-0.8,0.17,rubio-cuba
+craig,Hannah Priscilla Craig,singham-spine,216,-215,458,-0.8,0.17,latam-solidarity
+rub_p_gustavo_petro,Gustavo Petro,rubio-cuba,515,-271,576,-0.83,0.17,afgj-interlock
+per_cory_jong,Cory Jong,afgj-interlock,-266,445,489,-0.87,0.17,rubio-cuba
+p_centro_de_derechos_humanos_del_pac_fic,Centro de Derechos Humanos del Pacífico (Centro Pazífico),afgj-projects,-598,-91,623,-0.88,0.17,rubio-cuba
+khalek,Rania Abdul Khalek,singham-spine,-21,-225,417,-0.91,0.17,afgj-interlock
+rub_p_robert_f_williams,Robert F. Williams,rubio-cuba,664,-155,527,-0.91,0.17,afgj-interlock
+hoyt,Katherine Hoyt,latam-solidarity,129,-196,699,-0.94,0.17,singham-spine
+jordan,James Patrick Jordan,latam-solidarity,44,-165,683,-0.98,0.17,rubio-cuba
+puryear,Eugene Puryear,singham-spine,185,-132,370,-1.04,0.17,latam-solidarity
+per_sunny_levine,Sunny Levine,afgj-interlock,276,421,426,-1.05,0.17,rubio-cuba
+valente,Mónica Valente,latam-solidarity,277,-139,641,-1.08,0.17,afgj-interlock
+jonathan_raggett,Jonathan 'Jonny' Raggett,iran-network,864,-632,580,-1.08,0.17,afgj-interlock
+podemos,Podemos,rls-germany,-774,-48,549,-1.1,0.17,afgj-interlock
+c3misc,Affiliated 501(c)(3),singham-spine,-43,-142,336,-1.13,0.17,afgj-interlock
+p_lancaster_bail_fund,Lancaster Bail Fund,afgj-projects,341,-578,553,-1.14,0.17,afgj-interlock
+per_diane_limas,Diane Limas,afgj-interlock,-286,283,394,-1.15,0.17,rubio-cuba
+rub_p_bernardine_dohrn,Bernardine Dohrn,rubio-cuba,178,-3,354,-1.18,0.17,afgj-interlock
+harris,Roger D. Harris,latam-solidarity,331,-76,588,-1.22,0.17,rubio-cuba
+ydsa,Young DSA (YDSA),rls-germany,-702,-117,456,-1.3,0.17,afgj-projects
+rub_palestine_liberation_organ,Palestine Liberation Organization,rubio-cuba,600,122,277,-1.3,0.17,afgj-interlock
+rub_fair_play_for_cuba_committ,Fair Play for Cuba Committee,rubio-cuba,259,45,271,-1.31,0.17,afgj-interlock
+per_nate_kleinman,Nate Kleinman,afgj-interlock,298,261,322,-1.35,0.17,latam-solidarity
+p_philly_thrive,Philly Thrive,afgj-projects,-342,194,485,-1.39,0.17,rubio-cuba
+ips,Institute for Policy Studies,rls-germany,-247,118,401,-1.41,0.17,rubio-cuba
+leila_zand,Leila Zand,iran-network,-23,-522,432,-1.41,0.17,singham-spine
+per_lourdes_escalante,Lourdes Escalante,afgj-interlock,330,96,290,-1.45,0.17,latam-solidarity
+uspc,US Peace Council,latam-solidarity,-49,895,471,-1.51,0.17,rubio-cuba
+rub_faln,FALN,rubio-cuba,480,191,141,-1.52,0.17,latam-solidarity
+prashad,Vijay Prashad,rls-germany,-195,46,338,-1.55,0.17,latam-solidarity
+estrada,Paola Estrada,latam-solidarity,-89,816,433,-1.61,0.17,afgj-interlock
+ccr,Center for Constitutional Rights,iran-network,65,-469,330,-1.65,0.17,singham-spine
+burke,Tom Burke,latam-solidarity,407,140,411,-1.67,0.17,afgj-interlock
+singham_shanti,Shanti Singham,singham-spine,-117,243,132,-1.68,0.17,rubio-cuba
+per_cindy_sheehan,Cindy Sheehan,afgj-interlock,-82,-63,178,-1.77,0.17,singham-spine
+nunez,Marlon Matthew Nunez,latam-solidarity,251,140,361,-1.79,0.17,afgj-interlock
+hrizi,Nathalie Patricia Hrizi,singham-spine,-55,180,60,-1.88,0.17,afgj-interlock
+rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),rls-germany,-243,-119,167,-1.91,0.17,afgj-interlock
+earle,Ethan Earle,rls-germany,-188,-205,118,-2.01,0.17,afgj-interlock
+hub_ifnotnow,IfNotNow,afgj-interlock,-50,94,96,-2.01,0.17,singham-spine
+hub_women_s_march,Women’s March,afgj-interlock,99,46,60,-2.12,0.17,rubio-cuba
+p_otros_mundos_a_c,Otros Mundos A.C.,afgj-projects,-934,660,1238,1.44,0.33,afgj-interlock
+p_black_movement_law_project,Black Movement Law Project,afgj-interlock,-407,-1109,1257,1.36,0.33,afgj-interlock
+p_friends_of_asociaci_n_de_trabajadores_,Friends of Asociación de Trabajadores Campesinos,afgj-interlock,-231,-1149,1244,1.32,0.33,afgj-projects
+p_world_can_t_wait,World Can’t Wait,afgj-interlock,-1118,-350,1232,1.29,0.33,afgj-projects
+p_international_people_s_tribunal,International People’s Tribunal,afgj-projects,1180,107,1179,1.21,0.33,afgj-interlock
+p_arizona_palestine_solidarity_alliance,Arizona Palestine Solidarity Alliance,afgj-interlock,-1115,396,1203,1.2,0.33,singham-spine
+seal,ICAP 65th-Anniversary Seal,hatuey,1819,1581,1842,1.2,0.33,rubio-cuba
+p_african_awareness_association,African Awareness Association,afgj-projects,-786,713,1165,1.16,0.33,afgj-projects
+p_suriname_indigenous_health_fund,Suriname Indigenous Health Fund,afgj-projects,904,617,1151,1.11,0.33,afgj-projects
+p_poor_people_s_economic_human_rights_ca,Poor People’s Economic Human Rights Campaign,afgj-interlock,198,-1088,1164,1.09,0.33,latam-solidarity
+p_chicago_housing_justice_league,Chicago Housing Justice League,afgj-interlock,-1013,473,1131,0.99,0.33,singham-spine
+p_eritye_papa_desalin,Eritye Papa Desalin,afgj-projects,1090,199,1115,0.97,0.33,afgj-interlock
+rub_palestinian_islamic_jihad,Palestinian Islamic Jihad,rubio-cuba,1704,-803,1717,0.97,0.33,iran-network
+per_devin_michael_lowe,Devin Michael Lowe,afgj-interlock,-850,-609,1118,0.95,0.33,afgj-projects
+p_youth_vs_apocalypse,Youth Vs Apocalypse,afgj-interlock,1145,-85,1113,0.94,0.33,afgj-interlock
+p_o_odham_anti_border_collective,O’odham Anti Border Collective,afgj-projects,1110,-323,1104,0.93,0.33,afgj-projects
+rub_houthis,Houthis,rubio-cuba,1614,-845,1676,0.9,0.33,iran-network
+p_mosaic_black_trans_funding_network,Mosaic Black Trans Funding Network,afgj-projects,286,-1181,1088,0.87,0.33,afgj-projects
+p_the_l_i_c_project,The L.I.C. Project,afgj-projects,713,-949,1074,0.82,0.33,afgj-projects
+p_upland_grassroots,Upland Grassroots,afgj-projects,906,487,1074,0.82,0.33,afgj-projects
+p_arizona_educators_united,Arizona Educators United,afgj-projects,1083,-198,1062,0.77,0.33,afgj-projects
+ipa,International Peoples' Assembly,latam-solidarity,879,1677,1357,0.73,0.33,afgj-interlock
+hub_occupy_wall_street,Occupy Wall Street,afgj-interlock,1025,287,1008,0.63,0.33,afgj-projects
+per_aquib_s_yacoob,Aquib S. Yacoob,afgj-interlock,895,-454,999,0.61,0.33,afgj-interlock
+per_mavis_jay_sanders,Mavis-Jay Sanders,afgj-interlock,165,1031,974,0.54,0.33,afgj-interlock
+p_march_4_racial_justice_ny,March 4 Racial Justice NY,afgj-projects,993,116,999,0.54,0.33,afgj-interlock
+p_black_trans_travel_fund,Black Trans Travel Fund,afgj-interlock,786,667,957,0.49,0.33,afgj-projects
+p_juthour_arboretum,Juthour Arboretum,afgj-projects,586,-932,983,0.48,0.33,afgj-interlock
+krouth,Kristine Teresa Krouth,singham-spine,-560,923,924,0.46,0.33,singham-spine
+p_people_helping_people,People Helping People,afgj-projects,712,-820,978,0.46,0.33,afgj-projects
+per_kristen_godfrey,Kristen Godfrey,afgj-interlock,-893,15,936,0.43,0.33,afgj-interlock
+per_moira_meltzer_cohen,Moira Meltzer-Cohen,afgj-interlock,965,222,936,0.43,0.33,afgj-projects
+ensler,Eve Ensler,singham-spine,-461,957,896,0.39,0.33,singham-spine
+russia,Russia,singham-spine,729,-330,893,0.38,0.33,singham-spine
+irgens_moller,Kirsten Irgens-Moller,iran-network,-653,-974,1204,0.35,0.33,afgj-projects
+p_friends_of_gente_de_i_itoi_a_c,"Friends of Gente de I’itoi, A.C.",afgj-projects,956,-197,935,0.3,0.33,afgj-projects
+p_peace_education,Peace Education,afgj-projects,-678,-745,936,0.3,0.33,rubio-cuba
+per_cheri_honkala,Cheri Honkala,afgj-interlock,158,941,884,0.27,0.33,afgj-interlock
+kleiner,Franziska Kleiner,singham-spine,-486,872,839,0.23,0.33,singham-spine
+per_meghan_maurus,Meghan Maurus,afgj-interlock,-692,-359,848,0.17,0.33,afgj-interlock
+p_popular_resistance,Popular Resistance,afgj-interlock,-443,-626,844,0.16,0.33,hatuey
+per_rick_jahnkow,Rick Jahnkow,afgj-interlock,854,-158,842,0.15,0.33,afgj-interlock
+p_hands_up_united,Hands Up United,afgj-interlock,488,775,838,0.14,0.33,singham-spine
+per_makayla_heiser,Makayla Heiser,afgj-interlock,-47,-760,830,0.12,0.33,afgj-projects
+p_black_and_pink_ma,Black and Pink MA,afgj-interlock,350,819,814,0.07,0.33,afgj-interlock
+reyes,Karla Reyes,singham-spine,-741,40,760,0.02,0.33,singham-spine
+per_nathan_sheard,Nathan Sheard,afgj-interlock,227,810,768,-0.06,0.33,afgj-projects
+hub_lawyers_better_housing,Lawyers’ Committee for Better Housing,afgj-interlock,561,621,761,-0.08,0.33,singham-spine
+conway,Marshall Eddie Conway,singham-spine,-665,88,677,-0.21,0.33,singham-spine
+per_rachel_wilson,Rachel Wilson,afgj-interlock,115,-645,714,-0.22,0.33,singham-spine
+rub_p_george_galloway,George Galloway,rubio-cuba,-575,317,954,-0.24,0.33,afgj-interlock
+per_t_sheri_dickerson,T. Sheri Dickerson,afgj-interlock,-650,175,701,-0.26,0.33,afgj-interlock
+hamby,Ryan Hamby,singham-spine,-617,23,644,-0.3,0.33,afgj-projects
+rub_p_bill_ayers,Bill Ayers,rubio-cuba,-314,-288,901,-0.32,0.33,afgj-interlock
+rub_cuban_american_national_fo,Cuban American National Foundation,rubio-cuba,-499,411,886,-0.34,0.33,rubio-cuba
+kramer,Marian Kramer,singham-spine,487,574,616,-0.37,0.33,singham-spine
+rub_george_floyd_riots_antifa,George Floyd riots / Antifa / campus activism,rubio-cuba,-402,662,865,-0.38,0.33,rubio-cuba
+rub_p_kathy_boudin,Kathy Boudin,rubio-cuba,-429,593,863,-0.38,0.33,rubio-cuba
+rub_p_onyesonwu_chatoyer,Onyesonwu Chatoyer,rubio-cuba,-485,322,864,-0.38,0.33,rubio-cuba
+hub_women_in_black,Women in Black,afgj-interlock,679,159,644,-0.42,0.33,afgj-interlock
+rub_p_rev_lucius_walker,Rev. Lucius Walker,rubio-cuba,-223,-286,832,-0.43,0.33,afgj-interlock
+per_margaret_flowers,Margaret Flowers,afgj-interlock,-576,227,639,-0.44,0.33,rubio-cuba
+per_cornel_west,Cornel West,afgj-interlock,-191,-521,631,-0.46,0.33,singham-spine
+per_michael_cox,Michael Cox,afgj-interlock,669,66,627,-0.47,0.33,rubio-cuba
+per_khafre_jay,Khafre Jay,afgj-interlock,242,648,616,-0.5,0.33,afgj-interlock
+rub_communist_party_usa,Communist Party USA,rubio-cuba,-356,541,777,-0.52,0.33,rubio-cuba
+belen,Matthew Matt Belen,singham-spine,472,445,532,-0.6,0.33,singham-spine
+santos,Lucas Tinti dos Santos,singham-spine,419,517,528,-0.61,0.33,singham-spine
+p_hampshire_college_legal_support_fund,Hampshire College Legal Support Fund,afgj-projects,-154,-795,693,-0.61,0.33,afgj-projects
+per_maurice_cook,Maurice Cook,afgj-interlock,-213,-437,563,-0.66,0.33,afgj-interlock
+per_lourdez,Lourdez,afgj-interlock,502,-182,522,-0.77,0.33,afgj-interlock
+alvin_benjamin,Alvin Benjamin (1920-2012),iran-network,955,-719,703,-0.8,0.33,iran-network
+rub_may_19th_communist_organiz,May 19th Communist Organization,rubio-cuba,-196,285,575,-0.83,0.33,afgj-interlock
+p_411_collective,411 Collective,afgj-projects,-560,115,631,-0.85,0.33,afgj-interlock
+rub_p_angela_davis,Angela Davis,rubio-cuba,588,-220,550,-0.87,0.33,rubio-cuba
+per_trayce_peterson,Trayce Peterson,afgj-interlock,345,-299,474,-0.92,0.33,afgj-interlock
+per_allen_kwabena_frimpong,Allen Kwabena Frimpong,afgj-interlock,478,2,441,-1.01,0.33,afgj-interlock
+per_debra_sweet,Debra Sweet,afgj-interlock,-81,-350,433,-1.03,0.33,afgj-interlock
+per_melissa_barber_md,"Melissa Barber, MD",afgj-interlock,-215,371,400,-1.13,0.33,rubio-cuba
+per_page_may,Page May,afgj-interlock,306,-221,389,-1.16,0.33,afgj-interlock
+per_mohyeddin_abdulaziz,Mohyeddin Abdulaziz,afgj-interlock,0,-316,383,-1.18,0.33,afgj-interlock
+per_pat_alviso,Pat Alviso,afgj-interlock,-132,-277,384,-1.18,0.33,afgj-interlock
+lariva,Gloria La Riva,afgj-interlock,407,51,365,-1.23,0.33,afgj-interlock
+p_black_lives_matter_tucson,Black Lives Matter Tucson,afgj-projects,405,-382,460,-1.49,0.33,afgj-interlock
+hub_military_families_speak_out,Military Families Speak Out,afgj-interlock,-142,-129,267,-1.51,0.33,afgj-interlock
+per_kevin_zeese,Kevin Zeese,afgj-interlock,218,224,237,-1.6,0.33,afgj-interlock
+kaufman,Chuck Kaufman,latam-solidarity,331,182,340,-1.85,0.33,afgj-interlock
+rub_the_wasp_network_red_avisp,The Wasp Network / Red Avispa,rubio-cuba,1965,1781,2178,1.69,0.5,rubio-cuba
+rub_p_fernando_gonz_lez_llor,Fernando González Llort,rubio-cuba,1985,1581,2062,1.51,0.5,rubio-cuba
+p_interoccupy,InterOccupy,afgj-interlock,-1059,-588,1280,1.43,0.5,afgj-interlock
+rub_eln,ELN,rubio-cuba,1890,1495,1934,1.31,0.5,rubio-cuba
+new_horizon,New Horizon Organization,iran-network,1759,-875,1494,1.01,0.5,rubio-cuba
+iran,Islamic Republic of Iran (state),iran-network,1790,-734,1478,0.97,0.5,rubio-cuba
+per_tara_thompson,Tara Thompson,afgj-interlock,12,-1041,1106,0.92,0.5,afgj-interlock
+p_movement_net_lab,Movement Net Lab,afgj-interlock,116,-989,1057,0.78,0.5,latam-solidarity
+irgc,Islamic Revolutionary Guard Corps (IRGC),iran-network,1696,-714,1382,0.76,0.5,rubio-cuba
+p_creating_a_more_beloved_community_film,Creating a More Beloved Community Film & Discussion Series,afgj-projects,437,-1074,1035,0.67,0.5,afgj-projects
+p_los_angeles_community_action_network,Los Angeles Community Action Network,afgj-interlock,305,1034,1004,0.62,0.5,afgj-interlock
+hub_leni_villag_mez_reeves,Leni Villagómez Reeves,afgj-interlock,488,953,994,0.59,0.5,afgj-interlock
+per_steve_lalla,Steve Lalla,afgj-interlock,71,-882,947,0.46,0.5,afgj-interlock
+hub_movement_netlab,Movement NetLab,afgj-interlock,-756,-419,933,0.42,0.5,afgj-interlock
+per_taureen_tory_russell,"Taureen ""Tory"" Russell",afgj-interlock,371,926,922,0.39,0.5,afgj-interlock
+per_david_foecke,David Foecke,afgj-interlock,922,304,912,0.36,0.5,afgj-interlock
+chak,Tings Chak,singham-spine,642,-390,863,0.3,0.5,singham-spine
+per_alyssa_rubin,Alyssa Rubin,afgj-interlock,-758,347,848,0.17,0.5,afgj-interlock
+hub_dream_defenders,Dream Defenders,afgj-interlock,-714,428,839,0.14,0.5,afgj-interlock
+hub_will_kohr,Will Kohr,afgj-interlock,646,596,804,0.04,0.5,afgj-interlock
+per_michael_novick,Michael Novick,afgj-interlock,-496,-529,801,0.04,0.5,afgj-interlock
+hub_occupy_sandy,Occupy Sandy,afgj-interlock,684,496,773,-0.05,0.5,afgj-interlock
+p_alianza_ind_gena_sin_fronteras_indigen,Alianza Indígena Sin Fronteras / Indigenous Alliance Without Borders,afgj-interlock,-604,433,743,-0.13,0.5,afgj-interlock
+p_change_links_newspaper,Change-Links Newspaper,afgj-interlock,770,-92,745,-0.13,0.5,afgj-interlock
+rub_black_lives_matter_grassro,Black Lives Matter Grassroots,rubio-cuba,-490,-255,1024,-0.13,0.5,rubio-cuba
+rub_equality_for_flatbush,Equality for Flatbush,rubio-cuba,-526,-170,1014,-0.14,0.5,rubio-cuba
+p_nappy_roots_books,Nappy Roots Books,afgj-interlock,732,249,714,-0.22,0.5,afgj-interlock
+rubio_report,Rubio Cuba Report (State Dept.),rubio-cuba,-402,-269,959,-0.23,0.5,rubio-cuba
+rub_nation_of_islam,Nation of Islam,rubio-cuba,-437,-181,941,-0.26,0.5,rubio-cuba
+per_mirely_baca,Mirely Baca,afgj-interlock,-79,665,612,-0.51,0.5,rls-germany
+p_real_food_generation,Real Food Generation,afgj-interlock,99,613,551,-0.69,0.5,afgj-interlock
+p_national_network_opposing_the_militari,National Network Opposing the Militarization of Youth,afgj-interlock,-120,564,525,-0.77,0.5,afgj-interlock
+per_t_loving,T Loving,afgj-interlock,479,-99,467,-0.94,0.5,afgj-interlock
+p_free_mumia_abu_jamal_coalition,Free Mumia Abu-Jamal Coalition,afgj-projects,-468,216,598,-0.97,0.5,afgj-projects
+p_cindy_sheehan_s_soapbox,Cindy Sheehan’s Soapbox,afgj-interlock,395,-167,422,-1.06,0.5,afgj-interlock
+p_return_solidarity,Return Solidarity,afgj-projects,444,-499,563,-1.1,0.5,afgj-projects
+p_solidarity_ignite,Solidarity Ignite,afgj-projects,-519,0,557,-1.12,0.5,afgj-projects
+per_vik_velazquez_morales,Vikó Velazquez Morales,afgj-interlock,158,426,379,-1.19,0.5,afgj-interlock
+per_bella_de_soto,Bella De Soto,afgj-interlock,-101,-197,299,-1.42,0.5,afgj-interlock
+viq,"Rachel Viqueira, MHS",afgj-interlock,21,337,273,-1.5,0.5,afgj-interlock
+per_frank_avellone,Frank Avellone,afgj-interlock,-34,269,218,-1.66,0.5,afgj-interlock
+p_instituto_agroecol_gico_latinoamerican,Instituto Agroecológico Latinoamericano–Mesoamericana (IALA Mesoamerica),afgj-interlock,126,175,138,-1.89,0.5,afgj-interlock
+rub_tupamaros,Tupamaros,rubio-cuba,1895,2009,2294,1.87,0.67,rubio-cuba
+rub_amistur_cuba_sa,Amistur Cuba SA,rubio-cuba,2050,1811,2261,1.82,0.67,rubio-cuba
+rub_p_ram_n_laba_ino,Ramón Labañino,rubio-cuba,1894,1898,2211,1.74,0.67,rubio-cuba
+rub_cuban_mission_to_the_un,Cuban Mission to the UN,rubio-cuba,1787,1925,2159,1.66,0.67,rubio-cuba
+rub_radio_habana,Radio Habana,rubio-cuba,2083,1586,2142,1.64,0.67,rubio-cuba
+rub_p_antonio_guerrero,Antonio Guerrero,rubio-cuba,1781,1757,2031,1.46,0.67,rubio-cuba
+fars_news,Fars News Agency,iran-network,1907,-931,1652,1.37,0.67,iran-network
+rub_p_charles_charlie_hill,Charles 'Charlie' Hill,rubio-cuba,1658,1755,1946,1.33,0.67,rubio-cuba
+ev_maduro_inaug_2025,Maduro 3rd Inauguration (Jan 10 2025),latam-solidarity,978,1839,1547,1.21,0.67,latam-solidarity
+press_tv,Press TV,iran-network,1861,-853,1582,1.21,0.67,iran-network
+zarif,Mohammad Javad Zarif,iran-network,1902,-648,1567,1.18,0.67,iran-network
+iranian_red_crescent,Iranian Red Crescent Society,iran-network,1882,-540,1529,1.09,0.67,iran-network
+maduro,Nicolás Maduro,latam-solidarity,858,1799,1455,0.97,0.67,latam-solidarity
+iran_foreign_ministry,Iranian Ministry of Foreign Affairs,iran-network,1751,-557,1402,0.8,0.67,iran-network
+hub_dead_prez,Dead Prez,afgj-interlock,673,874,1026,0.69,0.67,afgj-interlock
+p_queer_food_foundation,Queer Food Foundation,afgj-interlock,733,784,997,0.6,0.67,afgj-interlock
+p_south_bronx_unite,South Bronx Unite,afgj-interlock,565,876,965,0.51,0.67,afgj-interlock
+per_pablo_benson_silva,Pablo Benson-Silva,afgj-interlock,-715,-499,944,0.45,0.67,afgj-interlock
+atc,ATC — Asociación de Trabajadores del Campo,latam-solidarity,43,1734,1246,0.45,0.67,latam-solidarity
+ortega,Daniel Ortega,latam-solidarity,-109,1699,1241,0.43,0.67,latam-solidarity
+ev_ipa_founding_2019,IPA Founding Assembly (Caracas Feb 2019),latam-solidarity,760,1604,1237,0.42,0.67,latam-solidarity
+per_monxo_lopez,Monxo Lopez,afgj-interlock,-650,-559,932,0.41,0.67,afgj-interlock
+per_gabrielle_lenart,Gabrielle Lenart,afgj-interlock,-563,-588,890,0.29,0.67,afgj-interlock
+hub_opposed_to_militarism_draft,Committee Opposed to Militarism & the Draft,afgj-interlock,120,-801,870,0.23,0.67,afgj-interlock
+hub_revolutionary_communist_party_usa,"Revolutionary Communist Party, USA",afgj-interlock,32,-801,866,0.22,0.67,afgj-interlock
+ev_nica_election_2021,Nicaragua General Election (Nov 2021),latam-solidarity,-181,1584,1152,0.21,0.67,latam-solidarity
+fsln,FSLN — Sandinista National Liberation Front,latam-solidarity,-14,1608,1131,0.15,0.67,latam-solidarity
+p_justice_for_all_coalition,Justice for All Coalition,afgj-interlock,781,447,832,0.12,0.67,afgj-interlock
+per_johnnie_jae,Johnnie Jae,afgj-interlock,806,328,808,0.06,0.67,afgj-interlock
+per_abraham_hassen,Abraham Hassen,afgj-interlock,177,-711,788,-0.0,0.67,afgj-interlock
+ev_nica_delegation_2021,AFGJ Intl Delegation to Nicaragua (Jul 2021),latam-solidarity,-57,1524,1059,-0.03,0.67,latam-solidarity
+per_carl_dix,Carl Dix,afgj-interlock,-669,351,766,-0.07,0.67,afgj-interlock
+per_dakotah_lilly,Dakotah Lilly,afgj-interlock,-660,264,730,-0.17,0.67,afgj-interlock
+per_elaine_brower,Elaine Brower,afgj-interlock,654,414,705,-0.25,0.67,afgj-interlock
+hub_andira_alves,Andira Alves,afgj-interlock,135,510,455,-0.97,0.67,afgj-interlock
+per_andrea_ciannavei,Andrea Ciannavei,afgj-interlock,-31,505,446,-1.0,0.67,afgj-interlock
+hub_green_party,Green Party,afgj-interlock,66,429,365,-1.23,0.67,afgj-interlock
+p_asotrecol,ASOTRECOL,afgj-projects,-436,97,511,-1.3,0.67,afgj-projects
+hub_mott_haven_port_morris_community_land_st,Mott Haven-Port Morris Community Land Stewards,afgj-interlock,80,270,208,-1.68,0.67,afgj-interlock
+per_samantha_butler,Samantha Butler,afgj-interlock,25,202,138,-1.89,0.67,afgj-interlock
+rub_montoneros,Montoneros,rubio-cuba,2108,1897,2362,1.98,0.83,rubio-cuba
+rub_cuban_interests_section,Cuban Interests Section,rubio-cuba,2124,1727,2262,1.82,0.83,rubio-cuba
+hbs,Heinrich Boell Foundation (HBS),rls-germany,-1279,-1903,1906,1.78,0.83,rls-germany
+rub_p_gerardo_hern_ndez,Gerardo Hernández,rubio-cuba,2049,1677,2172,1.68,0.83,rubio-cuba
+rls_berlin,Rosa-Luxemburg-Stiftung e.V. (Berlin),rls-germany,-1149,-1889,1828,1.61,0.83,rls-germany
+rub_m_19,M-19,rubio-cuba,1735,1834,2056,1.5,0.83,rubio-cuba
+fes,Friedrich Ebert Stiftung Inc (FES),rls-germany,-1030,-1834,1725,1.39,0.83,rls-germany
+hispantv,HispanTV,iran-network,1971,-736,1654,1.38,0.83,iran-network
+albamov,ALBA Movimientos,latam-solidarity,893,1945,1602,1.35,0.83,latam-solidarity
+ev_vz_election_2024,Venezuela Presidential Election (Jul 28 2024),latam-solidarity,777,1838,1456,0.98,0.83,latam-solidarity
+ev_wfys_2005,16th World Festival of Youth & Students (Caracas 2005),latam-solidarity,651,1843,1416,0.88,0.83,latam-solidarity
+ev_antifa_festival_2025,International Anti-Fascist Festival (Caracas Jan 9-11 2025),latam-solidarity,716,1772,1372,0.76,0.83,latam-solidarity
+ev_caracas_antifa_2024,Antifascist Congress of Caracas (Nov 28 2024),latam-solidarity,668,1695,1283,0.54,0.83,latam-solidarity
+hub_talib_kweli,Talib Kweli,afgj-interlock,624,784,925,0.39,0.83,afgj-interlock
+per_tef_poe,Tef Poe,afgj-interlock,660,685,875,0.25,0.83,afgj-interlock
+per_dr_patrisia_gonzales,Dr. Patrisia Gonzales,afgj-interlock,-649,-437,854,0.19,0.83,afgj-interlock
+per_vee_morris_moore,Vee Morris Moore,afgj-interlock,-584,-499,843,0.16,0.83,afgj-interlock
+per_evana,Evana,afgj-interlock,73,-724,790,0.0,0.83,afgj-interlock
+marsh,"Nadia Marsh, MD",afgj-interlock,721,356,739,-0.15,0.83,afgj-interlock
+ma,"Simon Ma, MD, MPH",afgj-interlock,-5,588,525,-0.77,0.83,afgj-interlock
+per_mark_swartz,Mark Swartz,afgj-interlock,53,517,452,-0.98,0.83,afgj-interlock
+enkelmann,Dagmar Enkelmann,rls-germany,-1336,-1834,1879,1.72,1.0,rls-germany
+kas,Konrad Adenauer Stiftung Inc (KAS),rls-germany,-1351,-1719,1794,1.54,1.0,rls-germany
+die_linke,Die Linke,rls-germany,-1261,-1727,1748,1.44,1.0,rls-germany
+german_gov,German Federal Government,rls-germany,-1178,-1762,1733,1.41,1.0,rls-germany
+dagdelen,Sevim Dagdelen,rls-germany,-1094,-1730,1663,1.26,1.0,rls-germany
+fns,Friedrich Naumann Foundation (FNS),rls-germany,-1240,-1614,1644,1.22,1.0,rls-germany
+hss,Hanns Seidel Foundation USA (HSS),rls-germany,-1004,-1737,1626,1.19,1.0,rls-germany
+ev_fsp_caracas_2019,25th Foro de São Paulo (Caracas 2019),latam-solidarity,776,1928,1539,1.19,1.0,latam-solidarity
+trochowski,Daniela Trochowski,rls-germany,-1140,-1653,1620,1.17,1.0,rls-germany

@@ -1,0 +1,114 @@
+edge_idx,source,target,relation,slices,confidence,years,min_year,max_year,span_years,ranges,label
+655,rub_venceremos_brigade,icap,interlock,rubio-cuba,confirmed,1960,1960,1960,0,,ICAP-hosted delegation since the 1960s; DI officers 'assigned to ICAP to screen
+611,rub_nation_of_islam,rubio_report,cited_context,rubio-cuba,inferred,1961,1961,1961,0,,1961 Castro-Malcolm X meeting (context)
+834,tricontinental,cuba,named_after,_mined,inferred,1966,1966,1966,0,,named after 1966 Havana conference
+615,rub_olas,rubio_report,cited_context,rubio-cuba,inferred,1967,1967,1967,0,,named: Carmichael 1967 Havana speech
+751,rub_venceremos_brigade,cuba,sends_volunteers_to,_mined,confirmed,1969 2026,1969,2026,57,1969-2026,9 delegations (1969–2026)
+610,rub_montoneros,rubio_report,cited_historical,rubio-cuba,inferred,1970,1970,1970,0,,"sec.I-III: Cuba-funded (1970s, defunct)"
+622,rub_p_charles_charlie_hill,rub_republic_of_new_afrika,role,rubio-cuba,inferred,1971,1971,1971,0,,Republic of New Afrika member; 1971 TWA hijacking to Cuba; fugitive
+170,benjamin,global_exchange,co_founder,iran-network,confirmed,1988,1988,1988,0,,"Co-founded Global Exchange, 1988"
+313,irgens_moller,global_exchange,co_founder,iran-network,confirmed,1988 2011,1988,2011,23,1988-2011,"Co-founded GE 1988; ED 1988-2011, then Sec."
+801,global_exchange,cuba,travel,_mined,confirmed,1990 2026,1990,2026,36,1990-2026,23 delegations (1990–2026)
+1044,rub_ifco_pastors_for_peace,cuba,delegation,delegations,confirmed,1992 2022,1992,2022,30,1992-2022,8 delegations (1992–2022)
+6,nicanet,afgj,project_of,latam-solidarity,confirmed,1998,1998,1998,0,,absorbed as AFGJ project (1998)
+436,per_gila_svirsky,p_coalition_of_women_for_peace,role,afgj-interlock,confirmed,2000,2000,2000,0,,Co-founder (2000); prior 6 years at New Israel Fund
+438,per_hannah_safran,p_coalition_of_women_for_peace,role,afgj-interlock,confirmed,2000,2000,2000,0,,Co-founder (2000); also co-founder of Women in Black
+878,rub_national_network_on_cuba,cuba,supports,_mined,confirmed,2000 2026,2000,2026,26,2000-2026,6 delegations (2000–2026)
+167,benjamin,codepink,co_founder,iran-network,confirmed,2002,2002,2002,0,,"Co-founded CODEPINK Nov 2002; Treasurer, $0 comp"
+261,evans,codepink,co_founder,iran-network,confirmed,2002 2019 2022,2002,2022,20,2019-2022,Co-founded CODEPINK 2002; President 2019-22 (990)
+312,irgens_moller,arc_of_justice,officer,iran-network,confirmed,2006,2006,2006,0,,"Secretary/only paid officer, $10K/yr FY06-13"
+285,ghost_officers,arc_of_justice,officer,iran-network,confirmed,2006 2012,2006,2012,6,2006-2012,"5 unidentified signers on returns, FY2006-2012"
+172,benjamin,iran,foreign_tie,iran-network|singham-spine,confirmed,2008 2019,2008,2019,11,,"Press TV (61 CDR contacts), 2008 & 2019 Tehran delegations, FM Zarif meeting, New Horizon 2014, FBI/"
+173,benjamin,iran_foreign_ministry,met,iran-network,inferred,2008 2019,2008,2019,11,,Nov 2008 CODEPINK delegation met Iranian FM (2008 blog receipt does not name the FM; Benjamin's conf
+346,leila_zand,iran,foreign_tie,iran-network,confirmed,2008 2019,2008,2019,11,,CODEPINK Director of Citizen Diplomacy with Iran; arranged 2008 & 2019 Iranian Foreign Ministry meet
+347,leila_zand,iran_foreign_ministry,met,iran-network,inferred,2008 2019,2008,2019,11,,Arranged 2008 & 2019 CODEPINK-FM meetings (2008 blog receipt names Zand but not the FM meeting; 2019
+444,per_kevin_zeese,p_popular_resistance,role,afgj-interlock,confirmed,2009 2020,2009,2020,11,2009-2020,"Co-founder/Co-director, d. 2020-09-06"
+348,liebich,die_linke,member,rls-germany,confirmed,2009 2021,2009,2021,12,2009-2021,Die Linke Bundestag 2009-2021; foreign-affairs group chair
+254,earle,rls_nyc,officer,rls-germany,confirmed,2012 2019,2012,2019,7,2012-2019,Project Manager 2012-2019
+562,rls_berlin,rls_nyc,funds,rls-germany,confirmed,2012 2025,2012,2025,13,2012-2025,~$19.1M cumulative 2012-2025 (all 'contributions')
+202,chua,rls_nyc,officer,rls-germany,confirmed,2013 2018,2013,2018,5,2013-2018,Office Manager FY2013-2018
+255,ehmsen,rls_nyc,director,rls-germany,confirmed,2013 2018,2013,2018,5,2013-2018,Co-Executive Director (2013-2018)
+662,scharenberg,rls_nyc,director,rls-germany,confirmed,2013 2018,2013,2018,5,2013-2018,Co-Executive Director (2013-2018)
+149,balagun,rls_nyc,officer,rls-germany,confirmed,2013 2020,2013,2020,7,2013-2020,"Project Manager North America/UN, RLS-NYC (2013-2020); a.k.a. Keith Mitchell"
+200,chanoine,rls_nyc,officer,rls-germany,confirmed,2013 2026,2013,2026,13,2013-2026,Financial Manager (2013-present)
+175,benjamin,new_horizon,attended_delegation,iran-network,confirmed,2014,2014,2014,0,,"Attended 2014 New Horizon Tehran conference, award"
+545,press_tv,benjamin,media_appearance,iran-network,confirmed,2014,2014,2014,0,,"Filmed on-camera interview w/ Benjamin, New Horizon 2014"
+679,svart,rls_nyc,participant,rls-germany,inferred,2014,2014,2014,0,,"advisory group, 'Mapping Socialist Strategies' (2014)"
+220,deborah_benjamin,arc_of_justice,related_party,iran-network,confirmed,2014 2016,2014,2016,2,2014-2016,Co-defendant w/ Fund in Unger v. Coyle (2014-16)
+144,arlen_gomez,arc_of_justice,officer,iran-network,confirmed,2014 2018,2014,2018,4,2014-2018,"Secretary, Arc of Justice 2014-2018 (990-PF)"
+677,sunkara,rls_nyc,lecturer,rls-germany,confirmed,2014 2026,2014,2026,12,,2026 Ellen Meiksins Wood Lecturer; 2014 advisory group
+140,arc_of_justice,global_exchange,grant,iran-network,confirmed,2015,2015,2015,0,,"Largest grantee historically, $60K-$405K/yr pre-2015"
+158,bello,rls_nyc,event_participant,rls-germany,inferred,2015,2015,2015,0,,'Bello on the BRICS' event (Apr 2015)
+494,per_page_may,p_assata_s_daughters,role,afgj-interlock,confirmed,2015,2015,2015,0,,Founder (2015
+687,tighe_barry,iranian_red_crescent,attended_delegation,iran-network,confirmed,2015,2015,2015,0,,2015 Iranian Red Crescent peace-boat voyage
+130,alvin_benjamin,arc_of_justice,funds,iran-network,confirmed,2015 2019,2015,2019,4,,$23.8M via estate: FY15 $15M + FY19 $8.8M (990-PF)
+686,tighe_barry,iran,foreign_tie,iran-network,confirmed,2015 2019,2015,2019,4,,"CODEPINK Art Director; 2015 Iranian Red Crescent ship delegation, October 2019 Tehran delegation"
+137,arc_of_justice,afgj,grant,iran-network,confirmed,2015 2022,2015,2022,7,2015-2022,"$118,050 cumulative FY2015-2022 (990-PF Sched I)"
+139,arc_of_justice,codepink,related_party,iran-network,confirmed,2015 2022,2015,2022,7,2015-2022,$1.808M cumulative 2015-22; IRS related party (X)
+568,rls_nyc,ydsa,funds,rls-germany,inferred,2016,2016,2016,0,,'Generation Left' Winter Conference co-sponsor (Feb 2016)
+375,nmeyer,dsa,member,rls-germany,confirmed,2016 2018,2016,2018,2,2016-2018,Bread & Roses caucus lead; NYC-DSA treasurer 2016-2018
+209,codepink,ncri_report,cited_by_ncri,iran-network,inferred,2016 2022,2016,2022,6,2016-2022,$1.7M+ from Arc of Justice (2016-22)
+243,dsa,fsp,participated,latam-solidarity,confirmed,2016 2023,2016,2023,7,,observer delegation (22nd Encuentro 2016); DSA is São Paulo Forum associate since 2023
+270,evans,singham,related_party,iran-network,confirmed,2017,2017,2017,0,,Married Singham 2017 (Banks/Cotton Senate letters)
+701,wathington,psf,former_officer,singham-spine,inferred,2017,2017,2017,0,,Treasurer/Director until 2017
+141,arc_of_justice,grassroots_intl,grant,iran-network,confirmed,2017 2022,2017,2022,5,2017-2022,$1.46M cumulative FY2017-2022 (990-PF Sched I)
+318,jef,pf,funds,singham-spine,confirmed,2017 2022,2017,2022,5,2017-2022,>$20M 2017-2022
+541,prashad,rls_nyc,contributor,rls-germany,confirmed,2017 2025,2017,2025,8,,"published on rosalux.nyc (2013, 2017); RLS Berlin HQ speaker (Jun 2025)"
+367,mfernandez,rls_nyc,officer,rls-germany,confirmed,2017 2026,2017,2026,9,2017-2026,Program Manager (2017-present)
+251,earle,dsa,cochair,rls-germany,confirmed,2018,2018,2018,0,,"DSA International Committee co-chair (Oct 2018+, concurrent with RLS payroll)"
+431,per_frank_avellone,p_chicago_housing_justice_league,role,afgj-interlock,confirmed,2018,2018,2018,0,,"Founder (2018); attorney, 40 years in worker/housing issues; former policy director & senior attorne"
+661,scharenberg,cpc,organized_delegation,rls-germany,inferred,2018,2018,2018,0,,organized the Mar 2018 European delegation to the CPC Summit
+143,arc_of_justice,social_good_fund,grant,iran-network,confirmed,2018 2022,2018,2022,4,2018-2022,$855K cumulative FY2018-2022 (990-PF Sched I)
+132,ann_wright,iran,foreign_tie,iran-network,confirmed,2019,2019,2019,0,,"co-organized Feb 2019 CODEPINK Tehran delegation, met FM Zarif, FBI-interrogated on return"
+133,ann_wright,zarif,met,iran-network,confirmed,2019,2019,2019,0,,"Encountered FM Zarif at Tehran University, Feb 2019"
+169,benjamin,fars_news,media_appearance,iran-network,confirmed,2019,2019,2019,0,,"Press conference at FNA College of Journalism, Feb 2019"
+176,benjamin,zarif,met,iran-network,confirmed,2019,2019,2019,0,,"90-min private meeting w/ FM Zarif, Tehran, Feb 2019"
+201,chua,dsa,officer,rls-germany,confirmed,2019,2019,2019,0,,DSA Assistant to National Director (Jan 2019+); active DSA member while on RLS payroll
+206,codepink,hispantv,attended_delegation,iran-network,confirmed,2019,2019,2019,0,,Feb 2019 delegation stop at HispanTV (OFAC-sanctioned)
+210,codepink,press_tv,attended_delegation,iran-network,confirmed,2019,2019,2019,0,,Feb 2019 CODEPINK delegation stop at Press TV
+222,delacruz,ev_ipa_founding_2019,attended,latam-solidarity,confirmed,2019,2019,2019,0,,attended IPA Caracas 2019
+311,ipa,ev_ipa_founding_2019,founded_at,latam-solidarity,confirmed,2019,2019,2019,0,,founding assembly Caracas Feb 2019
+417,per_devin_michael_lowe,p_black_trans_travel_fund,role,afgj-interlock,confirmed,2019,2019,2019,0,,Founder & Co-Director (actor and activist; founded BTTF June 2019
+689,ucf,pf,funds,rls-germany,confirmed,2019,2019,2019,0,,$3.015M (2019)
+546,press_tv,benjamin,phone_contact,iran-network,confirmed,2019 2022,2019,2022,3,2019-2022,61 outbound calls 2019-22; rank-2 CDR recipient
+290,gunther,rls_nyc,director,rls-germany,confirmed,2019 2023,2019,2023,4,2019-2023,Executive Director (2019-2023)
+320,jonathan_raggett,arc_of_justice,officer,iran-network,confirmed,2019 2026,2019,2026,7,2019-2026,"Secretary, Arc of Justice 2019-present (990-PF)"
+443,per_kevin_zeese,p_kevin_zeese_emerging_activists_fund,role,afgj-interlock,confirmed,2020,2020,2020,0,,Namesake / Founder (deceased Sept. 2020; fund created in his memory
+248,duhalde,dsa_fund,former_chair,rls-germany,confirmed,2020 2025,2020,2025,5,2020-2025,DSA Fund chair (2020-2025)
+461,per_mattie,p_taking_black_pride,role,afgj-interlock,confirmed,2021,2021,2021,0,,"Core Organizer (also co-founder, Trans Women of Color Solidarity Network; helped pass WA SB5313 Gend"
+317,jef,codepink,grant,iran-network,confirmed,2021 2022,2021,2022,1,,"$250,856(2021)+$109,735(2022)=$360,591 (990)"
+316,jef,afgj,grant,iran-network,confirmed,2022,2022,2022,0,,"$10,000 (2022) (990)"
+756,hatuey,cuba,solidarity,_mined,confirmed,2022 2026,2022,2026,4,2022-2026,11 delegations (2022–2026)
+212,codepink,samidoun,hosted,iran-network,confirmed,2023,2023,2023,0,,"Jan 2023 joint campaign; hosted materials, endorser"
+218,dagdelen,die_linke,former_member,rls-germany,confirmed,2023,2023,2023,0,,Die Linke deputy chair; left 2023 (BSW)
+244,dsa,pi,member,rls-germany,confirmed,2023,2023,2023,0,,DSA formal member (Oct 2023)
+349,liebich,rls_nyc,director,rls-germany,confirmed,2023,2023,2023,0,,Executive Director (2023+)
+1056,rub_african_national_congress,icap,supported,rubio-cuba,confirmed,2023,2023,2023,0,,"ANC supported visiting ICAP delegation, S. Africa (2023)"
+1057,inv_sacp,icap,supported,rubio-cuba,confirmed,2023,2023,2023,0,,SACP supported visiting ICAP delegation (2023)
+1058,inv_cosatu,icap,supported,rubio-cuba,confirmed,2023,2023,2023,0,,COSATU supported visiting ICAP delegation (2023)
+228,delacruz,psl,pres_nominee,hatuey,confirmed,2024,2024,2024,0,,2024 pres nominee
+278,garcia,psl,vp_candidate,hatuey,confirmed,2024,2024,2024,0,,2024 VP nominee
+284,german_gov,rls_berlin,funds,rls-germany,confirmed,2024,2024,2024,0,,EUR 71.2M (2024); formula on Die Linke vote share
+322,jvp,iran,foreign_tie,iran-network,inferred,2024,2024,2024,0,,weak: council member at 2024 Iran meeting
+499,per_rachel_wilson,p_chicago_housing_justice_league,role,afgj-interlock,confirmed,2024,2024,2024,0,,Senior Organizer (since 2024
+534,pf,ev_vz_election_2024,convened_solidarity,latam-solidarity,confirmed,2024,2024,2024,0,,hosted 41-org sign-on (Jul 27 2024)
+547,psf,jef,grant,iran-network,confirmed,2024,2024,2024,0,,$5.37M (2024) (990)
+602,rub_ifco_pastors_for_peace,rub_claudia_jones_school,fiscal_sponsor,rubio-cuba,inferred,2024,2024,2024,0,,"fiscal sponsor ($11,068 disbursed 2024)"
+673,stein,iran,foreign_tie,iran-network,confirmed,2024,2024,2024,0,,"attended Sept 2024 NYC meeting convened by Iranian government with President Pezeshkian, days before"
+171,benjamin,iran,attended_delegation,iran-network,confirmed,2024 2026,2024,2026,2,2024-2026,"Self-reports decades of Iran trips, ~6/yr 2024-26"
+195,cea_weaver,dsa,organizer,rls-germany,confirmed,2025,2025,2025,0,,NYC-DSA housing lead -> Mamdani admin appointee (2025)
+203,clarkgollub,ev_antifa_festival_2025,hosted,latam-solidarity,confirmed,2025,2025,2025,0,,moderated VSN Venezuela webinar (2025)
+246,dsa_fund,jacobin,joint_poll,rls-germany,confirmed,2025,2025,2025,0,,co-commissioned Nov 2025 poll (Data for Progress fieldwork)
+249,duhalde,rls_nyc,commissioned_author,rls-germany,confirmed,2025,2025,2025,0,,'The Long Reroute' (2025) — DSA national-convention prep material
+292,harris,ev_antifa_festival_2025,attended,latam-solidarity,confirmed,2025,2025,2025,0,,US Peace Council; attended (Jan 2025)
+361,maduro,ev_maduro_inaug_2025,inaugurated,latam-solidarity,confirmed,2025,2025,2025,0,,3rd inauguration Jan 10 2025
+425,per_elisabeth_epps,p_colorado_freedom_fund,role,afgj-interlock,confirmed,2025,2025,2025,0,,"Founder and Executive Director (also former Colorado State Representative, D-Denver, through Jan 202"
+486,per_nathan_sheard,p_black_movement_law_project,role,afgj-interlock,confirmed,2025,2025,2025,0,,Co-founder; managing director of advocacy (as of 2025
+538,pf,rub_national_network_on_cuba,hosted,rubio-cuba,inferred,2025,2025,2025,0,,hosted US-Cuba conf; NNOC-endorsed (2025)
+548,psl,ev_antifa_festival_2025,attended,latam-solidarity,confirmed,2025,2025,2025,0,,attended Caracas Anti-Fascist Fest (2025)
+564,rls_nyc,dsa_fund,joint_poll,rls-germany,confirmed,2025,2025,2025,0,,'Democratic Socialism Is Now Mainstream' poll (Nov 2025)
+565,rls_nyc,jacobin,cosponsor,rls-germany,confirmed,2025,2025,2025,0,,co-sponsored events; co-commissioned Nov 2025 poll
+691,uspc,ev_antifa_festival_2025,attended,latam-solidarity,confirmed,2025,2025,2025,0,,R. Harris attended (Jan 2025)
+196,cea_weaver,rls_nyc,collaborator,rls-germany,confirmed,2026,2026,2026,0,,"'years of collaboration' (per Liebich, 2026)"
+1054,icap,rub_venceremos_brigade,hosted,rubio-cuba,confirmed,2026,2026,2026,0,,inaugurated Venceremos brigade at ICAP camp (2026)
+1055,icap,inv_juan_ruiz_rivera_brigade,hosted,rubio-cuba,confirmed,2026,2026,2026,0,,inaugurated PR brigade at ICAP camp; medical handover (2026)

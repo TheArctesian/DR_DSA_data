@@ -1,0 +1,51 @@
+source,label,kind,source_final_country,tied_to_state,edge_label,confidence,slices
+anderson-figueroa,Jo Anderson-Figueroa,person,,China,China tie,inferred,singham-spine
+belen,Matthew Matt Belen,person,,China,China tie,inferred,singham-spine
+ben_becker,Ben Becker,person,US,China,China tie,inferred,singham-spine
+benjamin,Medea Benjamin,person,,China,China tie,inferred,singham-spine
+brian_becker,Brian Becker,person,,China,China tie,inferred,singham-spine
+chak,Tings Chak,person,,China,China tie,inferred,singham-spine
+codepink,CODEPINK,org,US,China,foreign tie,inferred,_mined
+croce,STEIN-DELLA CROCE,person,,China,China tie,inferred,singham-spine
+evans,Jodie Evans,person,,China,China tie,inferred,singham-spine
+garcia,Karina Garcia,person,,China,"director/treasurer, Singham JEF",inferred,singham-spine
+goodwin,Alicia Thilani Singham Goodwin,person,,China,China tie,inferred,singham-spine
+grenyion,Kristen Grenyion,person,,China,China tie,inferred,singham-spine
+henderson,Rita Henderson,person,,China,China tie,inferred,singham-spine
+hrizi,Nathalie Patricia Hrizi,person,,China,China tie,inferred,singham-spine
+hu,Rachel Hu,person,,China,China tie,inferred,singham-spine
+kleiner,Franziska Kleiner,person,,China,ran United Community Fund (Thoughtworks),inferred,singham-spine
+richard_becker,Richard Becker,person,,China,China tie,inferred,singham-spine
+singham,Neville Roy Singham,person,China,China,China tie,inferred,singham-spine
+singham_shanti,Shanti Singham,person,China,China,China tie,inferred,singham-spine
+tighe_barry,Tighe Barry,person,US,China,"visited China 2026, praised CCP",inferred,singham-spine
+baker_gordon,General Gordon Baker Jr.,person,,Cuba,Cuba tie,inferred,singham-spine
+baptist,William Willie Baptist Jr.,person,,Cuba,Cuba tie,inferred,singham-spine
+bounds,Tajee Bounds,person,,Cuba,led BLM delegation to Cuba,inferred,singham-spine
+craig,Hannah Priscilla Craig,person,,Cuba,Cuba tie,inferred,singham-spine
+delossantos,Manolo de los Santos,person,US,Cuba,foreign tie,inferred,_mined
+hrizi,Nathalie Patricia Hrizi,person,,Cuba,Cuba tie,inferred,singham-spine
+rub_zimbabwe_african_people_s,Zimbabwe African People's Union,org,Zimbabwe,Cuba,Soviet/Cuban-trained ZPRA (historical),inferred,rubio-cuba
+venezuela,Venezuela,concept,Venezuela,Cuba,foreign tie,inferred,_mined
+rub_palestinian_islamic_jihad,Palestinian Islamic Jihad,org,,Hezbollah,foreign tie,inferred,_mined
+ann_wright,Ann Wright,person,,Iran,"co-organized Feb 2019 CODEPINK Tehran delegation, met FM Zarif, FBI-interrogated on return",confirmed,iran-network
+benjamin,Medea Benjamin,person,,Iran,"Press TV (61 CDR contacts), 2008 & 2019 Tehran delegations, FM Zarif meeting, New Horizon 2014, FBI/FARA interrogation",confirmed,iran-network|singham-spine
+delacruz,Claudia De la Cruz,person,US,Iran,Iran tie,inferred,singham-spine
+delossantos,Manolo de los Santos,person,US,Iran,praised Iran 'resistance'; Times Sq protests,inferred,singham-spine
+evans,Jodie Evans,person,,Iran,Arc of Justice registered agent; no direct personal Iran-contact receipt found (financial/legal infrastructure tie only),inferred,iran-network|singham-spine
+jvp,Jewish Voice for Peace (JVP),org,,Iran,weak: council member at 2024 Iran meeting,inferred,iran-network
+leila_zand,Leila Zand,person,,Iran,CODEPINK Director of Citizen Diplomacy with Iran; arranged 2008 & 2019 Iranian Foreign Ministry meetings,confirmed,iran-network
+niac,National Iranian American Council (NIAC),org,US,Iran,"Iranian-American advocacy org; founder arranged Congressional meetings for FM Zarif; Senate FARA referral (access/contact tie, not funding)",confirmed,iran-network
+reyes,Karla Reyes,person,,Iran,Iran tie,inferred,singham-spine
+stein,Abby Stein (JVP Rabbinical Council),person,Iran,Iran,"attended Sept 2024 NYC meeting convened by Iranian government with President Pezeshkian, days before Iran's missile strikes on Israel",confirmed,iran-network
+tighe_barry,Tighe Barry,person,US,Iran,"CODEPINK Art Director; 2015 Iranian Red Crescent ship delegation, October 2019 Tehran delegation",confirmed,iran-network
+belen,Matthew Matt Belen,person,,Russia,Russia tie,inferred,singham-spine
+hu,Rachel Hu,person,,Russia,Russia tie,inferred,singham-spine
+lariva,Gloria La Riva,person,,Russia,Russia tie,inferred,singham-spine
+puryear,Eugene Puryear,person,,Russia,Russia tie,inferred,singham-spine
+rub_p_george_galloway,George Galloway,person,UK,Russia,foreign tie,inferred,_mined
+psl,Party for Socialism & Liberation,org,US,Tricontinental: Institute for Social Research,foreign tie,inferred,_mined
+delacruz,Claudia De la Cruz,person,US,Venezuela,Venezuela tie,inferred,singham-spine
+lariva,Gloria La Riva,person,,Venezuela,Venezuela tie,inferred,singham-spine
+rub_p_gustavo_petro,Gustavo Petro,person,Colombia,Venezuela,foreign tie,inferred,_mined
+singham,Neville Roy Singham,person,China,Venezuela,Venezuela tie,inferred,singham-spine

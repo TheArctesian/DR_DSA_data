@@ -1,0 +1,29 @@
+person,label,org,org_label,relation,confidence
+ben_becker,Ben Becker,answer,ANSWER Coalition,former_organizer,confirmed
+ben_becker,Ben Becker,btm,BreakThrough News,editor,inferred
+ben_becker,Ben Becker,btm,BreakThrough News,editor-in-chief,inferred
+ben_becker,Ben Becker,ev_wfys_2005,16th World Festival of Youth & Students (Caracas 2005),led,confirmed
+benjamin,Medea Benjamin,arc_of_justice,"Arc of Justice (fka Benjamin Fund, Inc.)",officer,confirmed
+benjamin,Medea Benjamin,codepink,CODEPINK,co_founder,confirmed
+benjamin,Medea Benjamin,codepink,CODEPINK,role,inferred
+benjamin,Medea Benjamin,global_exchange,Global Exchange,co_founder,confirmed
+benjamin,Medea Benjamin,hub_green_shadow_cabinet,Green Shadow Cabinet,role,inferred
+benjamin,Medea Benjamin,rub_hamas,Hamas,coordinator,inferred
+brian_becker,Brian Becker,answer,ANSWER Coalition,national_coordinator,confirmed
+brian_becker,Brian Becker,btm,BreakThrough News,role,inferred
+brian_becker,Brian Becker,pf,The People's Forum,instructor,confirmed
+brian_becker,Brian Becker,psl,Party for Socialism & Liberation,co_founder,confirmed
+danaher,Maya (Mandela) Danaher,arc_of_justice,"Arc of Justice (fka Benjamin Fund, Inc.)",officer,confirmed
+garcia,Karina Garcia,jef,Justice and Education Fund (JEF),director,inferred
+garcia,Karina Garcia,psl,Party for Socialism & Liberation,vp_candidate,confirmed
+kramer,Marian Kramer,gbi,General Baker Institute,trustee,inferred
+lariva,Gloria La Riva,hatuey,The Hatuey Project,coordinator,confirmed
+lariva,Gloria La Riva,psl,Party for Socialism & Liberation,founder,confirmed
+richard_becker,Richard Becker,answer,ANSWER Coalition,coordinator,confirmed
+richard_becker,Richard Becker,psl,Party for Socialism & Liberation,co_founder,confirmed
+rub_p_bernardine_dohrn,Bernardine Dohrn,nlg,National Lawyers Guild,organizer,inferred
+rub_p_bernardine_dohrn,Bernardine Dohrn,rub_students_for_a_democratic,Students for a Democratic Society,officer,inferred
+rub_p_bernardine_dohrn,Bernardine Dohrn,rub_weather_underground,Weather Underground,role,inferred
+rub_p_bill_ayers,Bill Ayers,rub_weather_underground,Weather Underground,role,inferred
+rub_p_kathy_boudin,Kathy Boudin,rub_may_19th_communist_organiz,May 19th Communist Organization,role,inferred
+rub_p_kathy_boudin,Kathy Boudin,rub_weather_underground,Weather Underground,role,inferred

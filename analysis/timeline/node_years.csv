@@ -1,0 +1,109 @@
+id,label,kind,primary_slice,years,min_year,max_year,span_years,ranges
+fsp,Foro de São Paulo,concept,latam-solidarity,1990 2019,1990,2019,29,
+global_exchange,Global Exchange,org,iran-network,1988 2015,1988,2015,27,
+irgens_moller,Kirsten Irgens-Moller,person,iran-network,1988 2006 2011 2013,1988,2013,25,1988-2011; 2006-2013; 2011-2013
+evans,Jodie Evans,person,iran-network,2002 2017 2019 2022,2002,2022,20,2019-2022
+nicanet,Nicaragua Network,org,latam-solidarity,1979 1998,1979,1998,19,
+deborah_benjamin,Deborah Coyle Benjamin,person,iran-network,2000 2012 2014 2016,2000,2016,16,2014-2016
+liebich,Stefan Liebich,person,rls-germany,2009 2021 2023,2009,2023,14,2009-2021
+hoyt,Katherine Hoyt,person,latam-solidarity,2003 2016,2003,2016,13,2003-2016
+afgj,Alliance for Global Justice,org,afgj-interlock,2009 2022,2009,2022,13,2009-2022
+rls_nyc,Rosa Luxemburg Stiftung Inc (RLS-NYC),org,rls-germany,2012 2025,2012,2025,13,2012-2025
+chanoine,Claudette Chanoine,person,rls-germany,2013 2026,2013,2026,13,2013-2026
+sunkara,Bhaskar Sunkara,person,rls-germany,2014 2026,2014,2026,12,
+iran_foreign_ministry,Iranian Ministry of Foreign Affairs,org,iran-network,2008 2019,2008,2019,11,
+leila_zand,Leila Zand,person,iran-network,2008 2019,2008,2019,11,
+rub_communist_party_usa,Communist Party USA,org,rubio-cuba,1947 1950 1956,1947,1956,9,
+rub_faln,FALN,org,rubio-cuba,1974 1983,1974,1983,9,1974-1983
+lowengard,Elizabeth Lowengard,person,singham-spine,2015 2024,2015,2024,9,2015-2024
+prashad,Vijay Prashad,person,rls-germany,2017 2025,2017,2025,8,
+danaher,Maya (Mandela) Danaher,person,iran-network,2018 2025 2026,2018,2026,8,2025-2026
+delacruz,Claudia De la Cruz,person,hatuey,2018 2019 2024 2026,2018,2026,8,2024-2026; 2018-2024
+earle,Ethan Earle,person,rls-germany,2012 2019,2012,2019,7,2012-2019
+jonathan_raggett,Jonathan 'Jonny' Raggett,person,iran-network,2019 2026,2019,2026,7,2019-2026
+ghost_officers,Ghost Officers (5 unidentified signers),concept,iran-network,2006 2012,2006,2012,6,2006-2012
+chua,Heidi Chua,person,rls-germany,2013 2018 2019,2013,2019,6,2013-2018
+singham,Neville Roy Singham,person,hatuey,2017 2022 2023,2017,2023,6,2017-2022
+gunther,Andreas Günther,person,rls-germany,2018 2024,2018,2024,6,2018-2024
+ehmsen,Stefanie Ehmsen,person,rls-germany,2013 2018,2013,2018,5,2013-2018
+scharenberg,Albert Scharenberg,person,rls-germany,2013 2018,2013,2018,5,2013-2018
+ncri_report,Following the Benjamins: How a $48 Million Foundation Operated an Iran-Aligned Influence Network Outside State Oversight in Florida,concept,iran-network,2014 2019,2014,2019,5,
+bap,Black Alliance for Peace,org,latam-solidarity,2021 2026,2021,2026,5,
+arlen_gomez,Arlen Benjamin-Gomez,person,iran-network,2014 2018,2014,2018,4,2014-2018
+lariva,Gloria La Riva,person,afgj-interlock,2016 2020,2016,2020,4,
+social_good_fund,Social Good Fund,org,iran-network,2018 2022,2018,2022,4,2018-2022
+wider,Phil Wider,person,singham-spine,2018 2022,2018,2022,4,2018-2022
+santos,Lucas Tinti dos Santos,person,singham-spine,2019 2023,2019,2023,4,2019-2023
+dsa,Democratic Socialists of America,org,latam-solidarity,2021 2024,2021,2024,3,
+codepink,CODEPINK,org,iran-network,2023 2026,2023,2026,3,
+nmeyer,Neal Meyer,person,rls-germany,2016 2018,2016,2018,2,2016-2018
+taylor,Nancy Taylor,person,singham-spine,2017 2018 2019,2017,2019,2,2017-2018
+henderson,Rita Henderson,person,singham-spine,2019 2021,2019,2021,2,2019-2021
+janequine,Olivia Goncalves Janequine,person,singham-spine,2018 2019,2018,2019,1,2018-2019
+jef,Justice and Education Fund (JEF),org,iran-network,2021 2022,2021,2022,1,2021-2022
+jacobin,Jacobin,org,rls-germany,2025 2026,2025,2026,1,
+rub_fair_play_for_cuba_committ,Fair Play for Cuba Committee,org,rubio-cuba,1960,1960,1960,0,
+rub_venceremos_brigade,Venceremos Brigade,org,rubio-cuba,1969,1969,1969,0,
+fsln,FSLN — Sandinista National Liberation Front,org,latam-solidarity,1979,1979,1979,0,
+rub_macheteros,Macheteros,org,rubio-cuba,1979,1979,1979,0,
+rub_m_19,M-19,org,rubio-cuba,1980,1980,1980,0,
+per_gary_ghirardi,Gary Ghirardi,person,afgj-interlock,2000,2000,2000,0,
+richard_becker,Richard Becker,person,hatuey,2004,2004,2004,0,
+ben_becker,Ben Becker,person,hatuey,2005,2005,2005,0,
+ev_wfys_2005,16th World Festival of Youth & Students (Caracas 2005),concept,latam-solidarity,2005,2005,2005,0,
+anderson-figueroa,Jo Anderson-Figueroa,person,singham-spine,2009,2009,2009,0,
+per_kevin_zeese,Kevin Zeese,person,afgj-interlock,2011,2011,2011,0,
+svart,Maria Svart,person,rls-germany,2014,2014,2014,0,
+bello,Walden Bello,person,rls-germany,2015,2015,2015,0,
+iranian_red_crescent,Iranian Red Crescent Society,org,iran-network,2015,2015,2015,0,
+per_page_may,Page May,person,afgj-interlock,2015,2015,2015,0,
+puryear,Eugene Puryear,person,singham-spine,2016,2016,2016,0,
+ydsa,Young DSA (YDSA),org,rls-germany,2016,2016,2016,0,
+per_carl_dix,Carl Dix,person,afgj-interlock,2017,2017,2017,0,
+wathington,Chad Wathington,person,singham-spine,2017,2017,2017,0,
+abbott,Diane Abbott,person,rls-germany,2018,2018,2018,0,
+bournous,Yiannis Bournous,person,rls-germany,2018,2018,2018,0,
+cpc,Congressional Progressive Caucus,org,rls-germany,2018,2018,2018,0,
+maura,Eduardo Maura,person,rls-germany,2018,2018,2018,0,
+tricontinental,Tricontinental: Institute for Social Research,org,latam-solidarity,2018,2018,2018,0,
+ann_wright,Ann Wright,person,iran-network,2019,2019,2019,0,
+burke,Tom Burke,person,latam-solidarity,2019,2019,2019,0,
+ipa,International Peoples' Assembly,concept,latam-solidarity,2019,2019,2019,0,
+new_horizon,New Horizon Organization,org,iran-network,2019,2019,2019,0,
+o4p,Organizing for Power (O4P),project,rls-germany,2019,2019,2019,0,
+rub_naacp,NAACP,org,rubio-cuba,2019,2019,2019,0,
+zarif,Mohammad Javad Zarif,person,iran-network,2019,2019,2019,0,
+niac,National Iranian American Council (NIAC),org,iran-network,2020,2020,2020,0,
+kaufman,Chuck Kaufman,person,latam-solidarity,2021,2021,2021,0,
+hatuey,The Hatuey Project,project,hatuey,2022,2022,2022,0,
+krouth,Kristine Teresa Krouth,person,singham-spine,2022,2022,2022,0,
+german_gov,German Federal Government,concept,rls-germany,2023,2023,2023,0,
+pi,Progressive International,org,rls-germany,2023,2023,2023,0,
+inv_sacp,South African Communist Party (SACP),org,rubio-cuba,2023,2023,2023,0,
+inv_cosatu,COSATU (Congress of South African Trade Unions),org,rubio-cuba,2023,2023,2023,0,
+camacaro,William Camacaro,person,latam-solidarity,2024,2024,2024,0,
+clarkgollub,Jill Clark-Gollub,person,latam-solidarity,2024,2024,2024,0,
+delossantos,Manolo de los Santos,person,hatuey,2024,2024,2024,0,
+garcia,Karina Garcia,person,hatuey,2024,2024,2024,0,
+harris,Roger D. Harris,person,latam-solidarity,2024,2024,2024,0,
+kuang,Savannah Kuang,person,latam-solidarity,2024,2024,2024,0,
+nlg,National Lawyers Guild,org,latam-solidarity,2024,2024,2024,0,
+nunez,Marlon Matthew Nunez,person,latam-solidarity,2024,2024,2024,0,
+per_rachel_wilson,Rachel Wilson,person,afgj-interlock,2024,2024,2024,0,
+rls_berlin,Rosa-Luxemburg-Stiftung e.V. (Berlin),org,rls-germany,2024,2024,2024,0,
+samidoun,Samidoun Palestinian Prisoner Solidarity Network,org,iran-network,2024,2024,2024,0,
+souers,Wyatt Souers,person,latam-solidarity,2024,2024,2024,0,
+stein,Abby Stein (JVP Rabbinical Council),person,iran-network,2024,2024,2024,0,
+xiao,Sheila Xiao,person,singham-spine,2024,2024,2024,0,
+cea_weaver,Cea Weaver,person,rls-germany,2025,2025,2025,0,
+cook,Claire Cook,person,singham-spine,2025,2025,2025,0,
+dpaul,David Paul,person,latam-solidarity,2025,2025,2025,0,
+dsa_fund,DSA Fund,org,rls-germany,2025,2025,2025,0,
+duhalde,David Duhalde,person,rls-germany,2025,2025,2025,0,
+dwilliams,David Williams,person,rls-germany,2025,2025,2025,0,
+goodwin,Alicia Thilani Singham Goodwin,person,singham-spine,2025,2025,2025,0,
+valente,Mónica Valente,person,latam-solidarity,2025,2025,2025,0,
+mfernandez,Mariana Fernandez,person,rls-germany,2026,2026,2026,0,
+rub_changingfrequencies,changingFrequencies,org,rubio-cuba,2026,2026,2026,0,
+seal,ICAP 65th-Anniversary Seal,concept,hatuey,2026,2026,2026,0,
+inv_juan_ruiz_rivera_brigade,"""Juan Ruiz Rivera"" Puerto Rican Solidarity Brigade",org,rubio-cuba,2026,2026,2026,0,

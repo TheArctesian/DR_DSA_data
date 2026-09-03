@@ -1,0 +1,17 @@
+id,label,kind,layer,ideology,country,slices,edges,relations
+pflp,Popular Front for the Liberation of Palestine (PFLP),org,terror,natlib,,iran-network|rubio-cuba,8,collaborator 2; role 1; cited_designation 1; designated 1
+rub_alpha_66,Alpha 66,org,opposition,,,rubio-cuba,6,infiltrated 4; cited_opposition 1; active_in 1
+rub_brothers_to_the_rescue,Brothers to the Rescue,org,opposition,,,rubio-cuba,6,infiltrated 4; cited_opposition 1; opposes 1
+rub_cuban_american_national_fo,Cuban American National Foundation,org,opposition,,,rubio-cuba,7,infiltrated 4; cited_opposition 1; opposes 1; advocated_isolation_of 1
+rub_democratic_front_for_the_l,Democratic Front for the Liberation of Palestine,org,terror,natlib,,rubio-cuba,5,cited_designation 1; role 1; member 1; split 1
+rub_eln,ELN,org,terror,natlib,,rubio-cuba,1,cited_designation 1
+rub_f_4_commandos,F-4 Commandos,org,opposition,,,rubio-cuba,1,cited_opposition 1
+rub_hamas,Hamas,org,terror,islamist,,rubio-cuba,10,collaborator 3; justified 2; cited_designation 1; did_not_condemn 1
+rub_hezbollah,Hezbollah,org,terror,islamist,,rubio-cuba,4,affiliation 2; cited_designation 1; foreign_tie 1
+rub_houthis,Houthis,org,terror,islamist,,rubio-cuba,1,cited_designation 1
+rub_m_19,M-19,org,terror,natlib,,rubio-cuba,2,cited_designation 1; role 1
+rub_montoneros,Montoneros,org,terror,natlib,,rubio-cuba,1,cited_historical 1
+rub_palestine_liberation_organ,Palestine Liberation Organization,org,terror,natlib,,rubio-cuba,3,member 2; cited_designation 1
+rub_palestinian_islamic_jihad,Palestinian Islamic Jihad,org,terror,islamist,,rubio-cuba,5,collaborator 2; cited_designation 1; funds 1; foreign_tie 1
+rub_tupamaros,Tupamaros,org,terror,natlib,,rubio-cuba,1,cited_designation 1
+samidoun,Samidoun Palestinian Prisoner Solidarity Network,org,terror,natlib,,iran-network|afgj-projects,8,hosted 2; co-organizer 2; designated 1; co_sponsor 1

@@ -1,0 +1,9 @@
+primary_slice,nodes,centroid_x,centroid_y,mean_dist_to_centroid,mean_share_of_6_nearest_in_same_slice,knn_majority_agrees,agree_share
+afgj-interlock,156,42,65,789,0.34,76,49%
+rubio-cuba,86,379,288,1104,0.24,24,28%
+afgj-projects,74,24,-125,856,0.18,15,20%
+singham-spine,56,4,191,753,0.14,10,18%
+rls-germany,46,-277,-282,1068,0.3,11,24%
+latam-solidarity,42,206,498,1070,0.31,14,33%
+iran-network,36,367,-334,1052,0.21,7,19%
+hatuey,16,534,261,1271,0.06,0,0%

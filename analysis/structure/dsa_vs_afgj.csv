@@ -1,0 +1,3 @@
+id,label,layer,neighbours,degree_rank,betweenness,betweenness_rank,reach_1hop,reach_2hop,reach_2hop_share,n_slices,layout_xy
+dsa,Democratic Socialists of America,veneer,21,11,10446.3,6,21,91,18%,3,"(0, 0)"
+afgj,Alliance for Global Justice,center,150,1,84732.2,1,150,340,67%,5,"(1081, 25)"
